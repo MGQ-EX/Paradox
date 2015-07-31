@@ -1,0 +1,603 @@
+# States (partial translation)
+
+<<states/31/name>>
+Hi Berserk
+
+<<states/31/message1>>
+ has gone berserk!
+
+<<states/31/message2>>
+ has gone berserk!
+
+<<states/31/message3>>
+ is rampaging...
+
+<<states/31/message4>>
+ has calmed down!
+
+<<states/32/name>>
+Transform!
+
+<<states/32/message4>>
+'s transformation wore off!
+
+<<states/35/name>>
+Large HP/turn recovery
+
+<<states/35/message1>>
+'s metabolism has been invigorated!
+
+<<states/35/message2>>
+'s metabolism has been invigorated!
+
+<<states/35/message4>>
+'s metabolism has returned to normal.
+
+<<states/38/name>>
+Large MP/turn recovery
+
+<<states/38/message1>>
+'s metabolism has been invigorated!
+
+<<states/38/message2>>
+'s metabolism has been invigorated!
+
+<<states/38/message4>>
+'s metabolism has returned to normal.
+
+<<states/41/name>>
+Large SP/turn recovery
+
+<<states/41/message1>>
+'s metabolism has been invigorated!
+
+<<states/41/message2>>
+'s metabolism has been invigorated!
+
+<<states/41/message4>>
+'s metabolism has returned to normal.
+
+<<states/47/name>>
+Evasion +100%
+
+<<states/47/message1>>
+'s evasion has increased!
+
+<<states/47/message2>>
+'s evasion has increased!
+
+<<states/47/message4>>
+'s evasion has returned to normal.
+
+<<states/51/name>>
+Magic Evasion +100%
+
+<<states/51/message1>>
+'s magic evasion has increased!
+
+<<states/51/message2>>
+'s magic evasion has increased!
+
+<<states/51/message4>>
+'s magic evasion has returned to normal.
+
+<<states/52/name>>
+Magic Evasion -100%
+
+<<states/54/name>>
+Critical Hit Rate +100%
+
+<<states/54/message1>>
+'s critical hit rate has increased!
+
+<<states/54/message2>>
+'s critical hit rate has increased!
+
+<<states/54/message4>>
+'s critical hit rate has returned to normal.
+
+<<states/58/name>>
+Triple Charge
+
+<<states/58/message1>>
+'s charge rate has increased!
+
+<<states/58/message2>>
+'s charge rate has increased!
+
+<<states/58/message4>>
+'s charge rate has returned to normal.
+
+<<states/59/name>>
+Quintuple Charge
+
+<<states/59/message1>>
+'s charge rate has increased!
+
+<<states/59/message2>>
+'s charge rate has increased!
+
+<<states/59/message4>>
+'s charge rate has returned to normal.
+
+<<states/68/name>>
+Daisy Bell
+
+<<states/68/message1>>
+'s stats have increased!
+
+<<states/68/message2>>
+'s stats have increased!
+
+<<states/68/message4>>
+'s stats have returned to normal.
+
+<<states/69/name>>
+Large HPMPSP/turn recovery
+
+<<states/69/message1>>
+'s metabolism has been invigorated!
+
+<<states/69/message2>>
+'s metabolism has been invigorated!
+
+<<states/69/message4>>
+'s metabolism has returned to normal.
+
+<<states/70/name>>
+Complete turn recovery
+
+<<states/70/message1>>
+'s metabolism has been invigorated!
+
+<<states/70/message2>>
+'s metabolism has been invigorated!
+
+<<states/70/message4>>
+'s metabolism has returned to normal.
+
+<<states/75/name>>
+Melon
+
+<<states/75/message1>>
+'s resistances have fallen!
+
+<<states/75/message2>>
+'s resistances have fallen!
+
+<<states/75/message4>>
+'s resistances returned to normal.
+
+<<states/89/name>>
+Tri Element Fist
+
+<<states/89/message1>>
+'s fists have charged with the three elements!
+
+<<states/89/message2>>
+'s fists have charged with the three elements!
+
+<<states/89/message4>>
+'s fists have powered down.
+
+<<states/90/name>>
+Four Spirits Fist
+
+<<states/90/message1>>
+'s fists are one with the spirits!
+
+<<states/90/message2>>
+'s fists are one with the spirits!
+
+<<states/90/message4>>
+'s fists have powered down.
+
+<<states/92/name>>
+Tri Element Guard
+
+<<states/92/message1>>
+ is shielded from fire, ice, and lightning!
+
+<<states/92/message2>>
+ is shielded from fire, ice, and lightning!
+
+<<states/92/message4>>
+ is no longer protected.
+
+<<states/94/name>>
+Holy Immunity
+
+<<states/95/name>>
+Dark Immunity
+
+<<states/96/name>>
+Sound Immunity
+
+<<states/97/name>>
+Bio Immunity
+
+<<states/98/name>>
+Physical Immunity
+
+<<states/99/name>>
+Pleasure Immunity
+
+<<states/100/name>>
+Magic Immunity
+
+<<states/101/name>>
+Fire Absorb
+
+<<states/102/name>>
+Ice Absorb
+
+<<states/103/name>>
+Lightning Absorb
+
+<<states/104/name>>
+Dragon Pulse Song
+
+<<states/104/message1>>
+ receives divine protection!
+
+<<states/104/message2>>
+ receives divine protection!
+
+<<states/104/message4>>
+ is no longer protected.
+
+<<states/107/name>>
+Holy Absorb
+
+<<states/108/name>>
+Dark Absorb
+
+<<states/109/name>>
+Sound Absorb
+
+<<states/110/name>>
+Bio Absorb
+
+<<states/141/name>>
+Quint Attack
+
+<<states/141/message1>>
+'s weapon gains divine power!
+
+<<states/141/message2>>
+'s weapon gains divine power!
+
+<<states/141/message4>>
+'s weapon returns to normal.
+
+<<states/142/name>>
+Sextuple Attack
+
+<<states/142/message1>>
+'s weapon gains divine power!
+
+<<states/142/message2>>
+'s weapon gains divine power!
+
+<<states/142/message4>>
+'s weapon returns to normal.
+
+<<states/143/name>>
+Octuple Attack
+
+<<states/143/message1>>
+'s weapon gains divine power!
+
+<<states/143/message2>>
+'s weapon gains divine power!
+
+<<states/143/message4>>
+'s weapon returns to normal.
+
+<<states/145/name>>
+Triple Action
+
+<<states/146/name>>
+Chaotic Attack
+
+<<states/146/message1>>
+'s weapon gains divine power!
+
+<<states/146/message2>>
+'s weapon gains divine power!
+
+<<states/146/message4>>
+'s weapon returns to normal.
+
+<<states/147/name>>
+Cayden Disordered Beating
+
+<<states/147/message1>>
+'s weapon gains divine power!
+
+<<states/147/message2>>
+'s weapon gains divine power!
+
+<<states/147/message4>>
+'s weapon returns to normal.
+
+<<states/153/name>>
+XP Triple
+
+<<states/155/name>>
+Job XP Triple
+
+<<states/157/name>>
+Gold Triple
+
+<<states/158/name>>
+Item Drop Triple
+
+<<states/161/name>>
+Party Join Rate Triple
+
+<<states/164/name>>
+MP Consumption 0
+
+<<states/167/name>>
+SP Consumption 0
+
+<<states/172/name>>
+Magic Concentration
+
+<<states/172/message1>>
+'s magic rises for the next turn!
+
+<<states/172/message2>>
+'s magic rises for the next turn!
+
+<<states/173/name>>
+Mental Concentration
+
+<<states/173/message1>>
+'s dexterity rises for the next turn!
+
+<<states/173/message2>>
+'s dexterity rises for the next turn!
+
+<<states/174/name>>
+Battle Maid
+
+<<states/174/message1>>
+ unleashes all combat skills!
+
+<<states/174/message2>>
+ unleashes all combat skills!
+
+<<states/174/message4>>
+ reverts to normal skills.
+
+<<states/175/name>>
+Magus Maid
+
+<<states/175/message1>>
+ unleashes all magical skills!
+
+<<states/175/message2>>
+ unleashes all magical skills!
+
+<<states/175/message4>>
+ reverts to normal skills.
+
+<<states/176/name>>
+Demonic Awakening
+
+<<states/176/message1>>
+ unleashes all demon skills!
+
+<<states/176/message2>>
+ unleashes all demon skills!
+
+<<states/176/message4>>
+ reverts to normal skills.
+
+<<states/177/name>>
+Ultimate Being
+
+<<states/177/message1>>
+ unleashes full power!
+
+<<states/177/message2>>
+ unleashes full power!
+
+<<states/177/message4>>
+ returns to normal.
+
+<<states/181/name>>
+Without Any Means
+
+<<states/181/message1>>
+'s weapon gains divine power!
+
+<<states/181/message2>>
+'s weapon gains divine power!
+
+<<states/181/message4>>
+'s weapon returns to normal.
+
+<<states/182/name>>
+First Lunge
+
+<<states/182/message1>>
+'s weapon gains divine power!
+
+<<states/182/message2>>
+'s weapon gains divine power!
+
+<<states/182/message4>>
+'s weapon returns to normal.
+
+<<states/183/name>>
+Centaur Body
+
+<<states/183/message1>>
+'s weapon gains divine power!
+
+<<states/183/message2>>
+'s weapon gains divine power!
+
+<<states/183/message4>>
+'s weapon returns to normal.
+
+<<states/184/name>>
+Ixion
+
+<<states/184/message1>>
+'s weapon gains divine power!
+
+<<states/184/message2>>
+'s weapon gains divine power!
+
+<<states/184/message4>>
+'s weapon returns to normal.
+
+<<states/185/name>>
+Sylph
+
+<<states/185/message4>>
+'s blessing from Sylph wore off!
+
+<<states/186/name>>
+Gnome
+
+<<states/186/message4>>
+'s blessing from Gnome wore off!
+
+<<states/187/name>>
+Undine
+
+<<states/187/message4>>
+'s blessing from Undine wore off!
+
+<<states/188/name>>
+Salamander
+
+<<states/188/message4>>
+'s blessing from Salamander wore off!
+
+<<states/189/name>>
+Zylphe
+
+<<states/189/message4>>
+'s boost from Zylphe wore off!
+
+<<states/190/name>>
+Gnomaren
+
+<<states/190/message4>>
+'s boost from Gnomaren wore off!
+
+<<states/191/name>>
+Grandine
+
+<<states/191/message4>>
+'s boost from Grandine wore off!
+
+<<states/192/name>>
+Gigamander
+
+<<states/192/message4>>
+'s boost from Gigamander wore off!
+
+<<states/193/name>>
+Spirit Ceremony
+
+<<states/193/message1>>
+ receives divine protection!
+
+<<states/193/message2>>
+ receives divine protection!
+
+<<states/193/message4>>
+ is no longer protected.
+
+<<states/195/name>>
+Soaring Ceremony
+
+<<states/195/message1>>
+ receives divine protection!
+
+<<states/195/message2>>
+ receives divine protection!
+
+<<states/195/message4>>
+ is no longer protected.
+
+<<states/197/name>>
+Life Insurance
+
+<<states/197/message1>>
+'s demise has been compensated!
+
+<<states/197/message2>>
+'s demise has been compensated!
+
+<<states/199/name>>
+Counter +50%
+
+<<states/199/message1>>
+'s counter rate went up!
+
+<<states/199/message2>>
+'s counter rate went up!
+
+<<states/199/message4>>
+'s counter rate returned to normal.
+
+<<states/200/name>>
+Counter +100%
+
+<<states/200/message1>>
+'s counter rate went up!
+
+<<states/200/message2>>
+'s counter rate went up!
+
+<<states/200/message4>>
+'s counter rate return to normal.
+
+<<states/202/name>>
+Doping
+
+<<states/202/message1>>
+'s maximum health reaches new limits!
+
+<<states/202/message2>>
+'s maximum health reaches new limits!
+
+<<states/300/name>>
+Playful Wind
+
+<<states/300/message4>>
+ is no longer moving like the wind!
+
+<<states/301/name>>
+Extreme Gale
+
+<<states/301/message4>>
+ is no longer moving like the wind!
+
+<<states/302/name>>
+Breath of the Earth
+
+<<states/302/message4>>
+ loses the earth strength!
+
+<<states/303/name>>
+Wild Lands
+
+<<states/303/message4>>
+ loses the earth strength!
+
+<<states/304/name>>
+Serene Mind
+
+<<states/304/message4>>
+'s mind reverts to normality!
+
+-----------------------------------------------------------------------------------------------------
