@@ -1,9 +1,15 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5e.rar 12.7 MB
+  # Current Version MGQ Paradox Translation EX 0.5f.rar 12.7 MB
   # Links
   #---------------------------------------------------------------------------
 
 http://pastebin.com/k9MNPZsb
+
+  #---------------------------------------------------------------------------
+  # Save Fix Version EX_0.5d_Save-Fix.rar 12.7 MB
+  #---------------------------------------------------------------------------
+ 
+https://mega.co.nz/#!KF810Bib!CLeONHLXAfKjCjSzJ_F1iskMl2qWhGyzut7rl7LMUDw
 
   #---------------------------------------------------------------------------
   # About MGQ Paradox Translation EX
@@ -15,10 +21,22 @@ Official Game: Monster Girl Quest Paradox [Part One]
 English DLSite link: http://www.dlsite.com/ecchi-eng/work/=/product_id/RE150726.html
 
   #---------------------------------------------------------------------------
+  # Git Repository
+  #---------------------------------------------------------------------------
+ 
+https://github.com/MGQ-EX/Paradox
+ 
+  #---------------------------------------------------------------------------
+  # Bug Reporting & Tracking
+  #---------------------------------------------------------------------------
+ 
+https://github.com/MGQ-EX/Paradox/issues
+
+  #---------------------------------------------------------------------------
   # USING MGQ Paradox Translation EX
   #---------------------------------------------------------------------------
 
-Use the Manual Patch Method For MGQ Paradox 1.20
+Use the Manual Patch Method For MGQ Paradox 1.21
 
 1. Download an RPGMaker decrypter (Included)
 2. Decrypt all files in Game.rgss3a
@@ -30,7 +48,7 @@ On step 2: Run RPGMaker decrypter, Open File Game.rgss3a, Tools, Extract All Fil
 
 Extracted Folder containing two folders, Data and Graphics;
 
-Note 0: EX was not designed for versions bellow 1.20, please upgrade to 1.20 before using
+Note 0: EX was not designed for versions bellow 1.21, please upgrade to 1.21 before using
 
 Note 1: If Game Folder is in Japanese or Gibberish (A Sad Attempt To Display Japanese) rename it to something 
 
@@ -72,6 +90,7 @@ https://mega.co.nz/#!TFlACR6S!PusSlyfLeWdGvfg8uwho3MPvtQUn6XWOD8FL4cOUV4c
 For Those Coming From 1.10
 MGQ_Paradox_1.10_upgrade_1.20.rar 39.2 MB
 https://mega.co.nz/#!mMsQjbBa!87Gl0_Glt0LpZVmmkEordSYGVVDtqLNzOMEowIckIDA
+
 
 Modified Game.ini For These Additions:
 		WinMode=		Discription
@@ -169,6 +188,10 @@ http://www.rpgmakervxace.net/topic/9799-faster-loadtimes-with-less-memory-or-you
 V.M of D.T. - Basic Window Resizer 
 Version: 1.1
 http://forums.rpgmakerweb.com/index.php?/topic/2033-basic-window-resizer/
+
+XS - Popup Item
+Version 1.1c
+http://www.rpgmakervxace.net/topic/2490-xs-popup-item/
 
 Yanfly Engine Ace - Debug Extension 
 Version: 1.01
@@ -445,6 +468,20 @@ EX 0.5d		Update to ScriptTextEnglish.rvtext & ScriptTextJapanese.rvtext
 		Unicode Character Affected Some Display Items And Was Changed
 		Caused By Web Site Translator (And Similar Bugs Might Re-Appear And Will Handle As Needed...)
 
+07-31-2015              Updated To Cripple  modern algebra – ATS: Special Message Codes
+EX 0.5d_Save-Fix        And Process To Remove That Data From Saves Affected
+                        1 - Load Up A Save That Is Problematic
+                        2 - Go To Map 228 - Pocket Castle 1F South, If You Are Already There Leave And Return
+                        3 - Should Be Sparkly Scroll On The Left Side Of The Big Door, Go There
+                        4 - Choose Option "Can't Use EX 0.5e Do To Save"
+                        5 - Uninstall Script Will Run Removing 'Game_ATS' From Your Game
+                        6 - Save Your Game And Reinstall EX 0.5e
+                        7 - Optional, My Humble Apology Before You Save Take Something For Your Trouble
+                            Though Only For Your Active Party
+                          * Give Me Money!
+                          * Grant Me Power!
+                          * Make Me Lovable!
+
 07-28-2015	Updated Language File System To Handle script call display_skill_name
 EX 0.5e		Update to ScriptTextEnglish.rvtext & ScriptTextJapanese.rvtext
 		Entries Added:  TRAN/NWConstLibrary/DSNT
@@ -478,3 +515,13 @@ EX 0.5e		Update to ScriptTextEnglish.rvtext & ScriptTextJapanese.rvtext
 		"What should Actor 94 be named?"
 		Note: For Rename Change To Take Effect Please Test Newly Added Rename Feature
 		      Not Needed For New Saves
+
+08-01-2015	Updated For Paradox 1.21.00
+EX 0.5f		Please Upgrade to at least 1.20.00 before using
+		Cleanup Of:
+		Common Events In Range 900-1000
+		All rvtext files updated
+		Backend Items Affected: Fixed Rename Scope, Added My Humble Apology Options From EX 0.5d_Save-Fix
+					Reviewed 1.21 Scripts
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Will update further later

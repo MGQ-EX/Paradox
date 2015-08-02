@@ -1195,7 +1195,7 @@ Dog Girl
 <人間時追加特徴 393>
 <固有習得 1-3155>
 <初期装備0:1>
-<ターン終了時発動 3155,33%>
+<ターン終了時発動 3173,33%>
 <イラスト:海の山>
 
 <<actors/61/name>>
@@ -1220,7 +1220,7 @@ Earthworm Girl
 <初期装備0:549>
 <初期装備2:176>
 <初期装備3:3>
-<ターン終了時発動 3155,33%>
+<ターン終了時発動 3173,33%>
 <イラスト:瀬戸内>
 
 <<actors/62/name>>
@@ -1386,6 +1386,7 @@ Wolf Girl
 <初期装備0:334>
 <スキルタイプ強化 53-15>
 <拡張回避率 10%>
+<拡張会心率 10%>
 <イラスト:ネコまんま>
 
 <<actors/72/name>>
@@ -50516,7 +50517,7 @@ Yoichi's Bow
 
 <<weapons/583/description>>
 [Bow +] Forbidden Bow sealed in the chaos realm
-\*\i[150] and \*\i[151] imbued and strengthened 
+\*\i[150] and \*\i[151] imbued and strengthened
 
 <<weapons/583/name>>
 Artemis Bow
@@ -51202,7 +51203,7 @@ Rising Sun
 
 <<weapons/685/description>>
 [Boomerang] Boomerang crafted with inherited 
-techniques from ancient civilizations 
+techniques from ancient civilizations
 
 <<weapons/685/name>>
 Rainbow Boomerang
@@ -55318,7 +55319,7 @@ Zombie Ring
 
 <<armors/1152/description>>
 [Accessory] When below 20% HP, Auto Transform,
-And be able to use Justice skills 
+And be able to use Justice skills
 
 <<armors/1152/name>>
 Hero Belt
@@ -58208,7 +58209,7 @@ Blindness Guard
 
 <<armors/1552/description>>
 [Accessory] Reduces the chance of being
-inflicted with Mute by 50% 
+inflicted with Mute by 50%
 
 <<armors/1552/name>>
 Mute Check
@@ -58221,7 +58222,7 @@ Mute Guard
 
 <<armors/1554/description>>
 [Accessory] Reduces the chance of being
-inflicted with Confusion by 50% 
+inflicted with Confusion by 50%
 
 <<armors/1554/name>>
 Confusion Check
@@ -58234,7 +58235,7 @@ Confusion Guard
 
 <<armors/1556/description>>
 [Accessory] Reduces the chance of being
-inflicted with Sleep by 50% 
+inflicted with Sleep by 50%
 
 <<armors/1556/name>>
 Sleep Check
@@ -58247,7 +58248,7 @@ Sleep Guard
 
 <<armors/1558/description>>
 [Accessory] Reduces the chance of being
-inflicted with Paralysis by 50% 
+inflicted with Paralysis by 50%
 
 <<armors/1558/name>>
 Paralyze Check
@@ -58260,7 +58261,7 @@ Paralyze Guard
 
 <<armors/1560/description>>
 [Accessory] Reduces the chance of being
-inflicted with Burn by 50% 
+inflicted with Burn by 50%
 
 <<armors/1560/name>>
 Burn Check
@@ -58273,7 +58274,7 @@ Burn Guard
 
 <<armors/1562/description>>
 [Accessory] Reduces the chance of being
-inflicted with Freeze by 50% 
+inflicted with Freeze by 50%
 
 <<armors/1562/name>>
 Freeze Check
@@ -58286,7 +58287,7 @@ Freeze Guard
 
 <<armors/1564/description>>
 [Accessory] Reduces the chance of being
-inflicted with Shock by 50% 
+inflicted with Shock by 50%
 
 <<armors/1564/name>>
 Shock Check
@@ -58299,7 +58300,7 @@ Shock Guard
 
 <<armors/1566/description>>
 [Accessory] Reduces the chance of being
-inflicted with Slow by 50% 
+inflicted with Slow by 50%
 
 <<armors/1566/name>>
 Slow Check
@@ -58312,7 +58313,7 @@ Slow Guard
 
 <<armors/1568/description>>
 [Accessory] Reduces the chance of being
-inflicted with Stop by 50% 
+inflicted with Stop by 50%
 
 <<armors/1568/name>>
 Stop Check
@@ -58325,7 +58326,7 @@ Stop Guard
 
 <<armors/1570/description>>
 [Accessory] Reduces the chance of being
-inflicted with Mini by 50% 
+inflicted with Mini by 50%
 
 <<armors/1570/name>>
 Mini Check
@@ -58338,7 +58339,7 @@ Mini Guard
 
 <<armors/1572/description>>
 [Accessory] Reduces the chance of being
-inflicted with Zombify by 50% 
+inflicted with Zombify by 50%
 
 <<armors/1572/name>>
 Zombie Check
@@ -58351,7 +58352,7 @@ Zombie Guard
 
 <<armors/1574/description>>
 [Accessory] Reduces the chance of being
-inflicted with Petrify by 50% 
+inflicted with Petrify by 50%
 
 <<armors/1574/name>>
 Stone Check
@@ -58364,7 +58365,7 @@ Stone Guard
 
 <<armors/1576/description>>
 [Accessory] Reduces the chance of being
-inflicted with Digestion by 50% 
+inflicted with Digestion by 50%
 
 <<armors/1576/name>>
 Melt Check
@@ -58377,7 +58378,7 @@ Melt Guard
 
 <<armors/1578/description>>
 [Accessory] Reduces the chance of being
-inflicted with Stun by 50% 
+inflicted with Stun by 50%
 
 <<armors/1578/name>>
 Stun Check
@@ -58390,7 +58391,7 @@ Stun Guard
 
 <<armors/1580/description>>
 [Accessory] Reduces the chance of being
-inflicted with Slimed by 50% 
+inflicted with Slimed by 50%
 
 <<armors/1580/name>>
 Slime Check
@@ -58403,7 +58404,7 @@ Slime Guard
 
 <<armors/1582/description>>
 [Accessory] Reduces the chance of being
-inflicted with Horny by 50% 
+inflicted with Horny by 50%
 
 <<armors/1582/name>>
 Horny Check
@@ -58416,7 +58417,7 @@ Horny Guard
 
 <<armors/1584/description>>
 [Accessory] Reduces the chance of being
-inflicted with Trance by 50% 
+inflicted with Trance by 50%
 
 <<armors/1584/name>>
 Trance Check
@@ -58429,7 +58430,7 @@ Trance Guard
 
 <<armors/1586/description>>
 [Accessory] Reduces the chance of being
-inflicted with Seduction by 50% 
+inflicted with Seduction by 50%
 
 <<armors/1586/name>>
 Seduction Check
@@ -58442,7 +58443,7 @@ Seduction Guard
 
 <<armors/1588/description>>
 [Accessory] Reduces the chance of being
-inflicted with Incontinence by 50% 
+inflicted with Incontinence by 50%
 
 <<armors/1588/name>>
 Incontinence Check
@@ -58455,7 +58456,7 @@ Incontinence Guard
 
 <<armors/1590/description>>
 [Accessory] Reduces the chance of being
-inflicted with Status by 50% 
+inflicted with Status by 50%
 
 <<armors/1590/name>>
 Mini Ribbon
@@ -60865,7 +60866,7 @@ Slime Girl
 <種族:スライム>
 <誘惑時使用スキル:3502>
 <スティールリスト 1,I,1,2>
-<スティールリスト 1,W,6,8>
+<スティールリスト 1,W,657,8>
 <スティールリスト 2,I,322,2>
 <スティールリスト 3,I,160,2>
 <仲間ID:1053>
@@ -70301,4 +70302,14 @@ Race Level
 
 <<constants/Vocab/Victory>>
 %s were victorious!
+
+<<skills/3173/description>>
+Target:User Effect: Random
+Dig at your feet, maybe you'll find treasure.
+
+<<skills/3173/message1>>
+ digs into the ground at her feet!
+
+<<skills/3173/name>>
+Dig
 
