@@ -525,3 +525,9 @@ EX 0.5f		Please Upgrade to at least 1.20.00 before using
 					Reviewed 1.21 Scripts
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will update further later
+
+*** Planned Next Update (Not Finallized) ***
+08-02-2015	
+EX 0.5f		Backend Items Affected: Fixed Cooking Menu Portion Not Translated
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Will update further later
