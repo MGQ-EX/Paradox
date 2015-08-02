@@ -25274,7 +25274,7 @@ Return of the Saint
 
 <<skills/2432/description>>
 Power:E (Att) Target:The enemy random 4 times
-Messed up the sword wielding a sword
+Amateur sword wielding that's very messed up.
 
 <<skills/2432/message1>>
   slicing randomly and shouting!
@@ -25346,7 +25346,8 @@ Undead Decapitation
 
 <<skills/2437/description>>
 Power:B(Att)\*\i[144]Target:Effect:+
-Infuse the Fire to the blade, Swords of Hero for feeding the down the whole body of the swing
+Heroes Sword technique where the hero infuses his blade
+with fire and drops on the enemy with a slicing spin
 
 <<skills/2437/message1>>
 It swung down the Flame of Ha!
@@ -25360,10 +25361,10 @@ Blazing Sky Slicer
 
 <<skills/2438/description>>
 Power:B(Att)\*\i[144] Target:All Foes
-Swords of Hero for feeding the wearing rotation cut the Fire of Guren
+Hero's Sword Skill For Releasing A Spinning Crimson Flame
 
 <<skills/2438/message1>>
-Was feeding tung rotation is wearing Glen!
+ releases Spinning Crimson Flame!
 
 <<skills/2438/name>>
 Crimson Spin Beheading
@@ -26276,7 +26277,7 @@ Death Invitation
 
 <<skills/2571/description>>
 Power:E(Att+Dex) Target:Foe Attributes: + Effect:+
-Give an enemy whiplash with a long tongue
+Whip the enemy with a long tongue
 
 <<skills/2571/message1>>
 Tongue Whip!
@@ -26304,7 +26305,7 @@ Tongue Tightening
 
 <<skills/2574/description>>
 Power:D(Dex)\*\i[188]Target:Foe
-Extending tongue repeatedly licks the foe's crotch
+Extended tongue repeatedly licks the foe's crotch
 
 <<skills/2574/message1>>
 \U stretches out her tongue and starts licking \E's crotch!
@@ -26317,7 +26318,7 @@ Crotch Lapping
 <スキル命中率:120>
 
 <<skills/2575/description>>
-Power:B(Dex) Target:Foe Attributes: Pleasure Effect: Slimed
+Power:B(Dex)\*\i[188] Target:Foe Effect: Slimed
 Lengthening tip of the tongue traces circles on the enemy
 
 <<skills/2575/message1>>
@@ -26331,7 +26332,7 @@ Hellish Spiral Licking
 <スキル命中率:120>
 
 <<skills/2577/description>>
-Power:E(Dex) Target:Foe Attributes: \*\i[145]+Pleasure Effect: Freeze
+Power:E(Dex) Target:Foe Attributes: \*\i[145]+\*\i[188] Effect: Freeze
 A devilishly forceful kiss freezes the enemy solid
 
 <<skills/2577/message1>>
@@ -26346,11 +26347,11 @@ Frozen Kiss
 <スキル命中率:120>
 
 <<skills/2578/description>>
-Power:E(Dex) Target:Foe Attributes: Pleasure Effect: HP Absorb
+Power:E(Dex)\*\i[188]Target:Foe Effect: HP Absorb
 Demonic hair stretches to foe and absorbs lifeforce
 
 <<skills/2578/message1>>
-Hair entangled, Soul Sucking Hair!
+\U's hair entangles \E and aborbs life force!
 
 <<skills/2578/name>>
 Soul Sucking Hair
@@ -26361,7 +26362,7 @@ Soul Sucking Hair
 <HP還元 50%>
 
 <<skills/2579/description>>
-Power:C(Dex) Target:Foe Attributes: Pleasure Effect: HP Absorb
+Power:C(Dex)\*\i[188] Target:Foe Effect: HP Absorb
 Demonic hair wraps aroud foe and wrings out lifeforce
 
 <<skills/2579/message1>>
@@ -26376,8 +26377,8 @@ Playful Hair Squeezing
 <HP還元 50%>
 
 <<skills/2583/description>>
-Power:C (Dex) Target:Foe Attributes: Pleasure Effect: Rapid-HP Absorb
-The walnut enemies with muffled cloak of magic, squeezing the seminal magic skills
+Power:C(Dex)\*\i[188] Target:Foe Effect: Rapid-HP Absorb
+Envelopes foe in a magic cloak absorbing their life force
 
 <<skills/2583/message1>>
 It walnut their opponents with a cloak, was squeezed a fine!
@@ -26391,11 +26392,11 @@ Soul Sucking Cloak
 <HP還元 50%>
 
 <<skills/2593/description>>
-Target:ally whole Effect: HP Small Recovery
-Magic skills to restore the HP of all just a little
+Target:All Allies Effect: HP Small Recovery
+Magic skill that restores a little HP of all allies
 
 <<skills/2593/message1>>
-It was blown healing of wind!
+ blew a healing wind!
 
 <<skills/2593/name>>
 Healing wind
@@ -26404,11 +26405,11 @@ Healing wind
 <自動戦闘不可>
 
 <<skills/2594/description>>
-Target:User Effect: twice attack-full capacity down
-It is possible to separate the neck and torso twice attack, but each of capacity reduction
+Target:User Effect: Double Attack-Power down
+User separates neck from torso enabling them to attack twice but not as strong
 
 <<skills/2594/message1>>
-Is to separate the neck and torso!
+ separates the neck and torso!
 
 <<skills/2594/name>>
 Dullahan Twins
@@ -26431,7 +26432,7 @@ Water hammer
 <スキル命中率:100>
 
 <<skills/2603/description>>
-Power:B(Mag) Target:All Foes Attributes: \*\i[147]
+Power:B(Mag)\*\i[147]Target:All Foes
 Mermaid skill calls forth a big wave
 
 <<skills/2603/message1>>
@@ -26444,7 +26445,7 @@ Tsunami
 <スキル命中率:100>
 
 <<skills/2608/description>>
-Power:C(Mag) Target:All Foes Attributes: \*\i[145]
+Power:C(Mag)\*\i[145]Target:All Foes
 Mermaid skill freezes the surrounding area
 
 <<skills/2608/message1>>
@@ -26457,7 +26458,7 @@ Cold Wave
 <スキル命中率:100>
 
 <<skills/2612/description>>
-Power:C(Mag) Target:All Foes Attributes: \*\i[146]
+Power:C(Mag)\*\i[146] Target:All Foes
 Zap all foes with electrified water bullets
 
 <<skills/2612/message1>>
@@ -26496,11 +26497,12 @@ Screw Tail
 <スキル命中率:120>
 
 <<skills/2618/description>>
-Power:E (Dex) Target:Foe Attributes: Pleasure Effect: Bind
-Wraps in the umbrella-shaped body, race-specific skills that restrains
+Power:E (Dex)\*\i[188] Target:Foe Effect: Bind
+Race-specific skill that restrains the foe by wrapping
+them in the umbrella shaped body
 
 <<skills/2618/message1>>
-It wrapped the other party in its own body!
+ wrapped the foe in its own body!
 
 <<skills/2618/name>>
 Gel Prison
@@ -26510,7 +26512,7 @@ Gel Prison
 <スキル命中率:120>
 
 <<skills/2621/description>>
-Power:E(Dex) Target:Foe Attributes: Pleasure Effect: Horny
+Power:E(Dex)\*\i[188] Target:Foe Effect: Horny
 Erotic Mermaid skill rubs down enemy with slippery smooth palms
 
 <<skills/2621/message1>>
@@ -26524,7 +26526,7 @@ Mermaid Masturbation
 <スキル命中率:120>
 
 <<skills/2622/description>>
-Power:C(Dex) Target:Foe Attributes: Pleasure Effect: Slimed
+Power:C(Dex)\*\[188] Target:Foe Effect: Slimed
 Erotic Mermaid skill smooths over foe with slippery fins
 
 <<skills/2622/message1>>
@@ -26552,7 +26554,7 @@ Bubble Bubble
 <スキル命中率:120>
 
 <<skills/2625/description>>
-Power:B(Dex) Target:Foe Attributes: Pleasure Effect: Slimed/Trance
+Power:B(Dex)\*\i[188]Target:Foe Effect: Slimed/Trance
 Drown foe in pleasure with vigorous bubbly genital washing
 
 <<skills/2625/message1>>
@@ -26570,7 +26572,7 @@ Target:All Allies Effect: HP/MP Recovery
 Mermaid skill calls forth nourishing rain
 
 <<skills/2626/message1>>
-Sends Down Healing Rain!
+ sends down Healing Rain!
 
 <<skills/2626/name>>
 Healing Rain
@@ -26583,7 +26585,7 @@ Target:All Allies Effect: HP/MP Recovery
 Mermaid skill calls forth nourishing rain
 
 <<skills/2627/message1>>
-Revitalizing Rain!
+ sends down Revitalizing Rain!
 
 <<skills/2627/name>>
 Revitalizing Rain
@@ -26606,7 +26608,7 @@ Slime Pierce
 
 <<skills/2636/description>>
 Power:C(Att) Target:All Foes Attributes: + Effect:+
-Turn into a bullet and slam into an enemy at high speed
+Turn into a bullet and slam into the enemies at high speed
 
 <<skills/2636/message1>>
 Slime Splash!
@@ -26632,7 +26634,7 @@ Slime Draw
 <スキル命中率:120>
 
 <<skills/2639/description>>
-Power:C(Dex) Target:Foe Attributes: Pleasure Effect: Bind/Slimed
+Power:C(Dex)\*\i[188] Target:Foe Effect: Bind/Slimed
 Deprive an enemy of movement and give out pleasure in return
 
 <<skills/2639/message1>>
@@ -26646,7 +26648,7 @@ Slime Heaven
 <スキル命中率:120>
 
 <<skills/2643/description>>
-Power:C(Dex) Target:Foe Attributes: Pleasure Effect: Slimed/Trance
+Power:C(Dex)\*\i[188] Target:Foe Effect: Slimed/Trance
 Tuck enemies into a slimy body, drowning them in ecstasy
 
 <<skills/2643/message1>>
@@ -26674,7 +26676,7 @@ Dissolving Liquid
 <スキル命中率:120>
 
 <<skills/2646/description>>
-Power:B(Dex) Target:Ally Attributes: Pleasure Effect: Slimed/Digestion
+Power:B(Dex)\*\i[188] Target:Foe Effect: Slimed/Digestion
 Cover an enemy in digestive slime
 
 <<skills/2646/message1>>
@@ -26702,7 +26704,7 @@ Blob Boa
 <捕食技 起動ステート=21 吸収=HP>
 
 <<skills/2651/description>>
-Power:B(Dex) Target:All Foes Attributes: Pleasure Effect: Slimed
+Power:B(Dex)\*\i[188] Target:All Foes Effect: Slimed
 Sticky slime scattered upon the surroundings drag enemies in hellish pleasure
 
 <<skills/2651/message1>>
@@ -26810,7 +26812,7 @@ Aqua Shield
 
 <<skills/2664/description>>
 Target:All Allies Effect: Magic Reflect
-It reflected the Aqua Mirror
+Create a magic reflecting slime barrier
 
 <<skills/2664/message1>>
  expand Aqua Mirror!
@@ -26824,7 +26826,7 @@ Aqua Mirror
 
 <<skills/2665/description>>
 Target:All Allies Effect: Status Immunity
-And it established a metabolism with mucus, to disable Status
+Cover all allies in slime, protecting from all status aliments
 
 <<skills/2665/message1>>
  Mucus trimmed the metabolism!
@@ -30537,6 +30539,16 @@ Macroglossia
 <<skills/3172/note>>
 <習得不可>
 <スキル命中率:120>
+
+<<skills/3173/description>>
+Target:User Effect: Random
+Dig at your feet, maybe you'll find treasure.
+
+<<skills/3173/message1>>
+ digs into the ground at her feet!
+
+<<skills/3173/name>>
+Dig
 
 <<skills/3182/name>>
 Continuous: Become A Sacrifice
@@ -36556,7 +36568,7 @@ Wind Serenade
 <対象:ルカ>
 
 <<skills/3988/message1>>
-Was feeding the turbulent attacks is wearing a Guren'nohonoo!
+ releases the Crimson Inferno Dance!
 
 <<skills/3988/name>>
 Crimson Inferno Dance
@@ -40180,7 +40192,7 @@ Disturbance Electro Slash
 <必殺技 3>
 
 <<skills/4372/message1>>
- was bit in the Fang of Guren!
+ was bit with Crimson Fangs!
 
 <<skills/4372/name>>
 Vermilion Fang
@@ -41080,7 +41092,7 @@ Kamishita Ranbu
 <必殺技 3>
 
 <<skills/4467/message1>>
-Tore in infuse was nail Fire of Guren!
+ claws infused with Crimson Fire tore flesh!
 
 <<skills/4467/name>>
 Griffith Scratch
@@ -45543,7 +45555,7 @@ Centaur's Milk
 Two-Tail Silver Kitsune's Milk
 
 <<items/1047/description>>
-[Tool] Two-Tail Geisha Kitsune from the squeezed Milk
+[Tool] Milk squeezed from Two-Tail Geisha Kitsune 
 
 <<items/1047/name>>
 Two-Tail Geisha Kitsune's Milk
@@ -70302,14 +70314,4 @@ Race Level
 
 <<constants/Vocab/Victory>>
 %s were victorious!
-
-<<skills/3173/description>>
-Target:User Effect: Random
-Dig at your feet, maybe you'll find treasure.
-
-<<skills/3173/message1>>
- digs into the ground at her feet!
-
-<<skills/3173/name>>
-Dig
 
