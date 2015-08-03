@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5f.rar 12.7 MB
+  # Current Version MGQ Paradox Translation EX 0.5g.rar 12.7 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -102,6 +102,10 @@ Modified Game.ini For These Additions:
 
 		Width			Set As Positive Integer
 		Hight			Set As Positive Integer
+
+		EnableBonus=		Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
+			    False	Disables Bonus Features (Default)
+			    True	Enables Bonus Features
 
   #---------------------------------------------------------------------------
   # Translators Update Patch In EX
@@ -526,8 +530,12 @@ EX 0.5f		Please Upgrade to at least 1.20.00 before using
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will update further later
 
-*** Planned Next Update (Not Finallized) ***
-08-02-2015	
-EX 0.5f		Backend Items Affected: Fixed Cooking Menu Portion Not Translated
+08-03-2015	Updated 'Actor List.txt' To Have Dargoth's Patch 1.21a Actor Names
+EX 0.5g		Backend Items Affected: Fixed Cooking Menu Portion Not Translated, Cleaned Up Scripts
+		Modified Language File System To Also Praise Game.ini For These Additions:
+		EnableBonus=		Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
+			False		Disables Bonus Features (Default)
+			True		Enables Bonus Features
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will update further later
+

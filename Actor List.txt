@@ -1,4 +1,5 @@
 ﻿# Simple File For Renaming Actors
+# 08-03-2015 Uses Dargoth's 1.21a Patch Actor Names
 # Format:
 # Actor ID
 # Actor Name
@@ -52,7 +53,7 @@ Mimi
 Gob
 
 64
-Petit
+Teeny
 
 66
 Vanilla
@@ -82,7 +83,7 @@ Mary
 Sully
 
 77
-Jade
+Jaide
 
 78
 Shesta
@@ -133,7 +134,7 @@ Eater
 Riot
 
 94
-Luxuru
+Look Through
 
 95
 Lona
@@ -181,7 +182,7 @@ Shelly
 Soapy
 
 110
-Beth
+Bess
 
 111
 Melon
@@ -196,7 +197,7 @@ Anastasia
 Wakame
 
 115
-Curage
+Kurage
 
 116
 Isabelle
@@ -334,13 +335,13 @@ Julia
 Lemon
 
 162
-Honey Pot
+Honey
 
 163
 Lily
 
 164
-Drop
+Shizuka
 
 165
 Naho
@@ -406,7 +407,7 @@ Francesca
 Radio
 
 525
-Sonya
+Sonia
 
 529
 Sara
@@ -427,34 +428,34 @@ Pihar
 Domaimer
 
 544
-Marie
+Mary
 
 545
-Ellie
+Eri
 
 546
 Stella
 
 547
-Don Dahlia
+Don・Dahlia
 
 548
-Buny
+Bunny
 
 549
-Louis
+Louise
 
 550
-Meyrin
+Mei-Lin
 
 551
 Kate
 
 552
-Elissa
+Elise
 
 553
-Fuisz
+Fizz
 
 554
 Nightingale
@@ -466,10 +467,10 @@ Teresa
 Maria
 
 557
-Jasuka
+Ceaser
 
 558
-Nair
+Naia
 
 559
 Saran
@@ -478,25 +479,26 @@ Saran
 Melody
 
 561
-Witch
+Uchi
 
 562
-Orlan
+Oran
 
 563
 Pilate
 
 564
-John
+Yohan
 
 565
-Salmon
+Samson
 
 566
 Scat Captain
 
 567
-Panties Teacher
+Panty Teacher
 
 701
 Nero
+
