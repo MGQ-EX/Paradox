@@ -1,24 +1,45 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5g.rar 12.7 MB
+  # Current Version MGQ Paradox Translation EX 0.5h.rar 12.7 MB
   # Links
   #---------------------------------------------------------------------------
 
 http://pastebin.com/k9MNPZsb
 
   #---------------------------------------------------------------------------
-  # Save Fix Version EX_0.5d_Save-Fix.rar 12.7 MB
+  # Table Of Contents
   #---------------------------------------------------------------------------
- 
-https://mega.co.nz/#!KF810Bib!CLeONHLXAfKjCjSzJ_F1iskMl2qWhGyzut7rl7LMUDw
+
+	# About MGQ Paradox Translation EX
+	# Git Repository
+	# Bug Reporting & Tracking
+	# USING MGQ Paradox Translation EX
+	# For Those Coming From 1.02 or later to 1.21 (Upgrading)
+	# For Those Having Problems With A Save Not Loading After EX 0.5D
+	# Using MGQ EX Rename Functions (Useful With EX 0.5g And Above)
+	# Translators Update Patch In EX
+	# Translators Used In EX
+	# Scripts Used In EX
+	# END USER LICENSE AGREEMENT [EULA]
+	# HISTORY
+
+	Note: Life Lessons, Ctrl + F Can Be Used To Search For Things
 
   #---------------------------------------------------------------------------
   # About MGQ Paradox Translation EX
   #---------------------------------------------------------------------------
 
-Project envisioned to help in the fan translation of MGQ Paradox.
+Project Envisioned To Help In The Fan Translation Of MGQ Paradox.
 
 Official Game: Monster Girl Quest Paradox [Part One]
 English DLSite link: http://www.dlsite.com/ecchi-eng/work/=/product_id/RE150726.html
+
+Does Not Overlap With: Dargoth's Patch
+English Site link: http://dargothtranslations.wordpress.com/
+Reason: Core Files Are Altered Differently, However Manual Patching Is The Same With The Exception To Step 5 (Use His Manual Patch Instead)
+	As Dargoth Inadvertently Helped Start MGQ EX Hommage Is Paid To The King
+
+Grandork MGQ Paradox Guides & Walkthrough
+English Site link: http://www.ulmf.org/bbs/showthread.php?t=26850
 
   #---------------------------------------------------------------------------
   # Git Repository
@@ -42,7 +63,7 @@ Use the Manual Patch Method For MGQ Paradox 1.21
 2. Decrypt all files in Game.rgss3a
 3. Move decrypted files into game directory, overwrite when asked
 4. Rename/delete/move Game.rgss3a so it doesn’t conflict with the decrypted files
-5. Move and overwrite using MGQ Paradox Translation EX patched files
+5. Move and overwrite using MGQ Paradox Translation EX patched files, all files from the EX patch are important so only cherry pick if you know what your doing otherwise overwrite using all of them files.
 
 On step 2: Run RPGMaker decrypter, Open File Game.rgss3a, Tools, Extract All Files; This should make an 
 
@@ -58,11 +79,25 @@ Note 2: Game.rgss3a must be either changed or removed as it is read before the c
 
 overwriting
 
-Note 3: MGQ Paradox Translation EX: DatabaseTextEnglish.rvtext, DialoguesEnglish.rvtext, 
+Note 3: MGQ Paradox Translation EX: DatabaseTextEnglish.rvtext, DialoguesEnglish.rvtext, ScriptTextEnglish.rvtext are text files that contain the translation if you are interested in how much text is in the game, though a few things are still missing. 
 
-ScriptTextEnglish.rvtext are text files that contain the translation if you are interested in how much text 
+Note 4: Basic Review Of What Each Main Folder In The Patch Does, not including them can cause crashes
+‘Audio’ Folder contains an audio file EX can use but mostly its there just for show…  This mostly effects debug save for testing
+‘Data’ Folder deals with how the game works, if you don’t overwrite these then the game won’t read the rvtext files and thus won’t offer any translation
+‘Graphics’ Folder contains some presets for a cache system to try and compensate for speed
+‘Patch’ contains the latest patch, not really needed if using the latest version of Paradox though included to minimize bugs
 
-is in the game, though a few things are still missing. 
+Note 5: Basic Review Of What Each File In The Main Folder In The Patch Does, this doesn't include sub-folders listed above
+'Actor List.txt' is used in the Rename feature in the MGQ EX menu placed in the Pocket Castle main room
+'EX Readme.txt' is the Readme for the current version you have, not necessary however good to track EX versions
+'*.rvtext' these files are used for translation, if you don't have them things will go wrong
+'Game.ini' contains extra settings EX uses, Language Selection and Features like changing resolution and extra features for MGQ EX menu
+'RPG Maker Decrypter.exe' is the tool for decrypting Game.rgss3a and is only useful for this step
+'DatabaseTextEnglish_Update.rvupd_used' is a template on how motivated people can make updates to support EX, review "Translators Update Patch In EX" further down for more details.
+
+Note 6: Does not overlap with Dargoth's Patch, core files are changed differently.
+Though the manual install process is the same with the exception of Step 5.
+Transfer of saves though is possible, anything that prevents that is a bug so please report it...
 
 Should Look Something like
 \MGQ Paradox\
@@ -83,15 +118,6 @@ Misc *.txt Files
 MGQ Paradox EX Directory Structure
 http://pastebin.com/fMx7HE47
 
-For Those Coming From 1.02
-MGQ_Paradox_1.02_upgrade_1.10.rar 78.5 MB
-https://mega.co.nz/#!TFlACR6S!PusSlyfLeWdGvfg8uwho3MPvtQUn6XWOD8FL4cOUV4c
-
-For Those Coming From 1.10
-MGQ_Paradox_1.10_upgrade_1.20.rar 39.2 MB
-https://mega.co.nz/#!mMsQjbBa!87Gl0_Glt0LpZVmmkEordSYGVVDtqLNzOMEowIckIDA
-
-
 Modified Game.ini For These Additions:
 		WinMode=		Discription
 			Fit		fits the game window to monitor size
@@ -106,6 +132,72 @@ Modified Game.ini For These Additions:
 		EnableBonus=		Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
 			    False	Disables Bonus Features (Default)
 			    True	Enables Bonus Features
+
+		EnableSaveDebug=	Changes How Paradox Loads Saves
+			False		Disables Displaying An Error Message When A Save Fails To Load (Default)
+			True		Enables Displaying An Error Message When A Save Fails To Load
+
+  #---------------------------------------------------------------------------
+  # For Those Coming From 1.02 or later to 1.21 (Upgrading)
+  #---------------------------------------------------------------------------
+
+	You Have 2 Options
+	A - Download The Newest Version From The Official Site
+	B - Manually Upgrade The Files That Changed
+		1 - Follow "Use the Manual Patch Method For MGQ Paradox 1.21" Listed Above Till You Get To Step 5
+		    (Only Required If You Don't Have A Decrypted Copy Of The Game)
+		2 - Use This Link To Get An Archive Of The Files That Changed From 1.02 Up To 1.21
+			MGQ_Paradox_1.02_upgrade_clean_1.21.rar 113.7 MB
+			https://mega.co.nz/#!SQ1QlAbS!_B9-oPG95ItrektJFdt8jPZiOnW4vb2cpUUaRTGkZig
+		3 - Extract Archive Into Main Game Directory Overwriting Files As Needed
+		4 - Continue With "Use the Manual Patch Method For MGQ Paradox 1.21" Step 5
+
+	Note 1: If You Feel Uncomfortable Doing This Use Option A
+	Note 2: If You Do Not Know What You Are Doing Don't Cherry Pick Files From The Archive, They Are All Important In Some Way
+	Note 3: There Is A Difference Between Manual And Automatic, That Difference Is If You Think It Is Plug & Play Then You Are Wrong
+	Note 4: This Is To Help Upgrade Those That Have Official Copies Of The Game To Save On Bandwidth
+
+  #---------------------------------------------------------------------------
+  # For Those Having Problems With A Save Not Loading After EX 0.5D
+  # Save Fix Version EX_0.5d_Save-Fix.rar 12.7 MB
+  #---------------------------------------------------------------------------
+ 
+	https://mega.co.nz/#!KF810Bib!CLeONHLXAfKjCjSzJ_F1iskMl2qWhGyzut7rl7LMUDw
+
+	Updated To Cripple modern algebra – ATS: Special Message Codes
+	And Process To Remove That Data From Saves Affected
+	1 – Load Up A Save That Is Problematic
+	2 – Go To Map 228 – Pocket Castle 1F South, If You Are Already There Leave And Return
+	3 – Should Be Sparkly Scroll On The Left Side Of The Big Door, Go There
+	4 – Choose Option “Can’t Use EX 0.5e Do To Save”
+	5 – Uninstall Script Will Run Removing ‘Game_ATS’ From Your Game
+	6 – Save Your Game And Reinstall EX 0.5e
+	7 – Optional, My Humble Apology Before You Save Take Something For Your Trouble
+	Though Only For Your Active Party (It Was Faster To Code That Way…)
+	* Give Me Money!
+	* Grant Me Power!
+	* Make Me Lovable!
+
+  #---------------------------------------------------------------------------
+  # Using MGQ EX Rename Functions (Useful With EX 0.5g And Above)
+  #---------------------------------------------------------------------------
+
+	1 - Load Up A Game And Do This:
+	2 – Go To Pocket Castle 1F South (If Already There Leave Then Return So RPG Maker Refeshes The Map)
+	3 – By The Large Door In The Center To The left Is A New Sparkly Scroll
+	4 – MGQ_EX Extra Menu, Select Rename Actors
+		Rename Active Party			Rename An Actor In Your Current Party
+		Clean Up Actors				Restore Default Actor Names
+		  Restore All Default Names		All Actors Will Be Restored Using Defaults In EX Database
+		  Restore Active Party Name		Actor In Your Current Party Will Be Restored Using Defaults In EX Database
+		  Custom 'Actor List.txt'		All Actors Will Be Restored Using Names In 'Actor List.txt'
+	5 – Save your game
+
+	Note 1: 'Actor List.txt' Needs To Be In The Main Game Directory For "Custom 'Actor List.txt'" To Function.
+	Note 2: This Currently Only Effects Menus, Plan To Expand This At A Later Date
+
+	This Can Also Be Used To Correct Names That Are Not Being Displayed Correctly
+	Can Also Be Used To Fix 'display_use_item' Error As Correcting The Actor Names Will Make That Work As Originally Intended.
 
   #---------------------------------------------------------------------------
   # Translators Update Patch In EX
@@ -202,236 +294,20 @@ Version: 1.01
 https://yanflychannel.wordpress.com/rmvxa/utility-scripts/debug-extension/
 
   #---------------------------------------------------------------------------
+  # END USER LICENSE AGREEMENT [EULA]
+  #---------------------------------------------------------------------------
+
+	Mod For MGQ Paradox, You Are Free To Use This Mod, Make Changes To It,
+	Relealese It Using Your Own Custom RVTEXT Files, However The Original Game,
+	Scripts Used, And Any Supporting Material Belong To Their Original Creators, 
+	Please Support The Official Release
+
+  #---------------------------------------------------------------------------
   # HISTORY
   #---------------------------------------------------------------------------
 
-05-07-2015	First Release, Using: Language File System
-EX 0.1		Had Database Load Error, Dialogue Working
-		KilloZapit - Word Wrapping Added To Compensate For Google Translate
-		Incorporating Dargoth's 1.02a Patch Data
-
-05-18-2015	Found Database Cleaning Feature In Post Production
-EX 0.2		Altered Language File System To Work With This
-		Database Working
-
-05-26-2015	Worked On Extracting Script Text Data And Incorporated
-EX 0.3		Into Language File System
-
-06-02-2015	Fanservicefan Translated Some Data, better than Google Translate
-EX 0.4		Incorporating Data
-
-06-04-2015	Researching Error With KilloZapit - Word Wrapping
-EX 0.4c		Temp Patch To Handle Nil Upcase Error
-
-06-05-2015	If I could make a meme of something raping Google Translate I would...
-EX 0.4d		Cleaned Up DialoguesEnglish.rvtext; Rough Review Of 327,825 Lines Of Data
-		Added EX Readme
-		
-06-05-2015	Minor Update Cleaning Up Nanabi
-EX 0.4e		Used: http://monstergirlquest.wikia.com/wiki/Nanabi
-		Guessed Interpritation Using Previous Google Translate Data
-		Skill 3757 and 3759 Look Similar, Keeping Names Separate For Debugging
-
-06-06-2015	Minor Update Adding Script Basic Window Resizer v1.1
-EX 0.4f		Sets the max Res Possible.
-      		Graphics.resize_screen(640, 480)
-		Modified Language File System To Also Praise Game.ini For These Additions:
-		WinMode=		Discription
-			Fit		fits the game window to monitor size
-			Full		switches to full screen unless already fullscreened
-			Window		switches to window screen unless already windowed
-			Resize		resize the window to whatever size defined in 
-					Width & Hight (Might Cause Crash)
-
-		Width			Set As Positive Integer
-		Hight			Set As Positive Integer
-
-06-06-2015	Error Update Language File System
-EX 0.4g		Array Saved To rvtext Not Restored Correctly
-		Script Updated To Handle
-		SaveSystemData/FailureMes1, SaveSystemData/FailureMes2, 
-		SaveData/FailureMes1, SaveData/FailureMes2, 
-		Event_Search/DATA_EVENT_SYMBOL
-
-06-07-2015	Error Update Language File System
-EX 0.4h		@name not updated correctly in
-		class Game_Actor < Game_Battler
-		def display_level_up(new_skills)
-		Problem is in Language File System and an error report has 
-		been posted on its developers site
-		http://forums.rpgmakerweb.com/index.php?/topic/17964-language-file-system/
-		A temp fix has been created to address this issue
-
-06-07-2015	Researched Special Codes For RPG Maker VX Ace
-EX 0.4i		Added Script modern algebra - Global Text Codes [VXA]
-		http://rmrk.net/index.php/topic,44810.0.html
-		Found This Was Added In Dargoth 1.02a Patch
-
-06-09-2015	Fixed Chome’s Reverse Rape In DialoguesEnglish.rvtext
-EX 0.4j		
-
-06-09-2015	Troops Battle Event Pages Now Scanned By Language File System
-EX 0.4k		Only a few battles actually use this at the moment
-		This Update Affects DialoguesEnglish.rvtext & DialoguesJapanese.rvtext
-
-06-10-2015	Error:  Eva unlimited_choices for Request
-EX 0.4l		One day I will filter this better so I don't have
-		to update these manually...
-		Partial integration of Fanservicefan translations
-
-06-12-2015	Error:  Weapon 523 Not Named
-EX 0.4m		Integration of Fanservicefan Translations 06-12-2015
-		For Complete List Please See
-		http://pastebin.com/YUpBDXZN
-		Casian Sarpe Socaci Edits And Cleanup Reviewed From Weapons Down
-		English RVTEXT Files Updated
-
-06-13-2015	Integration of Fanservicefan Translations 06-13-2015
-EX 0.4n		For Complete List Please See
-		http://pastebin.com/YUpBDXZN
-		This Update Affects ScriptTextEnglish.rvtext
-		Added Script: KilloZapit - Cache Back
-		Hopefully This Improves Performance A Bit
-		Back end items affected.
-		Requires: \Graphics\System\
-			faceframe.png AND statusbackdrop.png
-
-06-14-2015	Integration of Fanservicefan Translations 06-14-2015
-EX 0.4o		For Complete List Please See
-		http://pastebin.com/YUpBDXZN
-		English RVTEXT Files Updated
-		Cleanup of RVTEXT files
-		RVTEXT files sorted some corrections made
-		Added 2 Functions To Language File System
-			update_rvtext_file(filename2, filename1 = nil, sorted = true, 
-						onlykeys = false, trueupdate = true)
-			load_rvtext_update
-		What they do:
-		If any of the following files are found on startup
-		rv1 = "DatabaseTextEnglish_Update.rvupd"
-      		rv2 = "DialoguesEnglish_Update.rvupd"
-      		rv3 = "ScriptTextEnglish_Update.rvupd"
-		Game will sync matching values and update corisponding rvtext file
-		This feature is new and well new;  Backup rvtext file before using
-		rvupd is a plain txt file formatted similar to 
-		Fanservicefan Translations Conversions
-		Once an rvupd is used a prefix "_used" is added to the end
-		DatabaseTextEnglish_Update.rvupd_used Added as an example
-
-06-15-2015	Integration of Fanservicefan Translations 06-15-2015
-EX 0.4p		For Complete List Please See
-		http://pastebin.com/YUpBDXZN
-		Updated DatabaseTextEnglish.rvtext and ScriptTextEnglish.rvtext
-		Backend Items Affected
-		Updated Library(Translation)
-		Removed Word-Wrap Overrides For 
-		Foo::JobChange::Window_ClassStatus
-		Modified These Job Descriptions
-		http://pastebin.com/QzFdMhtP
-
-06-18-2015	Integration of Fanservicefan Translations 06-18-2015
-EX 0.4q		For Complete List Please See
-		http://pastebin.com/YUpBDXZN
-		Updated ALL RVTEXT Files
-		Backend Items Affected
-		Updating Special Functions
-		Though Useful To Me Don't Offer
-		Much Otherwise.  Also reviewing
-		Dargoth's repository, fascinating...
-
-06-18-2015	Update For Integration of Fanservicefan Translations 06-18-2015
-		http://pastebin.com/R1zifhNU
-		Updated DialoguesEnglish.rvtext
-
-06-20-2015	Cleaned Up Places Based off Fanservicefan Translations: Warps
-		http://pastebin.com/tsFZZdBG
-		Updated ScriptTextEnglish.rvtext
-
-06-26-2015	Testing Filter System...
-EX 0.4r		You win some you lose some
-		Fixed Bug With Vitae Request
-		Updated ALL RVTEXT Files
-		Backend Items Affected
-
-06-26-2015	Integration of Casian Sarpe Socaci Skill Messages Update 06-26-2015
-		http://pastebin.com/e9qs8pf8
-		Updated DatabaseTextEnglish.rvtext
-
-06-27-2015	Integration of Casian Sarpe Socaci Item Description Updates 06-27-2015
-		http://pastebin.com/bxmSQYfK
-		Updated DatabaseTextEnglish.rvtext
-
-06-29-2015	Integration of Casian Sarpe Socaci Weapon Description Updates 06-29-2015
-EX 0.4s		http://pastebin.com/qGvw9nmZ
-		Updated DatabaseTextEnglish.rvtext
-		Update to DialoguesEnglish.rvtext
-		Cleanup Of:
-		003 - Secret Tent
-		051 - Pornfu
-		276 - Pocket Castle 2F West
-		624 - Grand Theatre
-		625 - Casino
-		633 - Sabasa Castle 2F
-		645 - Sacred Mountains Amos
-		Backend Items Affected (Minor Cleanup Of Sort Function)
-
-06-30-2015	Integration of Casian Sarpe Socaci Weapon Description Updates 2 06-29-2015
-EX 0.4t		http://pastebin.com/eTby3vkp
-		Updated DatabaseTextEnglish.rvtext
-		Update to DialoguesEnglish.rvtext
-		Cleanup Of:
-		011 - Luddite Village
-		060 - Medal Queen's Castle
-		228 - Pocket Castle 1F South
-		CE 008 - Medal Queen
-		Backend Items Affected (Fix Medal Queen’s Menu)
-
-07-02-2015	Integration of Casian Sarpe Socaci Item, Weapon, Armor Description Updates 3 07/02/2015
-EX 0.4u		http://pastebin.com/Y5kYbZvr
-		Updated DatabaseTextEnglish.rvtext
-		Update to DialoguesEnglish.rvtext
-		Cleanup Of:
-		185 - Indoor
-		110 - Ancient Temple Ruins 1F
-		111 - Ancient Temple Ruins 3F
-		112 - Ancient Temple Ruins B1F
-		113 - Ancient Temple Ruins 2F
-		Common Events - 033
-		Common Events - 046
-		Common Events - 053
-		Common Events - 057
-		Common Events - 1133
-		Backend Items Affected (Fix Shinigami's Menu, Fix Julia's Menu)
-		Note:  Curse these two script calls...	unlimited_choices & ex_choice_add
-
-07-04-2015	Updated Language File System To Handle unlimited_choices & ex_choice_add options better
-EX 0.4v		Update to ScriptTextEnglish.rvtext & ScriptTextJapanese.rvtext
-		Entries Added:  TRAN/NWConstLibrary/UCO
-				TRAN/NWConstLibrary/ECA
-		Backend Items Affected (unlimited_choices & ex_choice_add options Now use data pulled from ScriptText)
-		Note:  Some options might have changed in this update
-
-07-05-2015	Integration of Casian Sarpe Socaci Skill Messages & Descriptions Updates 4 07/05/2015
-EX 0.4w		http://pastebin.com/H79AjG6z
-		Update to DialoguesEnglish.rvtext
-		Cleanup Of:
-		114 - Pyramid 1F
-		115 - Pyramid 2F
-		116 - Pyramid 3F
-		117 - Pyramid 4F
-		Backend Items Affected (Added XS - Popup Item)
-		Note:  Some options might have changed in this update
-
-07-09-2015	Reintroduced Similar Error from EX 0.4c with EX 0.4i
-EX 0.4x		Researching Error With Script modern algebra - Global Text Codes [VXA]
-		Temp Patch To Handle Nil Upcase Error
-		Update to DialoguesEnglish.rvtext
-		Cleanup Of:
-		030 - Indoor
-		128 - Forest Spirit
-		626 - Enrica
-		628 - Pocket Castle
-		Backend Items Affected (Updated modern algebra - Global Text Codes [VXA])
+08-09-2015 	MGQ Paradox EX Archive History (All Changes Before EX 0.5)
+		http://pastebin.com/6dgexrLN
 
 07-20-2015	Updated For Paradox 1.20.00
 EX 0.5		Please Upgrade to 1.20.00 before using
@@ -539,3 +415,17 @@ EX 0.5g		Backend Items Affected: Fixed Cooking Menu Portion Not Translated, Clea
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will update further later
 
+08-09-2015	Incorporated Dargoth's Patch 1.21a Into Dialogues And Database
+EX 0.5h		Backend Items Affected:
+		Modified Language File System: 
+		Corrected Logic Error When Setting Up Actors (DerTraveler Had It Set To Be Language Dependent, 
+			Changed To Be The Language When Acquiring The Actor Is How It Is Saved In
+			And The Rename Feature Can Be Used To Correct Later), 
+		Corrected Logic Error When Displaying Empty Text (Used To Keep Picture Displayed Until Key Is Pressed), 
+		Also Praise Game.ini For These Additions:
+		EnableSaveDebug=	Changes How Paradox Loads Saves
+			False		Disables Displaying An Error Message When A Save Fails To Load (Default)
+			True		Enables Displaying An Error Message When A Save Fails To Load, Though It Won't Correct The Error
+		Special Thank To Casian Sarpe Socaci
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Will Update Further Later
