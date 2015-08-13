@@ -14826,7 +14826,7 @@ Demon Decapitation
 <スキル命中補正率:15>
 
 <<skills/938/description>>
-Power:C \*\ie[5]+ Target:Foe Effect: Swift Strike,+
+Power:C (Att)*\ie[5]+ Target:Foe Effect: Swift Strike,+
 A high speed thrust that's swift as lightning.
 
 <<skills/938/message1>>
