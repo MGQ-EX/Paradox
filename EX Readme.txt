@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5h.rar 12.7 MB
+  # Current Version MGQ Paradox Translation EX 0.5i.rar 12.7 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -136,6 +136,23 @@ Modified Game.ini For These Additions:
 		EnableSaveDebug=	Changes How Paradox Loads Saves
 			False		Disables Displaying An Error Message When A Save Fails To Load (Default)
 			True		Enables Displaying An Error Message When A Save Fails To Load
+
+		UseElementIcons=	Changes How Paradox Handles Element Icons In Database
+			False		Disables Displaying Element Icons And Will Use Names Instead (Default)
+			True		Enables Displaying Element Icons Though Will Default To Name If Icon Is Not Found
+					*Note: Only Effects Elements Coded With Tag \ie[Element ID]
+
+		UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
+			False		Disables Displaying Status Icons And Will Use Names Instead (Default)
+			True		Enables Displaying Status Icons Though Will Default To Name If Icon Is Not Found
+					*Note: Only Effects States Coded With Tag \nt[State ID]
+
+		UseJobChangePercents=	Changes How Paradox Displays Job Change Information
+			False		Displays Information Using The Rank System (Default)
+			True		Displays Information Using Dargoth's Percentage Chart
+					*Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
+					         In The System That Offers The Alternative View
+					*Note 2: This Does Not Effect Entries In The Database
 
   #---------------------------------------------------------------------------
   # For Those Coming From 1.02 or later to 1.21 (Upgrading)
@@ -293,6 +310,10 @@ Yanfly Engine Ace - Debug Extension
 Version: 1.01
 https://yanflychannel.wordpress.com/rmvxa/utility-scripts/debug-extension/
 
+Yanfly Engine Ace - Ace Message System
+Version: 1.05
+https://yanflychannel.wordpress.com/rmvxa/core-scripts/ace-message-system/
+
   #---------------------------------------------------------------------------
   # END USER LICENSE AGREEMENT [EULA]
   #---------------------------------------------------------------------------
@@ -427,5 +448,40 @@ EX 0.5h		Backend Items Affected:
 			False		Disables Displaying An Error Message When A Save Fails To Load (Default)
 			True		Enables Displaying An Error Message When A Save Fails To Load, Though It Won't Correct The Error
 		Special Thank To Casian Sarpe Socaci
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Will Update Further Later
+
+*Developer's Build*
+08-12-2015	Incorporated Casian Sarpe Socaci's Changes To ScriptTextEnglish.rvtext
+EX 0.5i		Backend Items Affected: 
+			* Corrected Battle Start Percentage Hash Not Returning Intended Value,
+			  Fixed Typo In Script: Infrastructure System/Enchanted Name
+			* Cleaned Up Some Coding To Implement Additional Features For Name Standardization
+			* Removed Script: XS - Popup Item (Testing Bug In Item/Gold Gain/Loss)
+			* Added Script: YEA - Ace Message System
+			  https://yanflychannel.wordpress.com/rmvxa/core-scripts/ace-message-system/
+			* Overwrite In Script: Infrastructure System/Dialogue Management
+			  class Word def initialize(word_data, face_name, face_index)
+			  Updated To process special message codes
+			  Added Function: Word.convert_new_escape_characters(text)
+			  To process text outside the normal message system
+		Also Praise Game.ini For These Additions:
+		UseElementIcons=	Changes How Paradox Handles Element Icons In Database
+			False		Disables Displaying Element Icons And Will Use Names Instead (Default)
+			True		Enables Displaying Element Icons Though Will Default To Name If Icon Is Not Found
+					*Note: Only Effects Elements Coded With Tag \ie[Element ID]
+
+		UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
+			False		Disables Displaying Status Icons And Will Use Names Instead (Default)
+			True		Enables Displaying Status Icons Though Will Default To Name If Icon Is Not Found
+					*Note: Only Effects States Coded With Tag \nt[State ID]
+
+		UseJobChangePercents=	Changes How Paradox Displays Job Change Information
+			False		Displays Information Using The Rank System (Default)
+			True		Displays Information Using Dargoth's Percentage Chart
+					*Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
+					         In The System That Offers The Alternative View
+					*Note 2: This Does Not Effect Entries In The Database
+
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will Update Further Later
