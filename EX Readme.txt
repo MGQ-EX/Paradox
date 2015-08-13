@@ -452,7 +452,7 @@ EX 0.5h		Backend Items Affected:
 		Will Update Further Later
 
 *Developer's Build*
-08-12-2015	Incorporated Casian Sarpe Socaci's Changes To ScriptTextEnglish.rvtext
+08-13-2015	Incorporated Casian Sarpe Socaci's Changes To ScriptTextEnglish.rvtext
 EX 0.5i		Backend Items Affected: 
 			* Corrected Battle Start Percentage Hash Not Returning Intended Value,
 			  Fixed Typo In Script: Infrastructure System/Enchanted Name
@@ -483,5 +483,12 @@ EX 0.5i		Backend Items Affected:
 					         In The System That Offers The Alternative View
 					*Note 2: This Does Not Effect Entries In The Database
 
+		DialoguesEnglish.rvtext:
+			Cleaned Up: Standardizing Items, Armors, Weapons, And Gold Gained
+				Common Events 033-036, 1001
+			
+		Added 5 Entries To ScriptTextEnglish.rvtext To Expand Its Scope To Handle Job Change Sort Catagories
+			TRAN/NWConstLibrary/RACE_SPECIAL_NAME 
+			Main, Other, Goddess, Evil Goddess, Monster Lord
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will Update Further Later
