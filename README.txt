@@ -19,6 +19,7 @@ http://pastebin.com/k9MNPZsb
 	# Translators Update Patch In EX
 	# Translators Used In EX
 	# Scripts Used In EX
+	# Message Window text Codes
 	# END USER LICENSE AGREEMENT [EULA]
 	# HISTORY
 
@@ -136,6 +137,23 @@ Modified Game.ini For These Additions:
 		EnableSaveDebug=	Changes How Paradox Loads Saves
 			False		Disables Displaying An Error Message When A Save Fails To Load (Default)
 			True		Enables Displaying An Error Message When A Save Fails To Load
+
+		UseElementIcons=	Changes How Paradox Handles Element Icons In Database
+			False		Disables Displaying Element Icons And Will Use Names Instead (Default)
+			True		Enables Displaying Element Icons Though Will Default To Name If Icon Is Not Found
+					*Note: Only Effects Elements Coded With Tag \ie[Element ID]
+
+		UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
+			False		Disables Displaying Status Icons And Will Use Names Instead (Default)
+			True		Enables Displaying Status Icons Though Will Default To Name If Icon Is Not Found
+					*Note: Only Effects States Coded With Tag \it[State ID]
+
+		UseJobChangePercents=	Changes How Paradox Displays Job Change Information
+			False		Displays Information Using The Rank System (Default)
+			True		Displays Information Using Dargoth's Percentage Chart
+					*Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
+					         In The System That Offers The Alternative View
+					*Note 2: This Does Not Effect Entries In The Database
 
   #---------------------------------------------------------------------------
   # For Those Coming From 1.02 or later to 1.21 (Upgrading)
@@ -292,6 +310,38 @@ http://www.rpgmakervxace.net/topic/2490-xs-popup-item/
 Yanfly Engine Ace - Debug Extension 
 Version: 1.01
 https://yanflychannel.wordpress.com/rmvxa/utility-scripts/debug-extension/
+
+Yanfly Engine Ace - Ace Message System
+Version: 1.05
+https://yanflychannel.wordpress.com/rmvxa/core-scripts/ace-message-system/
+
+  # --------------------------------------------------------------------------
+  # Message Window Text Codes
+  # (Uses Yanfly Engine Ace - Ace Message System)
+  # --------------------------------------------------------------------------
+
+	#  NameWindow: Effect:
+	    \n<x>     - Creates a name box with x string. Left side.
+	    \nc<x>    - Creates a name box with x string. Centered.
+	    \nr<x>    - Creates a name box with x string. Right side.
+	    \n[x]     - Writes actor x's name.
+	    \en[x]    - Writes out enemy's name.
+	    \v[x]     - Writes variable x's value.
+	    \g        - Writes gold currency name.
+	    \nc[x]    - Writes out class x's name.
+	    \ni[x]    - Writes out item x's name.
+	    \nw[x]    - Writes out weapon x's name.
+	    \na[x]    - Writes out armour x's name.
+	    \ns[x]    - Writes out skill x's name.
+	    \nt[x]    - Writes out state x's name.
+	    \ne[x]    - Writes out element x's name.
+	    \i[x]     - Draws icon x at position of the text.
+	    \ii[x]    - Writes out item x's name including icon.
+	    \iw[x]    - Writes out weapon x's name including icon.
+	    \ia[x]    - Writes out armour x's name including icon.
+	    \is[x]    - Writes out skill x's name including icon.
+	    \it[x]    - Writes out state x's name or icon.
+	    \ie[x]    - Writes out element x's name or icon.
 
   #---------------------------------------------------------------------------
   # END USER LICENSE AGREEMENT [EULA]
