@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5i.rar 12.7 MB
+  # Current Version MGQ Paradox Translation EX 0.5j.rar 12.7 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -525,3 +525,34 @@ EX 0.5i		Backend Items Affected:
 			Main, Other, Goddess, Evil Goddess, Monster Lord
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will Update Further Later
+
+08-14-2015	Fixed Error In DialoguesEnglish.rvtext Reported By element, Nero Name Tag Incorrectly Set
+EX 0.5j		Updated A Few Entries In ScriptTextEnglish.rvtext For TRAN/NWConstLibrary/SKILL_SPECIAL_NAME
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Will update further later
+
+*Developer Version*
+08-15-2015	Suggested By LostDGod Added Script: Basic Enemy HP Bars v2.1
+EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
+		Also Praise Game.ini For These Additions:
+		Enable_DTP_HP=			Determines How Health Bars Are Displayed For Enemies
+						(Requires For All Sub Settings)
+				False		Not Displayed (Default)
+				True		Displayed
+
+		DTP_HP_Use_HP_Bar=		Displays The Enemy Health Bar
+				False		Not Displayed
+				True		Displayed (Default)
+
+		DTP_HP_Use_MP_Bar=		Displays The Enemy Magic Bar
+				False		Not Displayed
+				True		Displayed (Default)
+
+		DTP_HP_Only_On_Target=		Displays Only When Enemy Targetted
+				False		Displays All The Time
+				True		Only When Targetted (Default)
+
+		DTP_HP_Position=		Position Of Enemy Health Bar
+				Above		Displayed Above Enemy
+				Middle		Displayed In Middle Of Enemy (Default)
+				Below		Displayed Below Enemy
