@@ -556,3 +556,9 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 				Above		Displayed Above Enemy
 				Middle		Displayed In Middle Of Enemy (Default)
 				Below		Displayed Below Enemy
+
+		DTP_Text_Display=		Text To Display Above Health Bar
+				chp		current hp
+				mhp		max hp
+				php		percentage hp
+				states		current inflicted states
