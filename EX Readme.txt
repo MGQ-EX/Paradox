@@ -534,6 +534,10 @@ EX 0.5j		Updated A Few Entries In ScriptTextEnglish.rvtext For TRAN/NWConstLibra
 *Developer Version*
 08-15-2015	Suggested By LostDGod Added Script: Basic Enemy HP Bars v2.1
 EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
+		Suggested Option To Change Battle Music By Casian Sarpe Socaci
+		Modified Script: efeberk - Random Battle & Vehicle BGM
+		http://www.rpgmakervxace.net/topic/15202-simple-random-battle-bgm/
+		(Only Battle Music Currently Implemented)
 		Also Praise Game.ini For These Additions:
 		Enable_DTP_HP=			Determines How Health Bars Are Displayed For Enemies
 						(Requires For All Sub Settings)
@@ -562,3 +566,15 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 				mhp		max hp
 				php		percentage hp
 				states		current inflicted states
+
+		UseCustomBattleBGM=
+				False		Uses Default Battle Music (Default)
+				True		Uses Custom Random Music
+
+		CustomBattleBGM_[X]=		X Custom Random Music Added To 'Audio\BGM' Not Including File Extension
+		IE:
+		CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
+
+		Added 1 Audio File To Test Custom Battle Music:
+		* battle_ex1.ogg		Battle Music From FF Mystic Quest
+
