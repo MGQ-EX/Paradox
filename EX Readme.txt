@@ -578,6 +578,6 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 		Added 2 Files To Test Custom Battle Music:
 		* battle_ex1.ogg		Battle Music From FF Mystic Quest
 
-		Integrating ScriptTextEnglish.rvtext Changes From Casian Sarpe Socaci
+		Integrated ScriptTextEnglish.rvtext Changes From Casian Sarpe Socaci
 		Backend Items Affected:  Fixed Ability Menu
 
