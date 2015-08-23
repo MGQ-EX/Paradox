@@ -579,5 +579,6 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 		* battle_ex1.ogg		Battle Music From FF Mystic Quest
 
 		Integrated ScriptTextEnglish.rvtext Changes From Casian Sarpe Socaci
+		Cleaned Up 11 DatabaseEnglish.rvtext Entries No Longer Used Thanks To Sazuju
 		Backend Items Affected:  Fixed Ability Menu
 
