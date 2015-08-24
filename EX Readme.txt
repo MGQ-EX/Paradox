@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5j.rar 12.7 MB
+  # Current Version MGQ Paradox Translation EX 0.5k.rar 16.0 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -154,6 +154,42 @@ Modified Game.ini For These Additions:
 					*Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
 					         In The System That Offers The Alternative View
 					*Note 2: This Does Not Effect Entries In The Database
+
+		Enable_DTP_HP=			Determines How Health Bars Are Displayed For Enemies
+						(Requires For All Sub Settings)
+				False		Not Displayed (Default)
+				True		Displayed
+
+		DTP_HP_Use_HP_Bar=		Displays The Enemy Health Bar
+				False		Not Displayed
+				True		Displayed (Default)
+
+		DTP_HP_Use_MP_Bar=		Displays The Enemy Magic Bar
+				False		Not Displayed
+				True		Displayed (Default)
+
+		DTP_HP_Only_On_Target=		Displays Only When Enemy Targetted
+				False		Displays All The Time
+				True		Only When Targetted (Default)
+
+		DTP_HP_Position=		Position Of Enemy Health Bar
+				Above		Displayed Above Enemy
+				Middle		Displayed In Middle Of Enemy (Default)
+				Below		Displayed Below Enemy
+
+		DTP_Text_Display=		Text To Display Above Health Bar
+				chp		current hp
+				mhp		max hp
+				php		percentage hp
+				states		current inflicted states
+
+		UseCustomBattleBGM=
+				False		Uses Default Battle Music (Default)
+				True		Uses Custom Random Music
+
+		CustomBattleBGM_[X]=		X Custom Random Music Added To 'Audio\BGM' Not Including File Extension
+		IE:
+		CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
 
   #---------------------------------------------------------------------------
   # For Those Coming From 1.02 or later to 1.21 (Upgrading)
@@ -531,7 +567,6 @@ EX 0.5j		Updated A Few Entries In ScriptTextEnglish.rvtext For TRAN/NWConstLibra
 		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
 		Will update further later
 
-*Developer Version*
 08-15-2015	Suggested By LostDGod Added Script: Basic Enemy HP Bars v2.1
 EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 		Suggested Option To Change Battle Music By Casian Sarpe Socaci
@@ -575,10 +610,10 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 		IE:
 		CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
 
-		Added 2 Files To Test Custom Battle Music:
-		* battle_ex1.ogg		Battle Music From FF Mystic Quest
+		Added 1 Files To Test Custom Battle Music:
+		* battle_ex1.ogg		Music From Monster Girl Quest Paradox RPG Trailer
 
 		Integrated ScriptTextEnglish.rvtext Changes From Casian Sarpe Socaci
-		Cleaned Up 11 DatabaseEnglish.rvtext Entries No Longer Used Thanks To Sazuju
+		Cleaned Up 11 DatabaseTextEnglish.rvtext Entries No Longer Used Thanks To Sazuju
 		Backend Items Affected:  Fixed Ability Menu
 
