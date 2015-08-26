@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5k.rar 16.0 MB
+  # Current Version MGQ Paradox Translation EX 0.5k.rar 14.7 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -610,10 +610,15 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 		IE:
 		CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
 
-		Added 1 Files To Test Custom Battle Music:
+		Added 2 Files To Test Custom Battle Music:
 		* battle_ex1.ogg		Music From Monster Girl Quest Paradox RPG Trailer
 
 		Integrated ScriptTextEnglish.rvtext Changes From Casian Sarpe Socaci
 		Cleaned Up 11 DatabaseTextEnglish.rvtext Entries No Longer Used Thanks To Sazuju
 		Backend Items Affected:  Fixed Ability Menu
 
+*Developer Version*
+08-26-2015	Error Reported By LostDGod In Script: Basic Enemy HP Bars v2.1
+EX 0.5l		Updated To Handle Going Into 'Config" Menu While In Battle
+		DatabaseTextEnglish.rvtext Typo In Skill - 2493; Skill - 2654 Not Changed As Translation Is "Power: Variable"
+		Backend Items Affected: Fixed Logic Error In UCO, Updated ScriptText
