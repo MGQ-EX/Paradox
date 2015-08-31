@@ -10,6 +10,8 @@ http://pastebin.com/k9MNPZsb
   #---------------------------------------------------------------------------
 
 	# About MGQ Paradox Translation EX
+	# Grandork MGQ Paradox Guides & Walkthrough
+	# High Res World Map 1.21 With Warp Points
 	# Git Repository
 	# Bug Reporting & Tracking
 	# USING MGQ Paradox Translation EX
@@ -39,8 +41,30 @@ English Site link: http://dargothtranslations.wordpress.com/
 Reason: Core Files Are Altered Differently, However Manual Patching Is The Same With The Exception To Step 5 (Use His Manual Patch Instead)
 	As Dargoth Inadvertently Helped Start MGQ EX Hommage Is Paid To The King
 
+  #---------------------------------------------------------------------------
+  # Grandork MGQ Paradox Guides & Walkthrough
+  #---------------------------------------------------------------------------
+
 Grandork MGQ Paradox Guides & Walkthrough
 English Site link: http://www.ulmf.org/bbs/showthread.php?t=26850
+
+  #---------------------------------------------------------------------------
+  # High Res World Map 1.21 With Warp Points
+  #---------------------------------------------------------------------------
+
+Current Map Scaled To 1/2 Scale From RPG Maker VX Ace Editor And Using SnagIt, www.techsmith.com/snagit.html
+sys_map_current_warp.png 7.9 MB
+
+http://mega.nz/#!PAcSnCyR!DJzuLY4Bqml8FMPmVetE85sqEaDwYQ4YB2-iUkdmGa8
+
+http://www.4shared.com/photo/SW0fO8RZce/sys_map_current_warp.html
+
+http://www.mediafire.com/view/4hdr0942f0zsjsw/sys_map_current_warp.png
+
+http://depositfiles.com/files/n832tclad
+
+Note: 1/1 Would Be Preferred, SnagIt Produces A Blank Image When Attempted...
+      Low Res Version Was Used For The Areas Yet Completed.
 
   #---------------------------------------------------------------------------
   # Git Repository
@@ -339,9 +363,13 @@ V.M of D.T. - Basic Window Resizer
 Version: 1.1
 http://forums.rpgmakerweb.com/index.php?/topic/2033-basic-window-resizer/
 
-XS - Popup Item
-Version 1.1c
-http://www.rpgmakervxace.net/topic/2490-xs-popup-item/
+V.M of D.T. - RBasic Enemy HP Bars
+Version: 2.8.2
+http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
+
+efeberk - Random Battle & Vehicle BGM
+Version: 1.1
+http://www.rpgmakervxace.net/topic/15202-simple-random-battle-bgm/
 
 Yanfly Engine Ace - Debug Extension 
 Version: 1.01
@@ -618,7 +646,17 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 		Backend Items Affected:  Fixed Ability Menu
 
 *Developer Version*
-08-26-2015	Error Reported By LostDGod In Script: Basic Enemy HP Bars v2.1
-EX 0.5l		Updated To Handle Going Into 'Config" Menu While In Battle
+08-31-2015	Error Reported By LostDGod In Script: Basic Enemy HP Bars v2.1
+EX 0.5l		Updated To Handle Going Into 'Config" Menu While In Battle,
+		Handle Error "Unable To Find Map" For Maps Not Yet Implemented,
+		Handle Error "Unable To Play Music" For Music Not Found
 		DatabaseTextEnglish.rvtext Typo In Skill - 2493; Skill - 2654 Not Changed As Translation Is "Power: Variable"
 		Backend Items Affected: Fixed Logic Error In UCO, Updated ScriptText
+		Implemented DatabaseTextEnglish Updates From Casian Sarpe Socaci
+		Updated EX Readme To Include High Res World Map (I Still Want Better, Such Is Greed...)
+		Added/Changed Graphics Files 'sys_iti.png' And 'sys_loc.png' Rounding Off The Edges
+		Added/Changed Bonus Features:
+		* "Grant Me Power!" Function Changed To "Enlighten Us!" As It Deals With Experience
+		* "Grant Me Power!" Now Gives A Nice Stat Boost To Selected Actor
+		* "View World Map With Warp Points" Will Display The World Map With All Warp Points Displayed
+		  Note: This Is Not The High Res Version, Currently For R&D
