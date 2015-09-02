@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5k.rar 14.7 MB
+  # Current Version MGQ Paradox Translation EX 0.5l.rar 16.0 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -645,14 +645,14 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 		Cleaned Up 11 DatabaseTextEnglish.rvtext Entries No Longer Used Thanks To Sazuju
 		Backend Items Affected:  Fixed Ability Menu
 
-*Developer Version*
-08-31-2015	Error Reported By LostDGod In Script: Basic Enemy HP Bars v2.1
+09-01-2015	Error Reported By LostDGod In Script: Basic Enemy HP Bars v2.1
 EX 0.5l		Updated To Handle Going Into 'Config" Menu While In Battle,
 		Handle Error "Unable To Find Map" For Maps Not Yet Implemented,
 		Handle Error "Unable To Play Music" For Music Not Found
 		DatabaseTextEnglish.rvtext Typo In Skill - 2493; Skill - 2654 Not Changed As Translation Is "Power: Variable"
 		Backend Items Affected: Fixed Logic Error In UCO, Updated ScriptText
 		Implemented DatabaseTextEnglish Updates From Casian Sarpe Socaci
+		Reviewed Desert Eagle Changes To Character Traits, Updated ScriptTextEnglish Entries That Didn't Matched
 		Updated EX Readme To Include High Res World Map (I Still Want Better, Such Is Greed...)
 		Added/Changed Graphics Files 'sys_iti.png' And 'sys_loc.png' Rounding Off The Edges
 		Added/Changed Bonus Features:
