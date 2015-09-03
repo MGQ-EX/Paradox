@@ -647,9 +647,9 @@ EX 0.5k		http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 
 09-01-2015	Error Reported By LostDGod In Script: Basic Enemy HP Bars v2.1
 EX 0.5l		Updated To Handle Going Into 'Config" Menu While In Battle,
+		DatabaseTextEnglish.rvtext Typo In Skill - 2493; Skill - 2654 Not Changed As Translation Is "Power: Variable"
 		Handle Error "Unable To Find Map" For Maps Not Yet Implemented,
 		Handle Error "Unable To Play Music" For Music Not Found
-		DatabaseTextEnglish.rvtext Typo In Skill - 2493; Skill - 2654 Not Changed As Translation Is "Power: Variable"
 		Backend Items Affected: Fixed Logic Error In UCO, Updated ScriptText
 		Implemented DatabaseTextEnglish Updates From Casian Sarpe Socaci
 		Reviewed Desert Eagle Changes To Character Traits, Updated ScriptTextEnglish Entries That Didn't Matched
@@ -660,3 +660,10 @@ EX 0.5l		Updated To Handle Going Into 'Config" Menu While In Battle,
 		* "Grant Me Power!" Now Gives A Nice Stat Boost To Selected Actor
 		* "View World Map With Warp Points" Will Display The World Map With All Warp Points Displayed
 		  Note: This Is Not The High Res Version, Currently For R&D
+
+*Developer Build*
+09-02-2015	Errors Reported By Sazaju:
+EX 0.5m		* Small Remnant Of Google Translate Error In DialoguesEnglish.rvtext
+		* Japanese Entries For TRAN/NWConstLibrary/ Got Messed Up With Previous Update
+		Researching Problem With Latest RVTEXT Build Process
+		Added Bonus Feature: "Complete Library" Still In Testing, Backup Save Folder Before Using...
