@@ -144,76 +144,83 @@ MGQ Paradox EX Directory Structure
 http://pastebin.com/fMx7HE47
 
 Modified Game.ini For These Additions:
-	WinMode=		Description
-	Fit		        fits the game window to monitor size
-	Full		    switches to full screen unless already full screened
-	Window		    switches to window screen unless already windowed
-	Resize		    resize the window to whatever size defined in
-				    Width & Height (Might Cause Crash)
 
-    Width			Set As Positive Integer
-	Height			Set As Positive Integer
+    WinMode=          Description
+    Fit               fits the game window to monitor size
+    Full              switches to full screen unless already full screened
+    Window            switches to window screen unless already windowed
+    Resize            resize the window to whatever size defined in
+                      Width & Height (Might Cause Crash)
 
-	EnableBonus=		Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
-	    False	        Disables Bonus Features (Default)
-		True	        Enables Bonus Features
+    Width             Set As Positive Integer
+    Height            Set As Positive Integer
 
-    EnableSaveDebug=	Changes How Paradox Loads Saves
-		False		    Disables Displaying An Error Message When A Save Fails To Load (Default)
-		True		    Enables Displaying An Error Message When A Save Fails To Load
+	EnableBonus=      Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
+    False             Disables Bonus Features (Default)
+    True              Enables Bonus Features
 
-	UseElementIcons=	Changes How Paradox Handles Element Icons In Database
-		False		    Disables Displaying Element Icons And Will Use Names Instead (Default)
-		True		    Enables Displaying Element Icons Though Will Default To Name If Icon Is Not Found
-				*Note: Only Effects Elements Coded With Tag \ie[Element ID]
+    EnableSaveDebug=  Changes How Paradox Loads Saves
+    False             Disables Displaying An Error Message When A
+                      Save Fails To Load (Default)
+    True              Enables Displaying An Error Message When A
+                      Save Fails To Load
 
-	UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
-		False		        Disables Displaying Status Icons And Will Use Names Instead (Default)
-		True		        Enables Displaying Status Icons Though Will Default To Name If Icon Is Not Found
-				*Note: Only Effects States Coded With Tag \it[State ID]
+    UseElementIcons=  Changes How Paradox Handles Element Icons In Database
+    False             Disables Displaying Element Icons And Will Use
+                      Names Instead (Default)
+    True              Enables Displaying Element Icons Though Will
+                      Default To Name If Icon Is Not Found
+                *Note: Only Effects Elements Coded With Tag \ie[Element ID]
 
-	UseJobChangePercents=	Changes How Paradox Displays Job Change Information
-		False		        Displays Information Using The Rank System (Default)
-		True		        Displays Information Using Dargoth's Percentage Chart
-				*Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
-				         In The System That Offers The Alternative View
-				*Note 2: This Does Not Effect Entries In The Database
+    UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
+    False                   Disables Displaying Status Icons
+                            And Will Use Names Instead (Default)
+    True                    Enables Displaying Status Icons Though Will
+                            Default To Name If Icon Is Not Found
+                *Note: Only Effects States Coded With Tag \it[State ID]
 
-	Enable_DTP_HP=			Determines How Health Bars Are Displayed For Enemies
-					(Requires For All Sub Settings)
-		False		        Not Displayed (Default)
-		True		        Displayed
+    UseJobChangePercents=   Changes How Paradox Displays Job Change Information
+    False                   Displays Information Using The Rank System (Default)
+    True                    Displays Information Using Dargoth's Percentage Chart
+        *Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
+                 In The System That Offers The Alternative View
+        *Note 2: This Does Not Effect Entries In The Database
 
-	DTP_HP_Use_HP_Bar=		Displays The Enemy Health Bar
-		False		        Not Displayed
-		True		        Displayed (Default)
+    Enable_DTP_HP=        Determines How Health Bars Are Displayed For Enemies
+         (Required For All Sub Settings)
+    False                 Not Displayed (Default)
+    True                  Displayed
 
-	DTP_HP_Use_MP_Bar=		Displays The Enemy Magic Bar
-		False		        Not Displayed
-		True		        Displayed (Default)
+    DTP_HP_Use_HP_Bar=    Displays The Enemy Health Bar
+    False                 Not Displayed
+    True                  Displayed (Default)
 
-	DTP_HP_Only_On_Target=		Displays Only When Enemy Targetted
-		False		            Displays All The Time
-		True		            Only When Targetted (Default)
+    DTP_HP_Use_MP_Bar=    Displays The Enemy Magic Bar
+    False                 Not Displayed
+    True                  Displayed (Default)
 
-	DTP_HP_Position=		Position Of Enemy Health Bar
-		Above		        Displayed Above Enemy
-		Middle		        Displayed In Middle Of Enemy (Default)
-		Below		        Displayed Below Enemy
+    DTP_HP_Only_On_Target=      Displays Only When Enemy Targetted
+    False                       Displays All The Time
+    True                        Only When Targetted (Default)
 
-	DTP_Text_Display=		Text To Display Above Health Bar
-		chp		            current hp
-		mhp		            max hp
-		php		            percentage hp
-		states		        current inflicted states
+    DTP_HP_Position=            Position Of Enemy Health Bar
+    Above                       Displayed Above Enemy
+    Middle                      Displayed In Middle Of Enemy (Default)
+    Below                       Displayed Below Enemy
 
-	UseCustomBattleBGM=
-		False		Uses Default Battle Music (Default)
-		True		Uses Custom Random Music
+    DTP_Text_Display=           Text To Display Above Health Bar
+    chp                         current hp
+    mhp                         max hp
+    php                         percentage hp
+    states                      current inflicted states
 
-	CustomBattleBGM_[X]=		X Custom Random Music Added To 'Audio\BGM' Not Including File Extension
-		IE:
-		CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
+    UseCustomBattleBGM=
+    False           Uses Default Battle Music (Default)
+    True            Uses Custom Random Music
+
+    CustomBattleBGM_[X]=		X Custom Random Music Added To 'Audio\BGM' Not Including File Extension
+    IE:
+    CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
 
   #---------------------------------------------------------------------------
   # For Those Coming From 1.02 or later to 1.21 (Upgrading)
