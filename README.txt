@@ -155,7 +155,8 @@ Modified Game.ini For These Additions:
     Width             Set As Positive Integer
     Height            Set As Positive Integer
 
-	EnableBonus=      Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
+	EnableBonus=      Changes Features Found In MGQ EX's Sparkly Scroll
+                      Menu In Pocket Castle 1F South
     False             Disables Bonus Features (Default)
     True              Enables Bonus Features
 
@@ -170,9 +171,10 @@ Modified Game.ini For These Additions:
                       Names Instead (Default)
     True              Enables Displaying Element Icons Though Will
                       Default To Name If Icon Is Not Found
-                *Note: Only Effects Elements Coded With Tag \ie[Element ID]
+    *Note: Only Effects Elements Coded With Tag \ie[Element ID]
 
-    UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
+    UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In
+                            Database
     False                   Disables Displaying Status Icons
                             And Will Use Names Instead (Default)
     True                    Enables Displaying Status Icons Though Will
@@ -181,13 +183,13 @@ Modified Game.ini For These Additions:
 
     UseJobChangePercents=   Changes How Paradox Displays Job Change Information
     False                   Displays Information Using The Rank System (Default)
-    True                    Displays Information Using Dargoth's Percentage Chart
-        *Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
-                 In The System That Offers The Alternative View
-        *Note 2: This Does Not Effect Entries In The Database
+    True                    Displays Information Using Dargoth's Chart
+    *Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
+             In The System That Offers The Alternative View
+    *Note 2: This Does Not Effect Entries In The Database
 
     Enable_DTP_HP=        Determines How Health Bars Are Displayed For Enemies
-         (Required For All Sub Settings)
+    (Required For All Sub Settings)
     False                 Not Displayed (Default)
     True                  Displayed
 
@@ -218,9 +220,11 @@ Modified Game.ini For These Additions:
     False           Uses Default Battle Music (Default)
     True            Uses Custom Random Music
 
-    CustomBattleBGM_[X]=		X Custom Random Music Added To 'Audio\BGM' Not Including File Extension
+    CustomBattleBGM_[X]=		X Custom Random Music Added To
+                                'Audio\BGM' Not Including File Extension
     IE:
-    CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
+    CustomBattleBGM_[0]=battle	battle.ogg will be used
+                                (If File Not Found It Is Ignored)
 
   #---------------------------------------------------------------------------
   # For Those Coming From 1.02 or later to 1.21 (Upgrading)
@@ -297,24 +301,26 @@ Modified Game.ini For These Additions:
 	Note 2: This Currently Only Effects Menus, Plan To Expand
             This At A Later Date
 
-	This Can Also Be Used To Correct Names That Are Not Being Displayed Correctly
-	Can Also Be Used To Fix 'display_use_item' Error As Correcting The Actor Names Will Make That Work As Originally Intended.
+	This Can Also Be Used To Correct Names That Are Not Being Displayed
+    Correctly.
+	Can Also Be Used To Fix 'display_use_item' Error As Correcting The
+    Actor Names Will Make That Work As Originally Intended.
 
   #---------------------------------------------------------------------------
   # Translators Update Patch In EX
   #---------------------------------------------------------------------------
 
-	If any of the following files are found on startup
-	rv1 = "DatabaseTextEnglish_Update.rvupd"
-	rv2 = "DialoguesEnglish_Update.rvupd"
-	rv3 = "ScriptTextEnglish_Update.rvupd"
-	Note: English is an example, current language set will be used
+    If any of the following files are found on startup
+    rv1 = "DatabaseTextEnglish_Update.rvupd"
+    rv2 = "DialoguesEnglish_Update.rvupd"
+    rv3 = "ScriptTextEnglish_Update.rvupd"
+    Note: English is an example, current language set will be used
 
-	Game will sync matching entries with new values and update
+    Game will sync matching entries with new values and update
     coresponding rvtext file.
-	However will not append new entries (ones not already in rvtext file)
-	This feature is new and well new;  Backup rvtext file before using
-	rvupd is a plain txt file formatted similar to:
+    However will not append new entries (ones not already in rvtext file)
+    This feature is new and well new;  Backup rvtext file before using
+    rvupd is a plain txt file formatted similar to:
 
 # File: DatabaseTextEnglish_Update.rvupd
 # Thanks to: Fanservicefan For Translations
@@ -338,13 +344,13 @@ Hi Berserk
 
 #------------------------------------------------------
 
-	Once an rvupd is used a prefix "_used" is added to the end
-	DatabaseTextEnglish_Update.rvupd_used Added as an example
-	Rename to DatabaseTextEnglish_Update.rvupd and start game
-	To see how it works
+    Once an rvupd is used a prefix "_used" is added to the end
+    DatabaseTextEnglish_Update.rvupd_used Added as an example
+    Rename to DatabaseTextEnglish_Update.rvupd and start game
+    To see how it works
 
-	Note 1:  Code used "<<" to filter entries, don't use them in description
-	Note 2:  Compare Backup Data to New File using WinMerge or equivalent
+    Note 1:  Code used "<<" to filter entries, don't use them in description
+    Note 2:  Compare Backup Data to New File using WinMerge or equivalent
 
   #---------------------------------------------------------------------------
   # Translators Used In EX
