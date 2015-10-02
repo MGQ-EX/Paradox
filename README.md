@@ -69,13 +69,13 @@ Note: 1/1 Would Be Preferred, SnagIt Produces A Blank Image When Attempted...
   #---------------------------------------------------------------------------
   # Git Repository
   #---------------------------------------------------------------------------
- 
+
 https://github.com/MGQ-EX/Paradox
- 
+
   #---------------------------------------------------------------------------
   # Bug Reporting & Tracking
   #---------------------------------------------------------------------------
- 
+
 https://github.com/MGQ-EX/Paradox/issues
 
   #---------------------------------------------------------------------------
@@ -90,21 +90,21 @@ Use the Manual Patch Method For MGQ Paradox 1.21
 4. Rename/delete/move Game.rgss3a so it doesn’t conflict with the decrypted files
 5. Move and overwrite using MGQ Paradox Translation EX patched files, all files from the EX patch are important so only cherry pick if you know what your doing otherwise overwrite using all of them files.
 
-On step 2: Run RPGMaker decrypter, Open File Game.rgss3a, Tools, Extract All Files; This should make an 
+On step 2: Run RPGMaker decrypter, Open File Game.rgss3a, Tools, Extract All Files; This should make an
 
 Extracted Folder containing two folders, Data and Graphics;
 
 Note 0: EX was not designed for versions bellow 1.21, please upgrade to 1.21 before using
 
-Note 1: If Game Folder is in Japanese or Gibberish (A Sad Attempt To Display Japanese) rename it to something 
+Note 1: If Game Folder is in Japanese or Gibberish (A Sad Attempt To Display Japanese) rename it to something
 
 like “MGQ Paradox”
 
-Note 2: Game.rgss3a must be either changed or removed as it is read before the content that you are 
+Note 2: Game.rgss3a must be either changed or removed as it is read before the content that you are
 
 overwriting
 
-Note 3: MGQ Paradox Translation EX: DatabaseTextEnglish.rvtext, DialoguesEnglish.rvtext, ScriptTextEnglish.rvtext are text files that contain the translation if you are interested in how much text is in the game, though a few things are still missing. 
+Note 3: MGQ Paradox Translation EX: DatabaseTextEnglish.rvtext, DialoguesEnglish.rvtext, ScriptTextEnglish.rvtext are text files that contain the translation if you are interested in how much text is in the game, though a few things are still missing.
 
 Note 4: Basic Review Of What Each Main Folder In The Patch Does, not including them can cause crashes
 ‘Audio’ Folder contains an audio file EX can use but mostly its there just for show…  This mostly effects debug save for testing
@@ -144,74 +144,74 @@ MGQ Paradox EX Directory Structure
 http://pastebin.com/fMx7HE47
 
 Modified Game.ini For These Additions:
-		WinMode=		Discription
-			Fit		fits the game window to monitor size
-			Full		switches to full screen unless already full screened
-			Window		switches to window screen unless already windowed
-			Resize		resize the window to whatever size defined in 
-					Width & Hight (Might Cause Crash)
+	WinMode=		Description
+	Fit		        fits the game window to monitor size
+	Full		    switches to full screen unless already full screened
+	Window		    switches to window screen unless already windowed
+	Resize		    resize the window to whatever size defined in
+				    Width & Height (Might Cause Crash)
 
-		Width			Set As Positive Integer
-		Hight			Set As Positive Integer
+    Width			Set As Positive Integer
+	Height			Set As Positive Integer
 
-		EnableBonus=		Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
-			    False	Disables Bonus Features (Default)
-			    True	Enables Bonus Features
+	EnableBonus=		Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
+	    False	        Disables Bonus Features (Default)
+		True	        Enables Bonus Features
 
-		EnableSaveDebug=	Changes How Paradox Loads Saves
-			False		Disables Displaying An Error Message When A Save Fails To Load (Default)
-			True		Enables Displaying An Error Message When A Save Fails To Load
+    EnableSaveDebug=	Changes How Paradox Loads Saves
+		False		    Disables Displaying An Error Message When A Save Fails To Load (Default)
+		True		    Enables Displaying An Error Message When A Save Fails To Load
 
-		UseElementIcons=	Changes How Paradox Handles Element Icons In Database
-			False		Disables Displaying Element Icons And Will Use Names Instead (Default)
-			True		Enables Displaying Element Icons Though Will Default To Name If Icon Is Not Found
-					*Note: Only Effects Elements Coded With Tag \ie[Element ID]
+	UseElementIcons=	Changes How Paradox Handles Element Icons In Database
+		False		    Disables Displaying Element Icons And Will Use Names Instead (Default)
+		True		    Enables Displaying Element Icons Though Will Default To Name If Icon Is Not Found
+				*Note: Only Effects Elements Coded With Tag \ie[Element ID]
 
-		UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
-			False		Disables Displaying Status Icons And Will Use Names Instead (Default)
-			True		Enables Displaying Status Icons Though Will Default To Name If Icon Is Not Found
-					*Note: Only Effects States Coded With Tag \it[State ID]
+	UseStatusEffectsIcons=	Changes How Paradox Handles Status Icons In Database
+		False		        Disables Displaying Status Icons And Will Use Names Instead (Default)
+		True		        Enables Displaying Status Icons Though Will Default To Name If Icon Is Not Found
+				*Note: Only Effects States Coded With Tag \it[State ID]
 
-		UseJobChangePercents=	Changes How Paradox Displays Job Change Information
-			False		Displays Information Using The Rank System (Default)
-			True		Displays Information Using Dargoth's Percentage Chart
-					*Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
-					         In The System That Offers The Alternative View
-					*Note 2: This Does Not Effect Entries In The Database
+	UseJobChangePercents=	Changes How Paradox Displays Job Change Information
+		False		        Displays Information Using The Rank System (Default)
+		True		        Displays Information Using Dargoth's Percentage Chart
+				*Note 1: Percentages Are A Work Of Love, I Won't Correct Errors In Them Just
+				         In The System That Offers The Alternative View
+				*Note 2: This Does Not Effect Entries In The Database
 
-		Enable_DTP_HP=			Determines How Health Bars Are Displayed For Enemies
-						(Requires For All Sub Settings)
-				False		Not Displayed (Default)
-				True		Displayed
+	Enable_DTP_HP=			Determines How Health Bars Are Displayed For Enemies
+					(Requires For All Sub Settings)
+		False		        Not Displayed (Default)
+		True		        Displayed
 
-		DTP_HP_Use_HP_Bar=		Displays The Enemy Health Bar
-				False		Not Displayed
-				True		Displayed (Default)
+	DTP_HP_Use_HP_Bar=		Displays The Enemy Health Bar
+		False		        Not Displayed
+		True		        Displayed (Default)
 
-		DTP_HP_Use_MP_Bar=		Displays The Enemy Magic Bar
-				False		Not Displayed
-				True		Displayed (Default)
+	DTP_HP_Use_MP_Bar=		Displays The Enemy Magic Bar
+		False		        Not Displayed
+		True		        Displayed (Default)
 
-		DTP_HP_Only_On_Target=		Displays Only When Enemy Targetted
-				False		Displays All The Time
-				True		Only When Targetted (Default)
+	DTP_HP_Only_On_Target=		Displays Only When Enemy Targetted
+		False		            Displays All The Time
+		True		            Only When Targetted (Default)
 
-		DTP_HP_Position=		Position Of Enemy Health Bar
-				Above		Displayed Above Enemy
-				Middle		Displayed In Middle Of Enemy (Default)
-				Below		Displayed Below Enemy
+	DTP_HP_Position=		Position Of Enemy Health Bar
+		Above		        Displayed Above Enemy
+		Middle		        Displayed In Middle Of Enemy (Default)
+		Below		        Displayed Below Enemy
 
-		DTP_Text_Display=		Text To Display Above Health Bar
-				chp		current hp
-				mhp		max hp
-				php		percentage hp
-				states		current inflicted states
+	DTP_Text_Display=		Text To Display Above Health Bar
+		chp		            current hp
+		mhp		            max hp
+		php		            percentage hp
+		states		        current inflicted states
 
-		UseCustomBattleBGM=
-				False		Uses Default Battle Music (Default)
-				True		Uses Custom Random Music
+	UseCustomBattleBGM=
+		False		Uses Default Battle Music (Default)
+		True		Uses Custom Random Music
 
-		CustomBattleBGM_[X]=		X Custom Random Music Added To 'Audio\BGM' Not Including File Extension
+	CustomBattleBGM_[X]=		X Custom Random Music Added To 'Audio\BGM' Not Including File Extension
 		IE:
 		CustomBattleBGM_[0]=battle	battle.ogg will be used (If File Not Found It Is Ignored)
 
@@ -222,24 +222,31 @@ Modified Game.ini For These Additions:
 	You Have 2 Options
 	A - Download The Newest Version From The Official Site
 	B - Manually Upgrade The Files That Changed
-		1 - Follow "Use the Manual Patch Method For MGQ Paradox 1.21" Listed Above Till You Get To Step 5
+		1 - Follow "Use the Manual Patch Method For MGQ Paradox 1.21"
+            Listed Above Till You Get To Step 5
 		    (Only Required If You Don't Have A Decrypted Copy Of The Game)
-		2 - Use This Link To Get An Archive Of The Files That Changed From 1.02 Up To 1.21
+		2 - Use This Link To Get An Archive Of The Files
+            That Changed From 1.02 Up To 1.21
 			MGQ_Paradox_1.02_upgrade_clean_1.21.rar 113.7 MB
 			https://mega.co.nz/#!SQ1QlAbS!_B9-oPG95ItrektJFdt8jPZiOnW4vb2cpUUaRTGkZig
-		3 - Extract Archive Into Main Game Directory Overwriting Files As Needed
-		4 - Continue With "Use the Manual Patch Method For MGQ Paradox 1.21" Step 5
+		3 - Extract Archive Into Main Game Directory Overwriting Files
+            As Needed
+		4 - Continue With "Use the Manual Patch Method For MGQ
+            Paradox 1.21" Step 5
 
-	Note 1: If You Feel Uncomfortable Doing This Use Option A
-	Note 2: If You Do Not Know What You Are Doing Don't Cherry Pick Files From The Archive, They Are All Important In Some Way
-	Note 3: There Is A Difference Between Manual And Automatic, That Difference Is If You Think It Is Plug & Play Then You Are Wrong
-	Note 4: This Is To Help Upgrade Those That Have Official Copies Of The Game To Save On Bandwidth
+	Note 1: If You Feel Uncomfortable Doing This, Use Option A
+	Note 2: If You Do Not Know What You Are Doing Don't Cherry Pick Files
+            From The Archive, They Are All Important In Some Way
+	Note 3: There Is A Difference Between Manual And Automatic, That
+            Difference Is If You Think It Is Plug & Play Then You Are Wrong
+	Note 4: This Is To Help Upgrade Those That Have Official Copies Of The
+            Game To Save On Bandwidth
 
   #---------------------------------------------------------------------------
   # For Those Having Problems With A Save Not Loading After EX 0.5D
   # Save Fix Version EX_0.5d_Save-Fix.rar 12.7 MB
   #---------------------------------------------------------------------------
- 
+
 	https://mega.co.nz/#!KF810Bib!CLeONHLXAfKjCjSzJ_F1iskMl2qWhGyzut7rl7LMUDw
 
 	Updated To Cripple modern algebra – ATS: Special Message Codes
@@ -261,18 +268,27 @@ Modified Game.ini For These Additions:
   #---------------------------------------------------------------------------
 
 	1 - Load Up A Game And Do This:
-	2 – Go To Pocket Castle 1F South (If Already There Leave Then Return So RPG Maker Refeshes The Map)
-	3 – By The Large Door In The Center To The left Is A New Sparkly Scroll
-	4 – MGQ_EX Extra Menu, Select Rename Actors
-		Rename Active Party			Rename An Actor In Your Current Party
-		Clean Up Actors				Restore Default Actor Names
-		  Restore All Default Names		All Actors Will Be Restored Using Defaults In EX Database
-		  Restore Active Party Name		Actor In Your Current Party Will Be Restored Using Defaults In EX Database
-		  Custom 'Actor List.txt'		All Actors Will Be Restored Using Names In 'Actor List.txt'
-	5 – Save your game
+	2 - Go To Pocket Castle 1F South (If Already There Leave Then
+        Return So RPG Maker Refreshes The Map)
+	3 - By The Large Door In The Center To The left Is A New Sparkly Scroll
+	4 - MGQ_EX Extra Menu, Select Rename Actors
+		Rename Active Party
+               Rename An Actor In Your Current Party
+		Clean Up Actors
+              Restore Default Actor Names
+		Restore All Default Names
+                All Actors Will Be Restored Using Defaults In EX Database
+		Restore Active Party Name
+                Actor In Your Current Party Will Be Restored Using
+                Defaults In EX Database
+		Custom 'Actor List.txt'
+               All Actors Will Be Restored Using Names In 'Actor List.txt'
+	5 - Save your game
 
-	Note 1: 'Actor List.txt' Needs To Be In The Main Game Directory For "Custom 'Actor List.txt'" To Function.
-	Note 2: This Currently Only Effects Menus, Plan To Expand This At A Later Date
+	Note 1: 'Actor List.txt' Needs To Be In The Main Game Directory
+            For "Custom 'Actor List.txt'" To Function.
+	Note 2: This Currently Only Effects Menus, Plan To Expand
+            This At A Later Date
 
 	This Can Also Be Used To Correct Names That Are Not Being Displayed Correctly
 	Can Also Be Used To Fix 'display_use_item' Error As Correcting The Actor Names Will Make That Work As Originally Intended.
@@ -287,7 +303,8 @@ Modified Game.ini For These Additions:
 	rv3 = "ScriptTextEnglish_Update.rvupd"
 	Note: English is an example, current language set will be used
 
-	Game will sync matching entries with new values and update corisponding rvtext file
+	Game will sync matching entries with new values and update
+    coresponding rvtext file.
 	However will not append new entries (ones not already in rvtext file)
 	This feature is new and well new;  Backup rvtext file before using
 	rvupd is a plain txt file formatted similar to:
@@ -313,7 +330,7 @@ Hi Berserk
  has calmed down!
 
 #------------------------------------------------------
-	
+
 	Once an rvupd is used a prefix "_used" is added to the end
 	DatabaseTextEnglish_Update.rvupd_used Added as an example
 	Rename to DatabaseTextEnglish_Update.rvupd and start game
@@ -359,7 +376,7 @@ KilloZapit - Cache Back
 Version: 5
 http://www.rpgmakervxace.net/topic/9799-faster-loadtimes-with-less-memory-or-your-cache-back/
 
-V.M of D.T. - Basic Window Resizer 
+V.M of D.T. - Basic Window Resizer
 Version: 1.1
 http://forums.rpgmakerweb.com/index.php?/topic/2033-basic-window-resizer/
 
@@ -371,7 +388,7 @@ efeberk - Random Battle & Vehicle BGM
 Version: 1.1
 http://www.rpgmakervxace.net/topic/15202-simple-random-battle-bgm/
 
-Yanfly Engine Ace - Debug Extension 
+Yanfly Engine Ace - Debug Extension
 Version: 1.01
 https://yanflychannel.wordpress.com/rmvxa/utility-scripts/debug-extension/
 
@@ -412,8 +429,8 @@ https://yanflychannel.wordpress.com/rmvxa/core-scripts/ace-message-system/
   #---------------------------------------------------------------------------
 
 	Mod For MGQ Paradox, You Are Free To Use This Mod, Make Changes To It,
-	Relealese It Using Your Own Custom RVTEXT Files, However The Original Game,
-	Scripts Used, And Any Supporting Material Belong To Their Original Creators, 
+	Release It Using Your Own Custom RVTEXT Files, However The Original Game,
+	Scripts Used, And Any Supporting Material Belong To Their Original Creators,
 	Please Support The Official Release
 
   #---------------------------------------------------------------------------
@@ -429,13 +446,13 @@ EX 0.5		Please Upgrade to 1.20.00 before using
 		Backend Items Affected
 		Updated XS - Popup Item (Added Code For Scene_Battle Using Scene_Map)
 		Implemented Sorting For ScriptText
-		Probably Missed A Few Lines In ScriptTextEnglish.rvtext 
+		Probably Missed A Few Lines In ScriptTextEnglish.rvtext
 		Will update further later
 
 07-20-2015	Cleaning Up ScriptTextEnglish.rvtext
 EX 0.5a		Backend Items Affected
 		Updated XS - Popup Item (Changed Code To Use Scene_Base Instead, Fixed A Crash After Battle)
-		Probably Missed A Few Lines In ScriptTextEnglish.rvtext 
+		Probably Missed A Few Lines In ScriptTextEnglish.rvtext
 		Will update further later
 
 07-23-2015	Cleaning Up ScriptTextEnglish.rvtext
@@ -455,7 +472,7 @@ EX 0.5c		Fixed ENEMY_SPECIAL_NAME Keys (Mass Search/Replace Fault)
 07-24-2015	Updated Language File System To Handle Special Sale Notes
 EX 0.5d		Update to ScriptTextEnglish.rvtext & ScriptTextJapanese.rvtext
 		Entries Added:  TRAN/NWConstLibrary/SPECIAL_SALE
-		Overrides For 
+		Overrides For
 		RPG::BaseItem::selld_draw
 		Backend Items Affected (Incorporated Special Sale Text Translation)
 		Fixed Small Bug In DatabaseTextEnglish.rvtext And DialoguesEnglish.rvtext
@@ -487,13 +504,13 @@ EX 0.5e		Update to ScriptTextEnglish.rvtext & ScriptTextJapanese.rvtext
 		  Default Uses EX Database Names, 'Actor List.txt' Custom Names
 		  Rename Only Affects Menu Items At This Time And Please Backup Saves Before Using
 		* Script Library(Translation) Adds Override For 'class Window_Help < Window_Base' to add more lines
-		  to item descriptions and implement word wrap for descriptions.  
+		  to item descriptions and implement word wrap for descriptions.
 		  Word Wrap handles items that contain "Target:" differently then other items
 		Updated DatabaseTextEnglish.rvtext
 		Incorporated Casian Sarpe Socaci I, W, A 07-25-2015 Updates 4
 		http://pastebin.com/qVZHaZFC
 		Updated DialoguesEnglish.rvtext
-		Used Dargoth's demo patch as acceptable to Map 012 - Iliasville Mountains 
+		Used Dargoth's demo patch as acceptable to Map 012 - Iliasville Mountains
 		Cute Little Ilias be pleased
 		Cleanup Of:
 		576 - Netherworld
@@ -505,7 +522,7 @@ EX 0.5e		Update to ScriptTextEnglish.rvtext & ScriptTextJapanese.rvtext
 		'Banyi Chan' To 'Buny'
 		'Haut-Rhin' To 'Orlan'
 		'Radora' To 'Ragora'
-		Thanks To NoName, Desert Eagle, And Everyone That Participated In 
+		Thanks To NoName, Desert Eagle, And Everyone That Participated In
 		"What should Actor 94 be named?"
 		Note: For Rename Change To Take Effect Please Test Newly Added Rename Feature
 		      Not Needed For New Saves
@@ -517,7 +534,7 @@ EX 0.5f		Please Upgrade to at least 1.20.00 before using
 		All rvtext files updated
 		Backend Items Affected: Fixed Rename Scope, Added My Humble Apology Options From EX 0.5d_Save-Fix
 					Reviewed 1.21 Scripts
-		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext
 		Will update further later
 
 08-03-2015	Updated 'Actor List.txt' To Have Dargoth's Patch 1.21a Actor Names
@@ -526,26 +543,26 @@ EX 0.5g		Backend Items Affected: Fixed Cooking Menu Portion Not Translated, Clea
 		EnableBonus=		Changes Features Found In MGQ EX's Sparkly Scroll Menu In Pocket Castle 1F South
 			False		Disables Bonus Features (Default)
 			True		Enables Bonus Features
-		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext
 		Will update further later
 
 08-09-2015	Incorporated Dargoth's Patch 1.21a Into Dialogues And Database
 EX 0.5h		Backend Items Affected:
-		Modified Language File System: 
-		Corrected Logic Error When Setting Up Actors (DerTraveler Had It Set To Be Language Dependent, 
+		Modified Language File System:
+		Corrected Logic Error When Setting Up Actors (DerTraveler Had It Set To Be Language Dependent,
 			Changed To Be The Language When Acquiring The Actor Is How It Is Saved In
-			And The Rename Feature Can Be Used To Correct Later), 
-		Corrected Logic Error When Displaying Empty Text (Used To Keep Picture Displayed Until Key Is Pressed), 
+			And The Rename Feature Can Be Used To Correct Later),
+		Corrected Logic Error When Displaying Empty Text (Used To Keep Picture Displayed Until Key Is Pressed),
 		Also Praise Game.ini For These Additions:
 		EnableSaveDebug=	Changes How Paradox Loads Saves
 			False		Disables Displaying An Error Message When A Save Fails To Load (Default)
 			True		Enables Displaying An Error Message When A Save Fails To Load, Though It Won't Correct The Error
 		Special Thank To Casian Sarpe Socaci
-		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext
 		Will Update Further Later
 
 08-13-2015	Incorporated Casian Sarpe Socaci's Changes To ScriptTextEnglish.rvtext
-EX 0.5i		Backend Items Affected: 
+EX 0.5i		Backend Items Affected:
 			* Corrected Battle Start Percentage Hash Not Returning Intended Value,
 			  Fixed Typo In Script: Infrastructure System/Enchanted Name
 			* Cleaned Up Some Coding To Implement Additional Features For Name Standardization
@@ -583,16 +600,16 @@ EX 0.5i		Backend Items Affected:
 			Cleaned Up: Standardizing Items, Armors, Weapons, And Gold Gained
 				Common Events 033-036, 1001-1012
 			Note: As This Is A Few Thousand Entries Complete Cleanup Will Take Time
-			
+
 		Added 5 Entries To ScriptTextEnglish.rvtext To Expand Its Scope To Handle Job Change Sort Catagories
-			TRAN/NWConstLibrary/RACE_SPECIAL_NAME 
+			TRAN/NWConstLibrary/RACE_SPECIAL_NAME
 			Main, Other, Goddess, Evil Goddess, Monster Lord
-		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext
 		Will Update Further Later
 
 08-14-2015	Fixed Error In DialoguesEnglish.rvtext Reported By element, Nero Name Tag Incorrectly Set
 EX 0.5j		Updated A Few Entries In ScriptTextEnglish.rvtext For TRAN/NWConstLibrary/SKILL_SPECIAL_NAME
-		Missed A Ton Of Lines In ScriptTextEnglish.rvtext 
+		Missed A Ton Of Lines In ScriptTextEnglish.rvtext
 		Will update further later
 
 08-15-2015	Suggested By LostDGod Added Script: Basic Enemy HP Bars v2.1
