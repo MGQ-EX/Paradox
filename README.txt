@@ -278,32 +278,32 @@ Modified Game.ini For These Additions:
   # Using MGQ EX Rename Functions (Useful With EX 0.5g And Above)
   #---------------------------------------------------------------------------
 
-	1 - Load Up A Game And Do This:
-	2 - Go To Pocket Castle 1F South (If Already There Leave Then
+    1 - Load Up A Game And Do This:
+    2 - Go To Pocket Castle 1F South (If Already There Leave Then
         Return So RPG Maker Refreshes The Map)
-	3 - By The Large Door In The Center To The left Is A New Sparkly Scroll
-	4 - MGQ_EX Extra Menu, Select Rename Actors
-		Rename Active Party
+    3 - By The Large Door In The Center To The left Is A New Sparkly Scroll
+    4 - MGQ_EX Extra Menu, Select Rename Actors
+        Rename Active Party
                Rename An Actor In Your Current Party
-		Clean Up Actors
+        Clean Up Actors
               Restore Default Actor Names
-		Restore All Default Names
+        Restore All Default Names
                 All Actors Will Be Restored Using Defaults In EX Database
-		Restore Active Party Name
+        Restore Active Party Name
                 Actor In Your Current Party Will Be Restored Using
                 Defaults In EX Database
-		Custom 'Actor List.txt'
+        Custom 'Actor List.txt'
                All Actors Will Be Restored Using Names In 'Actor List.txt'
-	5 - Save your game
+    5 - Save your game
 
-	Note 1: 'Actor List.txt' Needs To Be In The Main Game Directory
+    Note 1: 'Actor List.txt' Needs To Be In The Main Game Directory
             For "Custom 'Actor List.txt'" To Function.
-	Note 2: This Currently Only Effects Menus, Plan To Expand
+    Note 2: This Currently Only Effects Menus, Plan To Expand
             This At A Later Date
 
-	This Can Also Be Used To Correct Names That Are Not Being Displayed
+    This Can Also Be Used To Correct Names That Are Not Being Displayed
     Correctly.
-	Can Also Be Used To Fix 'display_use_item' Error As Correcting The
+    Can Also Be Used To Fix 'display_use_item' Error As Correcting The
     Actor Names Will Make That Work As Originally Intended.
 
   #---------------------------------------------------------------------------
