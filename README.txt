@@ -728,5 +728,5 @@ EX 0.5m		* Small Remnant Of Google Translate Error In DialoguesEnglish.rvtext
 			* Full Cleanup Of Map 052 - Pornof Indoors
 			* Small Update Of Map 377 - Sabasa Castle 1F
 		Thanks To Tamakimouto For Reviewing The Readme And Providing An Optional Encryption Tool
-		Which May Increase Speed, Though As To Be Re-Applied Anytime Backend Items Are Effected...
+		Which May Increase Speed, Though Has To Be Re-Applied Anytime Backend Items Are Effected...
 		(Tool Is Available On Git Repository)
