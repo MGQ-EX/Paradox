@@ -6038,7 +6038,7 @@ Dance Girl
 <イラスト:frfr>
 
 <<actors/561/name>>
-Witch
+Witchy
 
 <<actors/561/nickname>>
 Witch
@@ -17384,7 +17384,7 @@ Jump and strike with the knee, dealing large damage to bird enemies.
  leaps and strikes with a kick to slay Harpies!
 
 <<skills/1401/name>>
-Kick Flew Knee
+Flying Knee Kick
 
 <<skills/1401/note>>
 <攻撃属性 1>
@@ -23340,7 +23340,7 @@ Create: Electric Yellow Lightning Stone
 <自動戦闘不可>
 
 <<skills/2199/message1>>
-I have put his crosscut!
+\U use crosscut!
 
 <<skills/2199/note>>
 <武器倍率 29-100>
@@ -23552,10 +23552,10 @@ Target:All Allies Effect: All Abilities Up
 Art of giving a blessing to the entire ally until the book Power
 
 <<skills/2220/message1>>
- using the 1001 Pages Basket!
+ uses Page 1001: Basket!
 
 <<skills/2220/name>>
-1001 Pages Basket
+Page 1001: Basket
 
 <<skills/2220/note>>
 <消費アイテム 109-2>
@@ -24482,13 +24482,13 @@ Ingredient collection
 <自動戦闘不可>
 
 <<skills/2322/message1>>
-I have put his crosscut!
+\U use crosscut!
 
 <<skills/2322/note>>
 <武器倍率 24-100>
 
 <<skills/2324/message1>>
-I have put his crosscut!
+\U use crosscut!
 
 <<skills/2324/note>>
 <武器倍率 24-100>
@@ -25398,7 +25398,7 @@ Soft hands gently and slowly caress enemy genitals
 \U caresses \E's genitals gently with her hands!
 
 <<skills/2460/name>>
-Masturbate
+Hand Job
 
 <<skills/2460/note>>
 <習得不可>
@@ -25564,7 +25564,7 @@ Hot lust-filled mouth shuts over and envelops enemy genitals
 \U sucks on \E's crotch lewdly!
 
 <<skills/2486/name>>
-Tin Cyrus
+Teinkyurusu
 
 <<skills/2486/note>>
 <習得不可>
@@ -31534,10 +31534,10 @@ Play: Slimy Typhoon
 <敵味方全体>
 
 <<skills/3310/message1>>
-I had fell down on the ground!
+\U had fell down on the ground!
 
 <<skills/3310/message2>>
-The struggle was feet to dancing around!
+\U struggles feet to dancing around!
 
 <<skills/3310/name>>
 Play: Wriggle The Spider Legs
@@ -32711,7 +32711,7 @@ Forced Intercrural
 \E is being held down by \E!
 
 <<skills/3549/name>>
-Lean
+Mount
 
 <<skills/3549/note>>
 <対象:ルカ>
@@ -33374,7 +33374,7 @@ Expert Blitz
 <攻撃属性 1>
 
 <<skills/3621/message1>>
-I have put his hip attack!
+\U strikes with a Hip Attack!
 
 <<skills/3621/name>>
 Hip Attack
@@ -34136,7 +34136,7 @@ Slicing Whirlwind
 <一人旅未使用>
 
 <<skills/3714/message1>>
-I was aroused cliff collapse!
+\U caused a Landslide!
 
 <<skills/3714/name>>
 Landslide
@@ -34273,7 +34273,7 @@ High Jump
 <一人旅未使用>
 
 <<skills/3732/message1>>
-I was feeding the spear attacks to drop even birds fly!
+\U attacks using Bird Drop!
 
 <<skills/3732/name>>
 Bird Drop
@@ -34649,7 +34649,7 @@ Blustering Gale
 \U fires a concentrated blast of water at \E!
 
 <<skills/3771/name>>
-Water Hammer
+Water Bullet
 
 <<skills/3771/note>>
 <一人旅未使用>
@@ -35278,7 +35278,7 @@ Mermaid Tail
 \U fires a concentrated blast of water at \E!
 
 <<skills/3837/name>>
-Water hammer
+Water Bullet
 
 <<skills/3837/note>>
 <一人旅未使用>
@@ -38039,7 +38039,7 @@ Alligator Vore
 \U fires a beam of sexyness at \E!
 
 <<skills/4135/name>>
-Sexy beam
+Sexy Beam
 
 <<skills/4135/note>>
 <対象:ルカ＋女>
@@ -38867,7 +38867,7 @@ Ultra Dragon Slash
 <一人旅未使用>
 
 <<skills/4226/message1>>
-I was feeding the blow that Nagiharau the herd!
+\U unleashes a Heat Wave!
 
 <<skills/4226/name>>
 Heat Wave
@@ -38997,7 +38997,7 @@ Fluid Squeezing Hole
 <HP還元 100%>
 
 <<skills/4241/message1>>
-I have seen how...
+\U has seen how...
 
 <<skills/4241/name>>
 I See How
@@ -40725,7 +40725,7 @@ Wyvern Dance
 <必殺技 3>
 
 <<skills/4426/message1>>
-I was feeding the Spear attack of Dragon hunting!
+\U attacks with Flashing Dragon Spear!
 
 <<skills/4426/name>>
 Flashing Dragon Spear
@@ -40838,7 +40838,7 @@ Spider's Mystic Prey
 <必殺技 3>
 
 <<skills/4438/message1>>
-I was feeding the vortex of turbulent attack in eight legs!
+\U unleashes Spider Tokoyo!
 
 <<skills/4438/name>>
 Spider Tokoyo
@@ -41031,20 +41031,20 @@ Mega Heal
 <必殺技 3>
 
 <<skills/4458/message1>>
-We were using a 32-page of the Wind!
+ uses a Page 32: Wind!
 
 <<skills/4458/name>>
-Page 32 of the Wind
+Page 32: Wind
 
 <<skills/4458/note>>
 <追加アニメ 758>
 <必殺技 3>
 
 <<skills/4459/message1>>
-We were using a 64-page of the Earth!
+ uses a Page 64: Earth!
 
 <<skills/4459/name>>
-Page 64 of the Earth
+Page 64: Earth
 
 <<skills/4459/note>>
 <追加アニメ 759>
@@ -41083,10 +41083,10 @@ Page 444: Four Spirits
 <必殺技 3>
 
 <<skills/4463/message1>>
-We were using the 666 pages of the end!
+ uses a Page 666: Armageddon!
 
 <<skills/4463/name>>
-666 pages of the end
+Page 666: Armageddon
 
 <<skills/4463/note>>
 <追加アニメ 762>
@@ -41103,7 +41103,7 @@ Embrace of Expel
 <必殺技 3>
 
 <<skills/4465/message1>>
-I was chanting All Mass Heal!
+\U chants All Mass Heal!
 
 <<skills/4465/name>>
 All Mass Heal
@@ -41144,7 +41144,7 @@ Ecstasy Recharge
 <必殺技 3>
 
 <<skills/4470/message1>>
-I have put his Sonic Wave!
+\U unleashes a Sonic Wave!
 
 <<skills/4470/name>>
 Sonic Wave
@@ -41190,7 +41190,7 @@ Antiparticle railgun
 <必殺技 3>
 
 <<skills/4475/message1>>
-I fired Hyperion!
+\U fired Hyperion!
 
 <<skills/4475/name>>
 Hyperion
@@ -41199,7 +41199,7 @@ Hyperion
 <必殺技 3>
 
 <<skills/4476/message1>>
-Hair entangled in the enemy, it squeezed the seminal while 嫐Ri!
+\U's Hair entangles \E, squeezing evocitavely!
 
 <<skills/4476/name>>
 Absolute Lewdness Hair
@@ -41223,7 +41223,7 @@ Dolls Siege
 <必殺技 3>
 
 <<skills/4478/message1>>
-I was feeding the Sword blende I put an expression of death!
+\U unleashes a sword blende Death Slash!
 
 <<skills/4478/name>>
 Death Slash
@@ -41263,7 +41263,7 @@ Dark Ream Opposition Fist
 <必殺技 3>
 
 <<skills/4482/message1>>
-I was feeding the quadruplicate attacks in the Fist of the Dark!
+\U unleashes Four Star Metsuko!
 
 <<skills/4482/name>>
 Four Star Metsuko
@@ -41284,7 +41284,7 @@ Dark Breath
 <必殺技 3>
 
 <<skills/4484/message1>>
-I fired MLRS!
+\U fired MLRS!
 
 <<skills/4484/name>>
 MLRS
@@ -41335,7 +41335,7 @@ Explosion Blende Arrows
 <必殺技 3>
 
 <<skills/4489/message1>>
-I was feeding a turbulent attacks accompanied by Fire!
+\U unleashes Roar Fire Ran Axe!
 
 <<skills/4489/name>>
 Roar Fire Ran Axe
@@ -41393,7 +41393,7 @@ Shamshir
 <必殺技 3>
 
 <<skills/4495/message1>>
-I was feeding a turbulent attacks accompanied by Ice!
+\U unleashes Crushing Ice Turbulent Axe!
 
 <<skills/4495/name>>
 Crushing Ice Turbulent Axe
@@ -41405,7 +41405,7 @@ Crushing Ice Turbulent Axe
 <必殺技 3>
 
 <<skills/4496/message1>>
-I was feeding a turbulent attacks accompanied by Lightning!
+\U unleashes Lightning Kamiran Axe!
 
 <<skills/4496/name>>
 Lightning Kamiran Axe
@@ -41456,7 +41456,7 @@ Earth time Gold Tsuyoshi Fist
 <必殺技 3>
 
 <<skills/4501/message1>>
-I was feeding the kick I put the Power of Water!
+\U unleashes Namidan Water Fissure Kick!
 
 <<skills/4501/name>>
 Namidan Water Fissure Kick
@@ -41548,7 +41548,7 @@ Electric Kick
 <必殺技 3>
 
 <<skills/4510/message1>>
-I was dancing the bandage!
+\U dances the Bandage Ranbu!
 
 <<skills/4510/name>>
 Bandage Ranbu
@@ -41568,10 +41568,10 @@ Solar Eclipse
 <必殺技 3>
 
 <<skills/4512/message1>>
-I call the wave of the underworld in the Scythe!
+\U calls the Underworld Wave!
 
 <<skills/4512/name>>
-Underworld wave
+Underworld Wave
 
 <<skills/4512/note>>
 <必殺技 3>
@@ -41598,7 +41598,7 @@ Petrify Turbulent Attacks
 <必殺技 3>
 
 <<skills/4515/message1>>
-I danced the Tremor Dance!
+\U dances the Tremor Dance!
 
 <<skills/4515/name>>
 Tremor Dance
@@ -41696,7 +41696,7 @@ Heaven Worm
 <必殺技 3>
 
 <<skills/4525/message1>>
-I was dancing the two of beating!
+\U was dancing the Slicing Duster Dance!
 
 <<skills/4525/name>>
 Slicing Duster Dance
@@ -41940,16 +41940,16 @@ Slashing Destroyer
 <必殺技 3>
 
 <<skills/4550/message1>>
-It's Tatakikon huge Fist is!
+\U unleashes Giant's Iron Hammer!
 
 <<skills/4550/name>>
-Iron hammer of giants
+Giant's Iron Hammer
 
 <<skills/4550/note>>
 <必殺技 3>
 
 <<skills/4551/message1>>
- caused the Earth Roar!
+\U caused the Earth Roar!
 
 <<skills/4551/name>>
 Earth Roar
@@ -41958,7 +41958,7 @@ Earth Roar
 <必殺技 3>
 
 <<skills/4552/message1>>
-Was feeding the turbulent attacks is wearing the Holy become the aura!
+\U unleashes Holy light Fissure Blende Attack!
 
 <<skills/4552/name>>
 Holy light Fissure Blende Attack
@@ -41968,7 +41968,7 @@ Holy light Fissure Blende Attack
 <必殺技 3>
 
 <<skills/4553/message1>>
-I was feeding the quadruplicate attack in the holy fist!
+\U unleashes holy fist quadruplicate attack!
 
 <<skills/4553/name>>
 Four Heavenly Light Palm
@@ -41980,7 +41980,7 @@ Four Heavenly Light Palm
 <必殺技 3>
 
 <<skills/4554/message1>>
-I was feeding the blade to take hunting the Dark!
+\U hunting with the blade of darkness!
 
 <<skills/4554/name>>
 Dark Sange
@@ -41990,7 +41990,7 @@ Dark Sange
 <必殺技 3>
 
 <<skills/4555/message1>>
- unleases countless worms on the enemy!
+\U unleases countless worms on the enemy!
 
 <<skills/4555/name>>
 Disaster worm
@@ -42001,7 +42001,7 @@ Disaster worm
 <必殺技 3>
 
 <<skills/4556/message1>>
- condensed the Magic!
+\U condensed the Magic!
 
 <<skills/4556/name>>
 Eternal Heaven
@@ -42010,7 +42010,7 @@ Eternal Heaven
 <必殺技 3>
 
 <<skills/4557/message1>>
- casts a cross of Holy wave!
+\U casts a cross of Holy wave!
 
 <<skills/4557/name>>
 Grand Cross
@@ -42019,7 +42019,7 @@ Grand Cross
 <必殺技 3>
 
 <<skills/4558/message1>>
- casts a wave of Genesis!
+\U casts a wave of Genesis!
 
 <<skills/4558/name>>
 Henri Man'yu
@@ -43923,7 +43923,7 @@ Garlic
 [Food] Edible mushroom that grows in damp places.
 
 <<items/318/name>>
-Shiitake
+Shitake Mushroom
 
 <<items/319/description>>
 [Food] A very nutritious and calorie-rich vegetable, it's the best for emergency rations.
@@ -44185,10 +44185,10 @@ Rice
 Rice Ball
 
 <<items/362/description>>
-[Food] rich ingredients plenty of use was gorgeous Rice Ball the
+[Food] Gorgeous rice ball made from top quality ingredients.
 
 <<items/362/name>>
-Toku-jo Rice Ball
+Deluxe Rice Ball
 
 <<items/363/description>>
 [Food] Everyone's favorite piping hot dish.
@@ -44245,10 +44245,10 @@ Inarizushi
 Beef Bowl
 
 <<items/372/description>>
-[Food] luxury Cooking of edifice multiplied by the sauce to grilled eel
+[Food] Luxurious Yamatai dish consisting of an eel broiled in soy sauce.
 
 <<items/372/name>>
-Unaju
+Broiled Eel
 
 <<items/373/description>>
 [Food] A dish suited to a child's taste with hamburger and fried rice.
@@ -44890,10 +44890,10 @@ Testament of Faith
 [Key Item] Material required for the creation of Crystal armor
 
 <<items/525/name>>
-HoshiAkirasuna
+Star Crystal Sand
 
 <<items/526/description>>
-[Key Item] gem Magic force is muffled
+[Key Item] Soulful power of magic gems
 
 <<items/526/name>>
 Agri Stone
@@ -52591,7 +52591,7 @@ Enrikan Shirt
 [Clothes] Custom Enrikan Clothes sewn with a special fiber
 
 <<armors/6/name>>
-Enrikan Clothes+
+Enrikan Shirt+
 
 <<armors/6/note>>
 <特殊売却:合成の素材になりますが、本当に売却しますか？>
@@ -52618,7 +52618,7 @@ Gale Jacket
 [Clothes] Custom Enrikan Clothes+ further strengthened by Elf magic
 
 <<armors/9/name>>
-Enrikan Clothes++
+Enrikan Shirt++
 
 <<armors/9/note>>
 <特殊売却:合成の素材になりますが、本当に売却しますか？>
@@ -55797,7 +55797,7 @@ Water Symbol
 [Accessory] Normal Attack deals Holy damage
 
 <<armors/1208/name>>
-Holy symbol
+Holy Symbol
 
 <<armors/1208/note>>
 <特殊売却:非売品ですが、本当に売却しますか？>
@@ -57768,7 +57768,7 @@ Zombie Mark
 of inflicting \*\it[20]
 
 <<armors/1461/name>>
-Petrochemical Mark
+Petrify Mark
 
 <<armors/1462/name>>
 ***ダミー

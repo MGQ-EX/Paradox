@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5l.rar 16.0 MB
+  # Current Version MGQ Paradox Translation EX 0.5m.rar 16.0 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -15,6 +15,8 @@ http://pastebin.com/k9MNPZsb
 	# Git Repository
 	# Bug Reporting & Tracking
 	# USING MGQ Paradox Translation EX
+	# Optional: Re-Encrypting Data Folder
+	  Provided By Tamakimouto
 	# For Those Coming From 1.02 or later to 1.21 (Upgrading)
 	# For Those Having Problems With A Save Not Loading After EX 0.5D
 	# Using MGQ EX Rename Functions (Useful With EX 0.5g And Above)
@@ -225,6 +227,25 @@ Modified Game.ini For These Additions:
     IE:
     CustomBattleBGM_[0]=battle	battle.ogg will be used
                                 (If File Not Found It Is Ignored)
+
+  #---------------------------------------------------------------------------
+  # Optional: Re-Encrypting Data Folder
+  # Provided By Tamakimouto
+  #---------------------------------------------------------------------------
+
+    * Prerequisite Have The Java Runtime Library
+    1 - Download "RPG Maker Encrypter.jar" to game directory
+        (Found On The Git Repository)
+    2 - Run "RPG Maker Encrypter.jar"
+    3 - Choose Encryption: RPG Maker VX
+    4 - It will then generate "Game.rgss2a"
+    5 - There isn't a difference between an encrypted VX project and
+        a VX Ace project so rename it to "Game.rgss3a"
+    6 - As things would be re-encrypted it should be safe to delete the
+        "Data" folder
+
+    Note 1: This Might Increase Speed, Not Tested By MGQ-EX
+    Note 2: This Has To Be Repeated Anytime Backend Items Are Effected
 
   #---------------------------------------------------------------------------
   # For Those Coming From 1.02 or later to 1.21 (Upgrading)
@@ -691,9 +712,21 @@ EX 0.5l		Updated To Handle Going Into 'Config" Menu While In Battle,
 		* "View World Map With Warp Points" Will Display The World Map With All Warp Points Displayed
 		  Note: This Is Not The High Res Version, Currently For R&D
 
-*Developer Build*
-09-02-2015	Errors Reported By Sazaju:
+10-06-2015	Errors Reported By Sazaju:
 EX 0.5m		* Small Remnant Of Google Translate Error In DialoguesEnglish.rvtext
 		* Japanese Entries For TRAN/NWConstLibrary/ Got Messed Up With Previous Update
 		Researching Problem With Latest RVTEXT Build Process
-		Added Bonus Feature: "Complete Library" Still In Testing, Backup Save Folder Before Using...
+		Added Bonus Feature: "Complete Library" Still In Development, Backup Save Folder Before Using...
+				Note: Being Part 1 Roughly 49% Complete, Jobs & Races Aren't Handled Yet
+		Backend Items Affected: 
+			* Corrected ScriptText Extraction Logic,
+			* Corrected Error From Language File System
+				module LanguageFileSystem def self.show_dialogue(id)
+				class Game_Message lfs_add add
+			* Corrected BattleLog Word Wrap reported by Monster-Girl Lover
+		Updated DialoguesEnglish.rvtext
+			* Full Cleanup Of Map 052 - Pornof Indoors
+			* Small Update Of Map 377 - Sabasa Castle 1F
+		Thanks To Tamakimouto For Reviewing The Readme And Providing An Optional Encryption Tool
+		Which May Increase Speed, Though As To Be Re-Applied Anytime Backend Items Are Effected...
+		(Tool Is Available On Git Repository)
