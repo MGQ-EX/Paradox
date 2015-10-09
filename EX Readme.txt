@@ -733,3 +733,7 @@ EX 0.5m		* Small Remnant Of Google Translate Error In DialoguesEnglish.rvtext
 		Thanks To Tamakimouto For Reviewing The Readme And Providing An Optional Encryption Tool
 		Which May Increase Speed, Though Has To Be Re-Applied Anytime Backend Items Are Effected...
 		(Tool Is Available On Git Repository)
+
+*Developers Build*
+10-09-2015	Update to DialoguesEnglish.rvtext:
+EX 0.5n		* Small Cleanup of Map 036 - Enrika Indoors
