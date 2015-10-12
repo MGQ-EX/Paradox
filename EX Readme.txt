@@ -735,5 +735,6 @@ EX 0.5m		* Small Remnant Of Google Translate Error In DialoguesEnglish.rvtext
 		(Tool Is Available On Git Repository)
 
 *Developers Build*
-10-11-2015	Update to DialoguesEnglish.rvtext:
+10-12-2015	Update to DialoguesEnglish.rvtext:
 EX 0.5n		* Full Cleanup Of Map 036 - Enrika Indoors
+		* Full Cleanup Of Map 342 - Happiness Village Indoors
