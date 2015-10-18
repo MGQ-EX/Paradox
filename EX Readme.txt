@@ -741,3 +741,6 @@ EX 0.5n		Full Cleanup Of Maps
 		  * 342 - Happiness Village Indoors
 		  * 340 - Harpy Village Indoors
 		  * 032 - Midas Village Indoors
+		Backend Items Affected
+		  * Cleaned up error message about trial version
+		  * Common Event 107 Fix For Smithing Choices Provided By Slaughtersday
