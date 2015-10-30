@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5m.rar 16.0 MB
+  # Current Version MGQ Paradox Translation EX 0.5n.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -17,6 +17,8 @@ http://pastebin.com/k9MNPZsb
 	# USING MGQ Paradox Translation EX
 	# Optional: Re-Encrypting Data Folder
 	  Provided By Tamakimouto
+	# Optional: MGQ Paradox Prototype
+	  Alternative Version
 	# For Those Coming From 1.02 or later to 1.21 (Upgrading)
 	# For Those Having Problems With A Save Not Loading After EX 0.5D
 	# Using MGQ EX Rename Functions (Useful With EX 0.5g And Above)
@@ -246,6 +248,19 @@ Modified Game.ini For These Additions:
 
     Note 1: This Might Increase Speed, Not Tested By MGQ-EX
     Note 2: This Has To Be Repeated Anytime Backend Items Are Effected
+
+  #---------------------------------------------------------------------------
+  # Optional: MGQ Paradox Prototype
+  # Alternative Version
+  #---------------------------------------------------------------------------
+
+	Link: http://pastebin.com/LYLTPnxc
+
+	Based Off Injection Process, Data Conversion, Re-write Scripts
+	As The Translation Tool Dargoth Uses Was Updated TO Provided Additional Data Extractions
+	This Test A Re-Compile Process Though Is Still A Work In Progress
+	Does Not Use RVText Files But Might Work Better For Linux Users And RPG Maker Editor
+	Install Process And Other Features Remain Mostly Identical
 
   #---------------------------------------------------------------------------
   # For Those Coming From 1.02 or later to 1.21 (Upgrading)
@@ -730,3 +745,37 @@ EX 0.5m		* Small Remnant Of Google Translate Error In DialoguesEnglish.rvtext
 		Thanks To Tamakimouto For Reviewing The Readme And Providing An Optional Encryption Tool
 		Which May Increase Speed, Though Has To Be Re-Applied Anytime Backend Items Are Effected...
 		(Tool Is Available On Git Repository)
+
+10-30-2015	Update to DialoguesEnglish.rvtext:
+EX 0.5n		Full Cleanup Of Maps
+		  * 036 - Enrika Indoors
+		  * 342 - Happiness Village Indoors
+		  * 340 - Harpy Village Indoors
+		  * 032 - Midas Village Indoors
+		  * 051 - Pornof
+		Fixed Error
+		  * small typo fix 
+			Actor 90 - Meru Meru
+			Request Fix Provided By Slaughtersday
+		Update to DatabaseTextEnglish.rvtext:
+		  * Map Data For Pornof Updated
+		  * Default for Actor 147 changed from 'Caster' to 'Casta'
+		    Casta in Italian litterally mean chaste (Pure Virgin) Provided By Devartet
+		  * Skill 991 changed from  'Fue Trois' to 'Feu Trois'
+		    'Feu' means Fire in french Provided By Anonymous User
+		Update to ScriptTextJapanese.rvtext & ScriptTextEnglish.rvtext:
+		  * Made Corrections To Extraction Process
+		Backend Items Affected
+		  * Cleaned up error message about trial version
+		  * Common Event 107 Fix For Smithing Choices Provided By Slaughtersday
+		  * Language File System:
+								- Working On Injection Process
+								- Working On Re-write Script For Sub Scripts
+								- Working On Data Conversion
+								- Changed Startup Process
+								- Improved Extraction For ScriptText
+		Alternative Version
+		  * MGQ Paradox Prototype - Based Off Injection Process, Data Conversion, Re-write Scripts
+		  As The Translation Tool Dargoth Uses Was Updated TO Provided Additional Data Extractions
+		  This Test A Re-Compile Process Though Is Still A Work In Progress
+		  Does Not Use RVText Files But Might Work Better For Linux Users And RPG Maker Editor
