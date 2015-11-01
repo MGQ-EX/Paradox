@@ -159,7 +159,7 @@ Modified Game.ini For These Additions:
     Width             Set As Positive Integer
     Height            Set As Positive Integer
 
-	EnableBonus=      Changes Features Found In MGQ EX's Sparkly Scroll
+    EnableBonus=      Changes Features Found In MGQ EX's Sparkly Scroll
                       Menu In Pocket Castle 1F South
       False           Disables Bonus Features (Default)
       True            Enables Bonus Features
@@ -782,3 +782,19 @@ EX 0.5n		Full Cleanup Of Maps
 		  As The Translation Tool Dargoth Uses Was Updated TO Provided Additional Data Extractions
 		  This Test A Re-Compile Process Though Is Still A Work In Progress
 		  Does Not Use RVText Files But Might Work Better For Linux Users And RPG Maker Editor
+
+*Developer Build*
+10-31-2015	Backend Items Affected:
+EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Settings"
+                    This Test Script Calls To Basic Window Resizer
+                    Choose From
+                    'Resize', 'Fit', 'Window', 'Full', or 'Toggle'
+                    Note 1: This Doesn't Save Settings
+                    Note 2: 'Resize' And 'Fit' Are Sub Functions Of 'Window'
+                            So Won't Take Effect Till In Window Mode
+                    Note 3: Toggle Changes From Window To Full Depenedent On Current Settings
+                    Note 4: Game.ini 'EnableBonus=' Must Be Set To 'True' For This Option
+                  * Added Script: efeberk - Message Visibility
+                    Uses Function Key 'F8' To Toggle Text Message Visibility On/Off
+                    Note: This Doesn't Prevent Going To The Next Message
+
