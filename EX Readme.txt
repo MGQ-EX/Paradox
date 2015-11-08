@@ -784,7 +784,7 @@ EX 0.5n		Full Cleanup Of Maps
 		  Does Not Use RVText Files But Might Work Better For Linux Users And RPG Maker Editor
 
 *Developer Build*
-11-06-2015	Backend Items Affected:
+11-08-2015	Backend Items Affected:
 EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Settings"
                     This Test Script Calls To Basic Window Resizer
                     Choose From
@@ -802,6 +802,7 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                     * 031 - Midas Village
                     * 035 - Enrika
                     * 140 - Ilias Port Indoors
+                    * 341 - Happiness Village
 		  Fixed Errors
 		    * Cleanup Of Unnecessary Symbols In Various Map Dialogues Provided By Slaughtersday
                 Update to ScriptTextEnglish.rvtext:
