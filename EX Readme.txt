@@ -784,7 +784,7 @@ EX 0.5n		Full Cleanup Of Maps
 		  Does Not Use RVText Files But Might Work Better For Linux Users And RPG Maker Editor
 
 *Developer Build*
-11-11-2015	Backend Items Affected:
+11-13-2015	Backend Items Affected:
 EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Settings"
                     This Test Script Calls To Basic Window Resizer
                     Choose From
@@ -800,9 +800,12 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                   * Altered Script Word Processing 
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
+                    * 015 - Transfer Shrine
                     * 031 - Midas Village
                     * 035 - Enrika
+                    * 061 - North Ilias Monastery
                     * 140 - Ilias Port Indoors
+                    * 213 - Transfer Shrine Indoors
                     * 223 - Harpy Village
                     * 339 - Behind Harpy Village
                     * 341 - Happiness Village
