@@ -803,6 +803,7 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                     * 015 - Transfer Shrine
                     * 031 - Midas Village
                     * 035 - Enrika
+                    * 060 - Medal Queen's Castle
                     * 061 - North Ilias Monastery
                     * 140 - Ilias Port Indoors
                     * 213 - Transfer Shrine Indoors
