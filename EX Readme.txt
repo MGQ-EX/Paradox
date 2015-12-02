@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5n.rar 15.8 MB
+  # Current Version MGQ Paradox Translation EX 0.5o.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -233,6 +233,11 @@ Modified Game.ini For These Additions:
     CustomBattleBGM_[0]=battle	battle.ogg will be used
                                 (If File Not Found It Is Ignored)
 
+Modified Functionality:
+
+    Uses Function Key 'F8' To Toggle Text Message Visibility On/Off
+    Note: This Doesn't Prevent Going To The Next Message
+
   #---------------------------------------------------------------------------
   # Optional: Re-Encrypting Data Folder
   # Provided By Tamakimouto
@@ -439,6 +444,10 @@ http://www.rpgmakervxace.net/topic/8618-basic-enemy-hp-bars/
 efeberk - Random Battle & Vehicle BGM
 Version: 1.1
 http://www.rpgmakervxace.net/topic/15202-simple-random-battle-bgm/
+
+efeberk - Message Visibility
+Version: Not Specified
+http://www.rpgmakervxace.net/topic/20259-toggle-message-box-visibility/
 
 Yanfly Engine Ace - Debug Extension
 Version: 1.01
@@ -783,8 +792,7 @@ EX 0.5n		Full Cleanup Of Maps
 		  This Test A Re-Compile Process Though Is Still A Work In Progress
 		  Does Not Use RVText Files But Might Work Better For Linux Users And RPG Maker Editor
 
-*Developer Build*
-11-13-2015	Backend Items Affected:
+12-01-2015	Backend Items Affected:
 EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Settings"
                     This Test Script Calls To Basic Window Resizer
                     Choose From
@@ -797,7 +805,9 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                   * Added Script: efeberk - Message Visibility
                     Uses Function Key 'F8' To Toggle Text Message Visibility On/Off
                     Note: This Doesn't Prevent Going To The Next Message
-                  * Altered Script Word Processing 
+                  * Altered Script Word Processing
+                Update to DatabaseTextEnglish.rvtext:
+                  * Corrected Some Names And Descriptions
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
                     * 015 - Transfer Shrine
@@ -810,7 +820,17 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                     * 223 - Harpy Village
                     * 339 - Behind Harpy Village
                     * 341 - Happiness Village
+                  Full Cleanup Of Common Events
+                    * Lose Scenes
+                      3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, and 3017
+                    * Request Scenes
+                      4121, 4126, 4131, 4132, 4136, 4141, 4142, 4143, 4146, 4151, 4152, 4156, and 4162
+                    * Description
+                      Goblin Girl, Tiny Lamia, Vampire Girl, Dragon Pup, Mouse Girl,
+                      Wolf Girl, Phoenix Girl, Leech Girl, and Rabbit Girl
 		  Fixed Errors
 		    * Cleanup Of Unnecessary Symbols In Various Map Dialogues Provided By Slaughtersday
+		  Partial Cleanup
+		    * Milk Common Events 151 & 152 Provided By Casian Sarpe Socaci
                 Update to ScriptTextEnglish.rvtext:
                   * Updated UCO Midas Choices

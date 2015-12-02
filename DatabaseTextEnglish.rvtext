@@ -106,7 +106,7 @@ Slugs Tower 2F
 Slugs Tower 3F
 
 <<maps/101/display_name>>
-Tower of Puppeteer 1F
+Puppeteer Tower 1F
 
 <<maps/105/display_name>>
 Tower of Magic 1F
@@ -160,7 +160,7 @@ Pocket Castle Front Gate
 Remuzu Coast
 
 <<maps/128/display_name>>
-Forest Spirit
+Forest of Spirit
 
 <<maps/129/display_name>>
 Salon Hill
@@ -220,7 +220,7 @@ Administrator Tower 4F
 Test Island
 
 <<maps/191/display_name>>
-Ilias Cont. South of the Large Hole
+Ilias Cont. South Tartarus
 
 <<maps/192/display_name>>
 Salon Abandoned Mine B1F
@@ -229,7 +229,7 @@ Salon Abandoned Mine B1F
 Salon Abandoned Mine B2F
 
 <<maps/199/display_name>>
-Sabasa Cont. North of Large Hole
+Sabasa Cont. North Tartarus
 
 <<maps/200/display_name>>
 Tartarus CW148240 1L
@@ -286,7 +286,7 @@ Ilias Temple B1F
 Ilias Temple 2F
 
 <<maps/253/display_name>>
-Ilias Cont. East of the Large Hole
+Ilias Cont. East Tartarus
 
 <<maps/255/display_name>>
 Corridor of Chaos
@@ -472,10 +472,10 @@ Tartarus I372367 2L
 Corridor of Chaos
 
 <<maps/421/display_name>>
-Ilias Cont. East of the Large Hole
+Ilias Cont. East Tartarus
 
 <<maps/422/display_name>>
-Sabasa Cont. North of Large Hole
+Sabasa Cont. North Tartarus
 
 <<maps/459/display_name>>
 Mitra Sealed Castle
@@ -16637,13 +16637,13 @@ Loving Whip
 
 <<skills/1252/description>>
 Effect: Random
-Call a monster with your whip to attack for you.
+Call a Demon with your whip to attack for you.
 
 <<skills/1252/message1>>
- called a monster!
+ called a Demon!
 
 <<skills/1252/name>>
-Monster Servant
+Demon Servant
 
 <<skills/1252/note>>
 <ランダム発動 3381,3382,3383,3384,3385,3386,3387,3388,3389,3390,3391,3392,3393,3394,3395,3396,3397,3398,3399>
@@ -42794,17 +42794,17 @@ Generally worthless, they are valued by a certain collector.
 Small Medal
 
 <<items/33/description>>
-[Tool] Breast milk obtained from demons
-Mixed milk from various demon species
+[Tool] Breast milk obtained from Demons
+Mixed milk from various Demon species
 
 <<items/33/name>>
-Monster Milk
+Demon Milk
 
 <<items/34/description>>
-[Item] Urine collected from a monster.
+[Item] Urine collected from a Demon.
 
 <<items/34/name>>
-Monster Urine
+Demon Urine
 
 <<items/35/description>>
 [Item] Magical string that teleports you out of dungeons.
@@ -58927,7 +58927,7 @@ Hunter Enlightenment
 [Accessory] Can always use Whip skills
 
 <<armors/1637/name>>
-Monster Enlightenment
+Demon Enlightenment
 
 <<armors/1637/note>>
 <特殊売却:非売品ですが、本当に売却しますか？>
@@ -59682,7 +59682,7 @@ Barrier Incense
 [Accessory] Halves random encounter rate.
 
 <<armors/1723/name>>
-Monster Avoidance Bracelet
+Demon Avoidance Bracelet
 
 <<armors/1723/note>>
 <エンカウント倍率 50%>
@@ -59702,7 +59702,7 @@ Absolute Magic Bracelet
 [Accessory] Doubles random encounter rate.
 
 <<armors/1725/name>>
-Monster Summoning Bracelet
+Demon Summoning Bracelet
 
 <<armors/1725/note>>
 <エンカウント倍率 200%>
