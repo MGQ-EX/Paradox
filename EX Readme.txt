@@ -836,6 +836,7 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                   * Updated UCO Midas Choices
 
 *Developer Build*
-12-09-2015	Update to DialoguesEnglish.rvtext:
+12-10-2015	Update to DialoguesEnglish.rvtext:
 EX 0.5p		  Full Cleanup Of Maps
                     * 459 - Mitra Sealed Castle
+                    * 460 - Between The Seal
