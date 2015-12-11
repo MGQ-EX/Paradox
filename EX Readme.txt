@@ -840,3 +840,5 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
 EX 0.5p		  Full Cleanup Of Maps
                     * 459 - Mitra Sealed Castle
                     * 460 - Between The Seal
+                  Cleanup Of Common Events
+                    * CE 0309 - Mitra Dialogue
