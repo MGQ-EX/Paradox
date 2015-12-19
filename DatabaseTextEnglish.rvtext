@@ -160,7 +160,7 @@ Pocket Castle Front Gate
 Remuzu Coast
 
 <<maps/128/display_name>>
-Forest of Spirit
+Forest of Spirits
 
 <<maps/129/display_name>>
 Salon Hill
@@ -13548,7 +13548,7 @@ Lockpick II
 <共存不可メモライズ 764,766>
 
 <<skills/767/description>>
-Recruit enemy monsters 150% as often.
+Recruit enemies 150% as often.
 
 <<skills/767/name>>
 Recruit Rate *1.5
@@ -13559,7 +13559,7 @@ Recruit Rate *1.5
 <共存不可メモライズ 768,769>
 
 <<skills/768/description>>
-Recruit enemy monsters 200% as often.
+Recruit enemies 200% as often.
 
 <<skills/768/name>>
 Double Recruit Rate
@@ -17577,7 +17577,7 @@ Power:C (Att+Agi) Target:Foe Effect: Succubus/Vampire Killer
 Send an electric current into a demon, destroying them from within.
 
 <<skills/1418/message1>>
- strikes with a fist to destroy draining monsters!
+ strikes with a fist to destroy draining Demons!
 
 <<skills/1418/name>>
 Drain Killer
@@ -19337,7 +19337,7 @@ Heaven's Lightning
 
 <<skills/1635/description>>
 Power:A (Will)\*\ie[5]/\*\ie[9] Target:Foe Effect: \*\it[15]/\*\it[231](50%)
-Lightning from heaven to destroy monsters.
+Lightning from heaven to destroy Demons.
 
 <<skills/1635/message1>>
  calls down Demon Slaying Lightning!
@@ -43208,397 +43208,397 @@ Crystal
 ***ダミー
 
 <<items/160/description>>
-[Ingredient] Material dropped by Slime monsters.
+[Ingredient] Material dropped by Slime Demons.
 
 <<items/160/name>>
 Soft Jelly
 
 <<items/161/description>>
-[Ingredient] Material dropped by Land Dweller monsters.
+[Ingredient] Material dropped by Land Dweller Demons.
 
 <<items/161/name>>
 Slimy Mucus
 
 <<items/162/description>>
-[Ingredient] Material dropped by Succubus monsters.
+[Ingredient] Material dropped by Succubus Demons.
 
 <<items/162/name>>
 Imp Tail
 
 <<items/163/description>>
-[Ingredient] Material dropped by Plant monsters.
+[Ingredient] Material dropped by Plant Demons.
 
 <<items/163/name>>
 Magic Leaf
 
 <<items/164/description>>
-[Ingredient] Material dropped by Beast monsters.
+[Ingredient] Material dropped by Beast Demons.
 
 <<items/164/name>>
 Beast Claws
 
 <<items/165/description>>
-[Ingredient] Material dropped by Slime monsters.
+[Ingredient] Material dropped by Slime Demons.
 
 <<items/165/name>>
 Sticky Slime
 
 <<items/166/description>>
-[Ingredient] Material dropped by Undead monsters.
+[Ingredient] Material dropped by Undead Demons.
 
 <<items/166/name>>
 Stone of Chaos
 
 <<items/167/description>>
-[Ingredient] Material dropped by Insect monsters.
+[Ingredient] Material dropped by Insect Demons.
 
 <<items/167/name>>
 Hard Needle
 
 <<items/168/description>>
-[Ingredient] Material dropped by Harpy monsters.
+[Ingredient] Material dropped by Harpy Demons.
 
 <<items/168/name>>
 Beautiful Feather
 
 <<items/169/description>>
-[Ingredient] Material dropped by Fairy monsters.
+[Ingredient] Material dropped by Fairy Demons.
 
 <<items/169/name>>
 Mysterious Acorn
 
 <<items/170/description>>
-[Ingredient] Material dropped by Elf monsters.
+[Ingredient] Material dropped by Elf Demons.
 
 <<items/170/name>>
 Stone of Solidified Tears
 
 <<items/171/description>>
-[Ingredient] Material dropped by Sea Dweller monsters.
+[Ingredient] Material dropped by Sea Dweller Demons.
 
 <<items/171/name>>
 Beautiful Coral
 
 <<items/172/description>>
-[Ingredient] Material dropped by Undead monsters.
+[Ingredient] Material dropped by Undead Demons.
 
 <<items/172/name>>
 Fragment of Chaos
 
 <<items/173/description>>
-[Ingredient] Material dropped by Centaur monsters.
+[Ingredient] Material dropped by Centaur Demons.
 
 <<items/173/name>>
 Strong Hoof
 
 <<items/174/description>>
-[Ingredient] Material dropped by Kitsune monsters.
+[Ingredient] Material dropped by Kitsune Demons.
 
 <<items/174/name>>
 Fluffy Tail
 
 <<items/175/description>>
-[Ingredient] Material dropped by Arachne monsters.
+[Ingredient] Material dropped by Arachne Demons.
 
 <<items/175/name>>
 Spider Silk
 
 <<items/176/description>>
-[Ingredient] Material dropped by Sea Dweller monsters.
+[Ingredient] Material dropped by Sea Dweller Demons.
 
 <<items/176/name>>
 Sturdy Shell
 
 <<items/177/description>>
-[Ingredient] Material dropped by Slime monsters.
+[Ingredient] Material dropped by Slime Demons.
 
 <<items/177/name>>
 Slimy Jelly
 
 <<items/178/description>>
-[Ingredient] Material dropped by Lamia monsters.
+[Ingredient] Material dropped by Lamia Demons.
 
 <<items/178/name>>
 Lamia Tail
 
 <<items/179/description>>
-[Ingredient] Material dropped by Scylla monsters.
+[Ingredient] Material dropped by Scylla Demons.
 
 <<items/179/name>>
 Shady Tentacle
 
 <<items/180/description>>
-[Ingredient] Material dropped by Magic Book monsters.
+[Ingredient] Material dropped by Magic Book Demons.
 
 <<items/180/name>>
 Valuable Parchment
 
 <<items/181/description>>
-[Ingredient] Material dropped by Succubus monsters.
+[Ingredient] Material dropped by Succubus Demons.
 
 <<items/181/name>>
 Succubus Tail
 
 <<items/182/description>>
-[Ingredient] Material dropped by Beast monsters.
+[Ingredient] Material dropped by Beast Demons.
 
 <<items/182/name>>
 Demon Beast Claws
 
 <<items/183/description>>
-[Ingredient] Material dropped by Doll monsters.
+[Ingredient] Material dropped by Doll Demons.
 
 <<items/183/name>>
 Delicate Gear
 
 <<items/184/description>>
-[Ingredient] Material dropped by Chimera monsters.
+[Ingredient] Material dropped by Chimera Demons.
 
 <<items/184/name>>
 Cell Culture
 
 <<items/185/description>>
-[Ingredient] Material dropped by Ghost monsters.
+[Ingredient] Material dropped by Ghost Demons.
 
 <<items/185/name>>
 Ghost Hair
 
 <<items/186/description>>
-[Ingredient] Material dropped by Zombie monsters.
+[Ingredient] Material dropped by Zombie Demons.
 
 <<items/186/name>>
 Zombie Powder
 
 <<items/187/description>>
-[Ingredient] Material dropped by Elf monsters.
+[Ingredient] Material dropped by Elf Demons.
 
 <<items/187/name>>
 Gem of Solidified Tears
 
 <<items/188/description>>
-[Ingredient] Material dropped by Fairy monsters.
+[Ingredient] Material dropped by Fairy Demons.
 
 <<items/188/name>>
 Fairy Acorn
 
 <<items/189/description>>
-[Ingredient] Material dropped by Minotaur monsters.
+[Ingredient] Material dropped by Minotaur Demons.
 
 <<items/189/name>>
 Bull Horn
 
 <<items/190/description>>
-[Ingredient] Material dropped by Scylla monsters.
+[Ingredient] Material dropped by Scylla Demons.
 
 <<items/190/name>>
 Scylla Tentacle
 
 <<items/191/description>>
-[Ingredient] Material dropped by Alraune monsters.
+[Ingredient] Material dropped by Alraune Demons.
 
 <<items/191/name>>
 Cactus Thorn
 
 <<items/192/description>>
-[Ingredient] Material dropped by Harpy monsters.
+[Ingredient] Material dropped by Harpy Demons.
 
 <<items/192/name>>
 Mysterious Feather
 
 <<items/193/description>>
-[Ingredient] Material dropped by Lamia monsters.
+[Ingredient] Material dropped by Lamia Demons.
 
 <<items/193/name>>
 Charming Snake Tail
 
 <<items/194/description>>
-[Ingredient] Material dropped by Land Dweller monsters.
+[Ingredient] Material dropped by Land Dweller Demons.
 
 <<items/194/name>>
 Sharp Fangs
 
 <<items/195/description>>
-[Ingredient] Material dropped by Homunculus monsters.
+[Ingredient] Material dropped by Homunculus Demons.
 
 <<items/195/name>>
 Magic Crystal
 
 <<items/196/description>>
-[Ingredient] Material dropped by Demi-Human monsters.
+[Ingredient] Material dropped by Demi-Human Demons.
 
 <<items/196/name>>
 Goblin Horn
 
 <<items/197/description>>
-[Ingredient] Material dropped by Dragon monsters.
+[Ingredient] Material dropped by Dragon Demons.
 
 <<items/197/name>>
 Dragon Scale
 
 <<items/198/description>>
-[Ingredient] Material dropped by Apoptosis monsters.
+[Ingredient] Material dropped by Apoptosis Demons.
 
 <<items/198/name>>
 Chaos Crystal
 
 <<items/199/description>>
-[Ingredient] Material dropped by Chimera monsters.
+[Ingredient] Material dropped by Chimera Demons.
 
 <<items/199/name>>
 Dogma Cell Culture
 
 <<items/200/description>>
-[Ingredient] Material dropped by Doll monsters.
+[Ingredient] Material dropped by Doll Demons.
 
 <<items/200/name>>
 Logical Gear
 
 <<items/201/description>>
-[Ingredient] Material dropped by Insect monsters.
+[Ingredient] Material dropped by Insect Demons.
 
 <<items/201/name>>
 Insect Cocoon
 
 <<items/202/description>>
-[Ingredient] Material dropped by Scylla monsters.
+[Ingredient] Material dropped by Scylla Demons.
 
 <<items/202/name>>
 Coiling Tentacle
 
 <<items/203/description>>
-[Ingredient] Material dropped by Demi-Human monsters.
+[Ingredient] Material dropped by Demi-Human Demons.
 
 <<items/203/name>>
 Paper Doll
 
 <<items/204/description>>
-[Ingredient] Material dropped by Mermaid monsters.
+[Ingredient] Material dropped by Mermaid Demons.
 
 <<items/204/name>>
 Mermaid Scale
 
 <<items/205/description>>
-[Ingredient] Material dropped by Alraune monsters.
+[Ingredient] Material dropped by Alraune Demons.
 
 <<items/205/name>>
 Alraune Flower
 
 <<items/206/description>>
-[Ingredient] Material dropped by Nekomata monsters.
+[Ingredient] Material dropped by Nekomata Demons.
 
 <<items/206/name>>
 Cat Whiskers
 
 <<items/207/description>>
-[Ingredient] Material dropped by Insect monsters.
+[Ingredient] Material dropped by Insect Demons.
 
 <<items/207/name>>
 Magical Scales
 
 <<items/208/description>>
-[Ingredient] Material dropped by magical monsters.
+[Ingredient] Material dropped by magical Demons.
 
 <<items/208/name>>
 Magical Extract
 
 <<items/209/description>>
-[Ingredient] Material dropped by Kitsune monsters.
+[Ingredient] Material dropped by Kitsune Demons.
 
 <<items/209/name>>
 Puffy Tail
 
 <<items/210/description>>
-[Ingredient] Material dropped by Demi-Human monsters.
+[Ingredient] Material dropped by Demi-Human Demons.
 
 <<items/210/name>>
 Goblin Hair
 
 <<items/211/description>>
-[Ingredient] Material dropped by Lamia monsters.
+[Ingredient] Material dropped by Lamia Demons.
 
 <<items/211/name>>
 Satanic Snake Tail
 
 <<items/212/description>>
-[Ingredient] Material dropped by Demi-Human monsters.
+[Ingredient] Material dropped by Demi-Human Demons.
 
 <<items/212/name>>
 Kappa Plate
 
 <<items/213/description>>
-[Ingredient] Material dropped by Minotaur monsters.
+[Ingredient] Material dropped by Minotaur Demons.
 
 <<items/213/name>>
 Bull Hoof
 
 <<items/214/description>>
-[Ingredient] Material dropped by Insect monsters.
+[Ingredient] Material dropped by Insect Demons.
 
 <<items/214/name>>
 Demon Insect Wing
 
 <<items/215/description>>
-[Ingredient] Material dropped by Demi-Human monsters.
+[Ingredient] Material dropped by Demi-Human Demons.
 
 <<items/215/name>>
 Oni Horn
 
 <<items/216/description>>
-[Ingredient] Material dropped by Alraune monsters.
+[Ingredient] Material dropped by Alraune Demons.
 
 <<items/216/name>>
 Strange Leaf
 
 <<items/217/description>>
-[Ingredient] Material dropped by Insect monsters.
+[Ingredient] Material dropped by Insect Demons.
 
 <<items/217/name>>
 Poisonous Needle
 
 <<items/218/description>>
-[Ingredient] Material dropped by Slime monsters.
+[Ingredient] Material dropped by Slime Demons.
 
 <<items/218/name>>
 Goopy Jelly
 
 <<items/219/description>>
-[Ingredient] Material dropped by Doll monsters.
+[Ingredient] Material dropped by Doll Demons.
 
 <<items/219/name>>
 Magical Gear
 
 <<items/220/description>>
-[Ingredient] Material dropped by Medusa monsters.
+[Ingredient] Material dropped by Medusa Demons.
 
 <<items/220/name>>
 Medusa Snake
 
 <<items/221/description>>
-[Ingredient] Material dropped by Zombie monsters.
+[Ingredient] Material dropped by Zombie Demons.
 
 <<items/221/name>>
 Necrosis Powder
 
 <<items/222/description>>
-[Ingredient] Material dropped by Succubus monsters.
+[Ingredient] Material dropped by Succubus Demons.
 
 <<items/222/name>>
 Bewitching Tail
 
 <<items/223/description>>
-[Ingredient] Material dropped by Dragon monsters.
+[Ingredient] Material dropped by Dragon Demons.
 
 <<items/223/name>>
 Dragon Fang
 
 <<items/224/description>>
-[Ingredient] Material dropped by Vampire monsters.
+[Ingredient] Material dropped by Vampire Demons.
 
 <<items/224/name>>
 Pitch Black Fragment
 
 <<items/225/description>>
-[Ingredient] Material dropped by Chimera monsters.
+[Ingredient] Material dropped by Chimera Demons.
 
 <<items/225/name>>
 Iris Cell Culture
@@ -43799,7 +43799,7 @@ Ominous Crystal
 ***ダミー
 
 <<items/273/description>>
-[Ingredient] Material dropped by Ghost monsters.
+[Ingredient] Material dropped by Ghost Demons.
 
 <<items/273/name>>
 Otherworldly Hair
@@ -44673,7 +44673,7 @@ Cicada Shell
 Fish Bone
 
 <<items/443/description>>
-[Other] A strong poison toadstool effective on even the strongest monsters.  It makes you laugh for a long while, but isn't fatal.
+[Other] A strong poison toadstool effective on even the strongest Demons.  It makes you laugh for a long while, but isn't fatal.
 
 <<items/443/name>>
 Poison Mushroom
@@ -45222,14 +45222,14 @@ Twin Cannon
 
 <<items/704/description>>
 [Makina] Anchor firing Makina that is really
-effective against sea monsters
+effective against Sea Demons
 
 <<items/704/name>>
 Ocean Anchor
 
 <<items/705/description>>
 [Makina] Makina that fires effective
-anti-aircraft missiles at flying monsters
+anti-aircraft missiles at flying Demons
 
 <<items/705/name>>
 Burst Stinger
@@ -47967,7 +47967,7 @@ Blood Sword
 
 <<weapons/94/description>>
 [Knight Sword] Sword made in Sabasa with the power to slay dragons.
-Deals heavy damage to dragon type monsters
+Deals heavy damage to dragon type Demons
 
 <<weapons/94/name>>
 Dragon Killer
@@ -47983,7 +47983,7 @@ Crystal Sword
 
 <<weapons/96/description>>
 [Knight Sword] Custom Dragon Killer coated with dragon scales.
-Deals heavy damage to dragon type monsters
+Deals heavy damage to dragon type Demons
 
 <<weapons/96/name>>
 Dragon Killer+
@@ -48966,7 +48966,7 @@ Crystal Claws
 ***ダミー
 
 <<weapons/309/description>>
-[Fist] Sturdy and sharp wrist gloves resembling monster claws.
+[Fist] Sturdy and sharp wrist gloves resembling Demon claws.
 
 <<weapons/309/name>>
 Beast Claws
@@ -50466,7 +50466,7 @@ Gale Bow+
 
 <<weapons/563/description>>
 [Bow] Bow specially designed to take down birds
-Deals heavy damage to bird type monsters
+Deals heavy damage to bird type Demons
 
 <<weapons/563/name>>
 Aevis Killer
@@ -50478,7 +50478,7 @@ Aevis Killer
 
 <<weapons/564/description>>
 [Bow] Custom Avis Killer with chimerical cells embedded in it
-Deals heavy damage to chimerical monsters
+Deals heavy damage to chimerical Demons
 
 <<weapons/564/name>>
 Dogma Killer
@@ -50638,7 +50638,7 @@ Gold Whip
 
 <<weapons/594/description>>
 [Whip] Special whip that hits beasts really hard with fluid strikes
-Deals heavy damage to beast type monsters
+Deals heavy damage to beast type Demons
 
 <<weapons/594/name>>
 Beast Killer
@@ -50650,7 +50650,7 @@ Beast Killer
 
 <<weapons/595/description>>
 [Whip] Remodeled Beast Killer imbued with the power of \*\it[26]
-Deals heavy damage to beast type monsters and normal attacks may cause \*\it[26] status
+Deals heavy damage to beast type Demons and normal attacks may cause \*\it[26] status
 
 <<weapons/595/name>>
 Beast Lover
@@ -50660,7 +50660,7 @@ Beast Lover
 <二刀流不可>
 
 <<weapons/596/description>>
-[Whip] Strange whip constructed from monster tentacles
+[Whip] Strange whip constructed from Demon tentacles
 
 <<weapons/596/name>>
 Tentacle Whip
@@ -50825,7 +50825,7 @@ Gold Harp
 
 <<weapons/626/description>>
 [Harp] Custom Gold Harp imbued with the power of the forest
-Deals heavy damage to Elf monsters
+Deals heavy damage to Elf Demons
 
 <<weapons/626/name>>
 Elf Harp
@@ -50890,7 +50890,7 @@ Miracle Harp
 
 <<weapons/632/description>>
 [Harp] Custom Mythril Harp imbued with the power of a magical beast
-Deals heavy damage to beast type monsters
+Deals heavy damage to beast type Demons
 
 <<weapons/632/name>>
 Beast Harp
@@ -59482,7 +59482,7 @@ Large Bandit Bracelet
 ***ダミー
 
 <<armors/1703/description>>
-[Accessory] Recruit enemy monsters 150% as often.
+[Accessory] Recruit enemies 150% as often.
 
 <<armors/1703/name>>
 Invitation Ticket
@@ -59492,7 +59492,7 @@ Invitation Ticket
 <特殊売却:非売品ですが、本当に売却しますか？>
 
 <<armors/1704/description>>
-[Accessory] Doubles the chance of recruiting enemy monsters
+[Accessory] Doubles the chance of recruiting enemies
 
 <<armors/1704/name>>
 Charm Ticket

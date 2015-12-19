@@ -836,9 +836,15 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                   * Updated UCO Midas Choices
 
 *Developer Build*
-12-10-2015	Update to DialoguesEnglish.rvtext:
-EX 0.5p		  Full Cleanup Of Maps
+12-19-2015	Update to DatabaseTextEnglish.rvtext:
+EX 0.5p		  * Corrected Some Names And Descriptions
+                Update to DialoguesEnglish.rvtext:
+                  Full Cleanup Of Maps
                     * 459 - Mitra Sealed Castle
                     * 460 - Between The Seal
                   Cleanup Of Common Events
                     * CE 0309 - Mitra Dialogue
+                    * Request Scenes
+                      4106, 4107, and 4108
+                    * Description
+                      Mandragora
