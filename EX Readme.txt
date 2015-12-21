@@ -844,7 +844,11 @@ EX 0.5p		  * Corrected Some Names And Descriptions
                     * 460 - Between The Seal
                   Cleanup Of Common Events
                     * CE 0309 - Mitra Dialogue
+                    * Talk Scenes
+                      1074
+                    - Description
+                      Brunhilde
                     * Request Scenes
                       4021, 4106, 4107, and 4108
-                    * Description
+                    - Description
                       Ilias and Mandragora
