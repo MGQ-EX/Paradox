@@ -845,10 +845,10 @@ EX 0.5p		  * Corrected Some Names And Descriptions
                   Cleanup Of Common Events
                     * CE 0309 - Mitra Dialogue
                     * Talk Scenes
-                      1074
+                      1074 And 1083
                     - Description
-                      Brunhilde
+                      Brunhilde And Chrome
                     * Request Scenes
-                      4021, 4106, 4107, and 4108
+                      4021, 4106, 4107, And 4108
                     - Description
-                      Ilias and Mandragora
+                      Ilias And Mandragora
