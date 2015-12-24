@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5o.rar 15.8 MB
+  # Current Version MGQ Paradox Translation EX 0.5p.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -831,3 +831,22 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
 		    * Milk Common Events 151 & 152 Provided By Casian Sarpe Socaci
                 Update to ScriptTextEnglish.rvtext:
                   * Updated UCO Midas Choices
+
+12-24-2015	Happy Holidays
+EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
+                Update to DatabaseTextEnglish.rvtext:
+                  * Corrected Some Names And Descriptions
+                Update to DialoguesEnglish.rvtext:
+                  Full Cleanup Of Maps
+                    * 459 - Mitra Sealed Castle
+                    * 460 - Between The Seal
+                  Cleanup Of Common Events
+                    * CE 0309 - Mitra Dialogue
+                    * Talk Scenes
+                      1074 And 1083
+                    - Description
+                      Brunhilde And Chrome
+                    * Request Scenes
+                      4021, 4106, 4107, And 4108
+                    - Description
+                      Ilias And Mandragora
