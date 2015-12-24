@@ -835,9 +835,10 @@ EX 0.5o		  * Changed Bonus Features On Map 228, Added "Change Current Display Se
                 Update to ScriptTextEnglish.rvtext:
                   * Updated UCO Midas Choices
 
-*Developer Build*
-12-19-2015	Update to DatabaseTextEnglish.rvtext:
-EX 0.5p		  * Corrected Some Names And Descriptions
+12-24-2015	Happy Holidays
+EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
+                Update to DatabaseTextEnglish.rvtext:
+                  * Corrected Some Names And Descriptions
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
                     * 459 - Mitra Sealed Castle
@@ -852,3 +853,4 @@ EX 0.5p		  * Corrected Some Names And Descriptions
                       4021, 4106, 4107, And 4108
                     - Description
                       Ilias And Mandragora
+
