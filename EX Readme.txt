@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5o.rar 15.8 MB
+  # Current Version MGQ Paradox Translation EX 0.5p.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
