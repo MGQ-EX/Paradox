@@ -854,3 +854,14 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                     - Description
                       Ilias And Mandragora
 
+*Developers Build*
+12-30-2015	Update to DatabaseTextEnglish.rvtext:
+EX 0.5q           * Changed Some Names And Descriptions
+                Update to ScriptTextEnglish.rvtext
+                  * Changed Some Names And Descriptions
+                Update to DialoguesEnglish.rvtext:
+                  Full Cleanup Of Common Events
+                    * Lose Scenes
+                      3037 - Riot
+                    * Request Scenes
+                      4256 - Riot
