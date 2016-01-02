@@ -12,6 +12,7 @@ http://pastebin.com/k9MNPZsb
 	# About MGQ Paradox Translation EX
 	# Grandork MGQ Paradox Guides & Walkthrough
 	# High Res World Map 1.21 With Warp Points
+	# MGQ-EX Developer's Blog
 	# Git Repository
 	# Bug Reporting & Tracking
 	# USING MGQ Paradox Translation EX
@@ -39,6 +40,8 @@ Project Envisioned To Help In The Fan Translation Of MGQ Paradox.
 
 Official Game: Monster Girl Quest Paradox [Part One]
 English DLSite link: http://www.dlsite.com/ecchi-eng/work/=/product_id/RE150726.html
+
+MGQ-EX Developer's Blog: http://mgq-ex.blogspot.com
 
 Does Not Overlap With: Dargoth's Patch
 English Site link: http://dargothtranslations.wordpress.com/
@@ -69,6 +72,12 @@ http://depositfiles.com/files/n832tclad
 
 Note: 1/1 Would Be Preferred, SnagIt Produces A Blank Image When Attempted...
       Low Res Version Was Used For The Areas Yet Completed.
+
+  #---------------------------------------------------------------------------
+  # MGQ-EX Developer's Blog
+  #---------------------------------------------------------------------------
+
+http://mgq-ex.blogspot.com
 
   #---------------------------------------------------------------------------
   # Git Repository
@@ -855,7 +864,7 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       Ilias And Mandragora
 
 *Developers Build*
-12-30-2015	Update to DatabaseTextEnglish.rvtext:
+01-01-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
@@ -864,4 +873,4 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * Lose Scenes
                       3037 - Riot
                     * Request Scenes
-                      4256 - Riot
+                      4256, 4257 - Riot
