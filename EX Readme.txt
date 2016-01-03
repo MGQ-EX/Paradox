@@ -872,6 +872,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                   Full Cleanup Of Maps
                     * 289 - Irina Mountains North Cave 1F
                     * 290 - Irina Mountains North Cave B1F
+                    * 575 - Bandits Scolded
                   Full Cleanup Of Common Events
                     * Lose Scenes
                       3037 - Riot
