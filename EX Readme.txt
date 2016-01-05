@@ -864,12 +864,13 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       Ilias And Mandragora
 
 *Developers Build*
-01-03-2016	Update to DatabaseTextEnglish.rvtext:
+01-05-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
+                    * 125 - Lost Woods
                     * 289 - Irina Mountains North Cave 1F
                     * 290 - Irina Mountains North Cave B1F
                     * 575 - Bandits Scolded
