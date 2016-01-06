@@ -871,6 +871,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
                     * 125 - Lost Woods
+                    * 127 - Remuzu Coast
                     * 289 - Irina Mountains North Cave 1F
                     * 290 - Irina Mountains North Cave B1F
                     * 575 - Bandits Scolded
