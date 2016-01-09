@@ -864,7 +864,7 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       Ilias And Mandragora
 
 *Developers Build*
-01-07-2016	Update to DatabaseTextEnglish.rvtext:
+01-09-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
@@ -873,6 +873,8 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * 125 - Lost Woods
                     * 127 - Remuzu Coast
                     * 215 - Tartarus I299387 1L
+                    * 218 - Tartarus I299387 2L
+                    * 462 - Tartarus I299387 3L
                     * 289 - Irina Mountains North Cave 1F
                     * 290 - Irina Mountains North Cave B1F
                     * 575 - Bandits Scolded
