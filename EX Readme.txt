@@ -864,7 +864,7 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       Ilias And Mandragora
 
 *Developers Build*
-01-09-2016	Update to DatabaseTextEnglish.rvtext:
+01-10-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
@@ -877,6 +877,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * 462 - Tartarus I299387 3L
                     * 463 - Tartarus I299387 Indoors
                     * 255 - Corridor of Chaos
+                    * 256 - Ilias Continent South Tartarus
                     * 289 - Irina Mountains North Cave 1F
                     * 290 - Irina Mountains North Cave B1F
                     * 575 - Bandits Scolded
