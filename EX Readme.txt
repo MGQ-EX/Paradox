@@ -875,6 +875,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * 215 - Tartarus I299387 1L
                     * 218 - Tartarus I299387 2L
                     * 462 - Tartarus I299387 3L
+                    * 463 - Tartarus I299387 Indoors
                     * 289 - Irina Mountains North Cave 1F
                     * 290 - Irina Mountains North Cave B1F
                     * 575 - Bandits Scolded
