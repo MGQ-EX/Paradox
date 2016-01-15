@@ -883,6 +883,8 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * 289 - Irina Mountains North Cave 1F
                     * 290 - Irina Mountains North Cave B1F
                     * 575 - Bandits Scolded
+                  Small Correction To
+                    * 052 - Pornof Indoors
                   Full Cleanup Of Common Events
                     * Lose Scenes
                       3037 - Riot
