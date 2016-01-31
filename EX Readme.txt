@@ -864,12 +864,13 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       Ilias And Mandragora
 
 *Developers Build*
-01-12-2016	Update to DatabaseTextEnglish.rvtext:
+01-30-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
+                    * 006 - Iliasville Indoors
                     * 125 - Lost Woods
                     * 127 - Remuzu Coast
                     * 215 - Tartarus I299387 1L
@@ -890,3 +891,5 @@ EX 0.5q           * Changed Some Names And Descriptions
                       3037 - Riot
                     * Request Scenes
                       4256, 4257 - Riot
+                  Backend Items Affected
+                    * Added Error Correction To Scripts In Rare Event Actors Won't Initialize
