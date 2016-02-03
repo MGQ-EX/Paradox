@@ -864,10 +864,11 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       Ilias And Mandragora
 
 *Developers Build*
-01-30-2016	Update to DatabaseTextEnglish.rvtext:
+02-02-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
+                  * Added Name Boxes To Combat Dialogue
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
                     * 006 - Iliasville Indoors
@@ -893,3 +894,4 @@ EX 0.5q           * Changed Some Names And Descriptions
                       4256, 4257 - Riot
                   Backend Items Affected
                     * Added Error Correction To Scripts In Rare Event Actors Won't Initialize
+                    * Handled Some Entry Codes Not Being Processed
