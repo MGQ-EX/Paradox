@@ -864,7 +864,7 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       Ilias And Mandragora
 
 *Developers Build*
-02-02-2016	Update to DatabaseTextEnglish.rvtext:
+02-04-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
@@ -872,6 +872,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
                     * 006 - Iliasville Indoors
+                    * 007 - Iliasville
                     * 125 - Lost Woods
                     * 127 - Remuzu Coast
                     * 215 - Tartarus I299387 1L
