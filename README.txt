@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5p.rar 15.8 MB
+  # Current Version MGQ Paradox Translation EX 0.5q.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -859,3 +859,37 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                       4021, 4106, 4107, And 4108
                     - Description
                       Ilias And Mandragora
+
+02-05-2016	Update to DatabaseTextEnglish.rvtext:
+EX 0.5q           * Changed Some Names And Descriptions
+                Update to ScriptTextEnglish.rvtext
+                  * Changed Some Names And Descriptions
+                  * Added Name Boxes To Combat Dialogue
+                Update to DialoguesEnglish.rvtext:
+                  Full Cleanup Of Maps
+                    * 003 - Secret Tent
+                    * 006 - Iliasville Indoors
+                    * 007 - Iliasville
+                    * 125 - Lost Woods
+                    * 127 - Remuzu Coast
+                    * 215 - Tartarus I299387 1L
+                    * 218 - Tartarus I299387 2L
+                    * 462 - Tartarus I299387 3L
+                    * 463 - Tartarus I299387 Indoors
+                    * 255 - Corridor of Chaos
+                    * 256 - Ilias Continent South Tartarus
+                    * 196 - Another World 1 (Ruined World)
+                    * 461 - Iliasville
+                    * 289 - Irina Mountains North Cave 1F
+                    * 290 - Irina Mountains North Cave B1F
+                    * 575 - Bandits Scolded
+                  Small Correction To
+                    * 052 - Pornof Indoors
+                  Full Cleanup Of Common Events
+                    * Lose Scenes
+                      3037 - Riot
+                    * Request Scenes
+                      4256, 4257 - Riot
+                  Backend Items Affected
+                    * Added Error Correction To Scripts In Rare Event Actors Won't Initialize
+                    * Handled Some Entry Codes Not Being Processed

@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5p.rar 15.8 MB
+  # Current Version MGQ Paradox Translation EX 0.5q.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -863,14 +863,14 @@ EX 0.5p		  * A Small Present That Hopefully Some Will Enjoy
                     - Description
                       Ilias And Mandragora
 
-*Developers Build*
-02-04-2016	Update to DatabaseTextEnglish.rvtext:
+02-05-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5q           * Changed Some Names And Descriptions
                 Update to ScriptTextEnglish.rvtext
                   * Changed Some Names And Descriptions
                   * Added Name Boxes To Combat Dialogue
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
+                    * 003 - Secret Tent
                     * 006 - Iliasville Indoors
                     * 007 - Iliasville
                     * 125 - Lost Woods
