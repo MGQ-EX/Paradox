@@ -896,3 +896,8 @@ EX 0.5q           * Changed Some Names And Descriptions
                   Backend Items Affected
                     * Added Error Correction To Scripts In Rare Event Actors Won't Initialize
                     * Handled Some Entry Codes Not Being Processed
+
+*Developer's Build*
+02-08-2016	Update to DialoguesEnglish.rvtext:
+EX 0.5r           Full Cleanup Of Maps
+                    * 012 - Iliasville Mountains
