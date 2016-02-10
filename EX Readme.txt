@@ -898,6 +898,11 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * Handled Some Entry Codes Not Being Processed
 
 *Developer's Build*
-02-08-2016	Update to DialoguesEnglish.rvtext:
+02-09-2016	Update to DialoguesEnglish.rvtext:
 EX 0.5r           Full Cleanup Of Maps
                     * 012 - Iliasville Mountains
+                    * 123 - Talus Hill
+                    * 234 - Pornof Mine 1F
+                    * 265 - Pornof Mine B2F
+                    * 257 - Rustorumu Mountain Cave
+                    * 264 - Rustorumu Mountain Cave 1F
