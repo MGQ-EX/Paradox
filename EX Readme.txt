@@ -898,7 +898,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * Handled Some Entry Codes Not Being Processed
 
 *Developer's Build*
-02-09-2016	Update to DialoguesEnglish.rvtext:
+02-11-2016	Update to DialoguesEnglish.rvtext:
 EX 0.5r           Full Cleanup Of Maps
                     * 012 - Iliasville Mountains
                     * 123 - Talus Hill
@@ -906,3 +906,9 @@ EX 0.5r           Full Cleanup Of Maps
                     * 265 - Pornof Mine B2F
                     * 257 - Rustorumu Mountain Cave
                     * 264 - Rustorumu Mountain Cave 1F
+                    * 057 - Rustorumu
+                    * 058 - Rustorumu Indoors
+                    * 253 - Ilias Cont. East Tartarus
+                    * 418 - Tartarus I372367 1L
+                    * 419 - Tartarus I372367 2L
+                    * 464 - Tartarus I372367 3L
