@@ -898,8 +898,12 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * Handled Some Entry Codes Not Being Processed
 
 *Developer's Build*
-02-11-2016	Update to DialoguesEnglish.rvtext:
-EX 0.5r           Full Cleanup Of Maps
+02-12-2016	Update to DatabaseTextEnglish.rvtext:
+EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
+                Update to ScriptTextEnglish.rvtext
+                  * Corrected Enemy Names, Nagael & Ranael
+                Update to DialoguesEnglish.rvtext:
+                  Full Cleanup Of Maps
                     * 012 - Iliasville Mountains
                     * 123 - Talus Hill
                     * 234 - Pornof Mine 1F
@@ -912,3 +916,6 @@ EX 0.5r           Full Cleanup Of Maps
                     * 418 - Tartarus I372367 1L
                     * 419 - Tartarus I372367 2L
                     * 464 - Tartarus I372367 3L
+                    * 465 - Tartarus I372367 Indoors
+                    * 420 - Corridor of Chaos
+                    * 421 - Ilias Cont. East Tartarus

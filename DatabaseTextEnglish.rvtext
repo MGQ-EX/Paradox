@@ -44798,7 +44798,7 @@ Marcellus’ Letter
 [Key Item] Rare shells with a variety of medicinal uses
 
 <<items/511/name>>
-Healing shells
+Healing Shells
 
 <<items/512/description>>
 [Key Item] Antibiotics created from Elven medical techniques.
@@ -62830,7 +62830,7 @@ Shinigami
 <戦闘回想不可>
 
 <<enemies/146/name>>
-Archangel Ranael
+Ranael
 
 <<enemies/146/note>>
 <職業Exp 15>
@@ -62841,7 +62841,7 @@ Archangel Ranael
 <戦闘回想不可>
 
 <<enemies/147/name>>
-Principality Nagael
+Nagael
 
 <<enemies/147/note>>
 <職業Exp 15>
