@@ -921,3 +921,4 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 421 - Ilias Cont. East Tartarus
                     * 195 - Another World 2 (Decades Ago)
                     * 310 - Rustorumu
+                    * 311 - Rustorumu Indoors
