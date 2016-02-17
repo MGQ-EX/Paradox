@@ -898,7 +898,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * Handled Some Entry Codes Not Being Processed
 
 *Developer's Build*
-02-14-2016	Update to DatabaseTextEnglish.rvtext:
+02-17-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                 Update to ScriptTextEnglish.rvtext
                   * Corrected Enemy Names, Nagael & Ranael
@@ -922,3 +922,6 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 195 - Another World 2 (Decades Ago)
                     * 310 - Rustorumu
                     * 311 - Rustorumu Indoors
+                    * 086 - Harpy Tower 1F
+                    * 087 - Harpy Tower 2F
+                    * 088 - Harpy Tower 3F
