@@ -898,7 +898,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * Handled Some Entry Codes Not Being Processed
 
 *Developer's Build*
-02-17-2016	Update to DatabaseTextEnglish.rvtext:
+02-18-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                 Update to ScriptTextEnglish.rvtext
                   * Corrected Enemy Names, Nagael & Ranael
@@ -926,3 +926,5 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 087 - Harpy Tower 2F
                     * 088 - Harpy Tower 3F
                     * 212 - Harpies Event
+                    * 288 - Midas Abandoned Mine B1F
+                    * 100 - Slugs Tower 3F
