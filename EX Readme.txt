@@ -925,3 +925,4 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 086 - Harpy Tower 1F
                     * 087 - Harpy Tower 2F
                     * 088 - Harpy Tower 3F
+                    * 212 - Harpies Event
