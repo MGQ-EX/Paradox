@@ -932,3 +932,4 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 070 - Cave of Treasures B1F
                     * 587 - Ship To Sentora Continent
                     * 626 - Enrika
+                    * 628 - Pocket Castle
