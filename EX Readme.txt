@@ -898,7 +898,7 @@ EX 0.5q           * Changed Some Names And Descriptions
                     * Handled Some Entry Codes Not Being Processed
 
 *Developer's Build*
-02-22-2016	Update to DatabaseTextEnglish.rvtext:
+02-24-2016	Update to DatabaseTextEnglish.rvtext:
 EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                 Update to ScriptTextEnglish.rvtext
                   * Corrected Enemy Names, Nagael & Ranael
@@ -934,3 +934,4 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 626 - Enrika
                     * 628 - Pocket Castle
                     * 139 - Ilias Port
+                    * 406 - Camp 1
