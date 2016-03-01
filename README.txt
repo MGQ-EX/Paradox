@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5q.rar 15.8 MB
+  # Current Version MGQ Paradox Translation EX 0.5r.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -893,3 +893,43 @@ EX 0.5q           * Changed Some Names And Descriptions
                   Backend Items Affected
                     * Added Error Correction To Scripts In Rare Event Actors Won't Initialize
                     * Handled Some Entry Codes Not Being Processed
+
+02-29-2016	Update to DatabaseTextEnglish.rvtext:
+EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
+                Update to ScriptTextEnglish.rvtext
+                  * Corrected Enemy Names, Nagael & Ranael
+                Update to DialoguesEnglish.rvtext:
+                  Full Cleanup Of Maps
+                    * 012 - Iliasville Mountains
+                    * 123 - Talus Hill
+                    * 234 - Pornof Mine 1F
+                    * 265 - Pornof Mine B2F
+                    * 257 - Rustorumu Mountain Cave
+                    * 264 - Rustorumu Mountain Cave 1F
+                    * 057 - Rustorumu
+                    * 058 - Rustorumu Indoors
+                    * 253 - Ilias Cont. East Tartarus
+                    * 418 - Tartarus I372367 1L
+                    * 419 - Tartarus I372367 2L
+                    * 464 - Tartarus I372367 3L
+                    * 465 - Tartarus I372367 Indoors
+                    * 420 - Corridor of Chaos
+                    * 421 - Ilias Cont. East Tartarus
+                    * 195 - Another World 2 (Decades Ago)
+                    * 310 - Rustorumu
+                    * 311 - Rustorumu Indoors
+                    * 086 - Harpy Tower 1F
+                    * 087 - Harpy Tower 2F
+                    * 088 - Harpy Tower 3F
+                    * 212 - Harpies Event
+                    * 288 - Midas Abandoned Mine B1F
+                    * 100 - Slugs Tower 3F
+                    * 069 - Cave of Treasures 1F
+                    * 070 - Cave of Treasures B1F
+                    * 587 - Ship To Sentora Continent
+                    * 626 - Enrika
+                    * 628 - Pocket Castle
+                    * 139 - Ilias Port
+                    * 406 - Camp 1
+                    * 574 - Sonya Mountains Behind Event
+                    * 523 - Camp 2
