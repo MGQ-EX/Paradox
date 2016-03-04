@@ -936,3 +936,10 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 406 - Camp 1
                     * 574 - Sonya Mountains Behind Event
                     * 523 - Camp 2
+
+*Developer's Build*
+03-04-2016	Update to ScriptTextEnglish.rvtext
+EX 0.5s           * Updated Ward Dialogue
+                Update to DialoguesEnglish.rvtext:
+                  Full Cleanup Of Maps
+                    * 029 - Iliasburg
