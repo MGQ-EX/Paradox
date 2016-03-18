@@ -938,9 +938,10 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 523 - Camp 2
 
 *Developer's Build*
-03-12-2016	Update to ScriptTextEnglish.rvtext
+03-18-2016	Update to ScriptTextEnglish.rvtext
 EX 0.5s           * Updated Warp Dialogue
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
                     * 029 - Iliasburg
                     * 030 - Iliasburg Indoors
+                    * 141 - Port Natalia
