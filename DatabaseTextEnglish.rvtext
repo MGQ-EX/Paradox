@@ -6828,7 +6828,7 @@ Dancer
 ***ダミー
 
 <<classes/95/name>>
-Minstrel
+Bard
 
 <<classes/95/note>>
 <要求経験職 92-10>
@@ -44816,13 +44816,13 @@ Poseidon’s Bell
 
 <<items/514/description>>
 [Key Item] A crystal received from a Mermaid.
-Creates a safe passage to the Deepsea Temple.
+Creates a safe passage to the Undersea Temple.
 
 <<items/514/name>>
 Guidance Ball
 
 <<items/515/description>>
-[Key Item] The debilitated Queen Krakken
+[Key Item] The dehydrated Queen Kraken
 Try not to mix her with the other Squid
 
 <<items/515/name>>
@@ -55298,13 +55298,13 @@ Doctor Recipe
 ***ダミー
 
 <<armors/1142/description>>
-[Accessory] You gain double benefit when healing Items/Effects are used on you.
+[Accessory] Doubles the Effect of Recovery Magic cast on you.
 
 <<armors/1142/name>>
 Spring Water
 
 <<armors/1143/description>>
-[Accessory] Triples the effect of recovery magic cast on you
+[Accessory] Triples the Effect of Recovery Magic cast on you.
 
 <<armors/1143/name>>
 Cleansing Water

@@ -1,5 +1,5 @@
   #---------------------------------------------------------------------------
-  # Current Version MGQ Paradox Translation EX 0.5r.rar 15.8 MB
+  # Current Version MGQ Paradox Translation EX 0.5s.rar 15.8 MB
   # Links
   #---------------------------------------------------------------------------
 
@@ -937,11 +937,13 @@ EX 0.5r           * Corrected Enemy Names, Nagael & Ranael
                     * 574 - Sonya Mountains Behind Event
                     * 523 - Camp 2
 
-*Developer's Build*
-03-18-2016	Update to ScriptTextEnglish.rvtext
+04-02-2016	Update to ScriptTextEnglish.rvtext
 EX 0.5s           * Updated Warp Dialogue
+                Update to DatabaseTextEnglish.rvtext:
+                    * Fixed Typo
                 Update to DialoguesEnglish.rvtext:
                   Full Cleanup Of Maps
                     * 029 - Iliasburg
                     * 030 - Iliasburg Indoors
                     * 141 - Port Natalia
+                    * 142 - Port Natalia Indoors
